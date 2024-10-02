@@ -1,0 +1,5417 @@
+{
+    "s": 1,
+    "d": {
+      "total": 167,
+      "onePage": 50,
+      "page": 1,
+      "rows": [
+        {
+          "id": 6239237,
+          "url": "/rugby-league/england/super-league-2022/st-helens-leeds-rhinos-0zsLWJlC/",
+          "is-double": false,
+          "home": 16632441,
+          "away": 16632442,
+          "home-name": "St Helens",
+          "away-name": "Leeds",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109834,
+          "tournament-stage-type-id": 11,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": " - Play Offs",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/O832d7m9-rDATBMS5.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/lvG5p3AK-QHmhyON6.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "0zsLWJlC",
+          "colClassName": "datet t1664038800-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1664038800,
+          "date-start-timestamp": 1664038800,
+          "result": "24:12",
+          "homeResult": "24",
+          "awayResult": "12",
+          "home-winner": "win",
+          "away-winner": "lost",
+          "info": null,
+          "partialresult": "12:6, 12:6",
+          "stream": null,
+          "bookmakersCount": 14,
+          "winner_post": 0,
+          "betting_type": 1,
+          "odds": [
+            {
+              "avgOdds": 1.36,
+              "bettingTypeId": 1,
+              "eventId": 6239237,
+              "maxOdds": 1.4,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "5ud05xv464x0xfrijp",
+              "maxOddsProviderId": 16,
+              "active": true
+            },
+            {
+              "avgOdds": 20.75,
+              "bettingTypeId": 1,
+              "eventId": 6239237,
+              "maxOdds": 27,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "5ud05xv498x0x0",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 3.25,
+              "bettingTypeId": 1,
+              "eventId": 6239237,
+              "maxOdds": 3.58,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "5ud05xv464x0xfrijq",
+              "maxOddsProviderId": 381,
+              "active": true
+            }
+          ],
+          "name": "St Helens - Leeds",
+          "colClassNameTime": "datet t1664038800-1-1-0-0"
+        },
+        {
+          "id": 6225386,
+          "url": "/rugby-league/england/super-league-2022/st-helens-salford-red-devils-2XfyOM8q/",
+          "is-double": false,
+          "home": 16589609,
+          "away": 16589610,
+          "home-name": "St Helens",
+          "away-name": "Salford",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109834,
+          "tournament-stage-type-id": 11,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": " - Play Offs",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/O832d7m9-rDATBMS5.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/0Yz6lD6n-6PGXorxA.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "2XfyOM8q",
+          "colClassName": "datet t1663416000-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1663416000,
+          "date-start-timestamp": 1663416000,
+          "result": "19:12",
+          "homeResult": "19",
+          "awayResult": "12",
+          "home-winner": "win",
+          "away-winner": "lost",
+          "info": null,
+          "partialresult": "13:6, 6:6",
+          "stream": null,
+          "bookmakersCount": 14,
+          "winner_post": 0,
+          "betting_type": 1,
+          "odds": [
+            {
+              "avgOdds": 1.34,
+              "bettingTypeId": 1,
+              "eventId": 6225386,
+              "maxOdds": 1.37,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "5tvfaxv464x0xfq8p9",
+              "maxOddsProviderId": 470,
+              "active": true
+            },
+            {
+              "avgOdds": 23.42,
+              "bettingTypeId": 1,
+              "eventId": 6225386,
+              "maxOdds": 30,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "5tvfaxv498x0x0",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 3.34,
+              "bettingTypeId": 1,
+              "eventId": 6225386,
+              "maxOdds": 3.6,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "5tvfaxv464x0xfq8pa",
+              "maxOddsProviderId": 381,
+              "active": true
+            }
+          ],
+          "name": "St Helens - Salford",
+          "colClassNameTime": "datet t1663416000-1-1-0-0"
+        },
+        {
+          "id": 6225387,
+          "url": "/rugby-league/england/super-league-2022/wigan-warriors-leeds-rhinos-GzauNtOk/",
+          "is-double": false,
+          "home": 16589611,
+          "away": 16589612,
+          "home-name": "Wigan",
+          "away-name": "Leeds",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109834,
+          "tournament-stage-type-id": 11,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": " - Play Offs",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/dS8WvS4n-WfK3GeJC.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/lvG5p3AK-QHmhyON6.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "GzauNtOk",
+          "colClassName": "datet t1663354800-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1663354800,
+          "date-start-timestamp": 1663354800,
+          "result": "8:20",
+          "homeResult": "8",
+          "awayResult": "20",
+          "home-winner": "lost",
+          "away-winner": "win",
+          "info": null,
+          "partialresult": "4:2, 4:18",
+          "stream": null,
+          "bookmakersCount": 14,
+          "betting_type": 1,
+          "winner_post": 2,
+          "odds": [
+            {
+              "avgOdds": 1.26,
+              "bettingTypeId": 1,
+              "eventId": 6225387,
+              "maxOdds": 1.31,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "5tvfbxv464x0xfq8pb",
+              "maxOddsProviderId": 417,
+              "active": true
+            },
+            {
+              "avgOdds": 26.54,
+              "bettingTypeId": 1,
+              "eventId": 6225387,
+              "maxOdds": 31,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "5tvfbxv498x0x0",
+              "maxOddsProviderId": 617,
+              "active": true
+            },
+            {
+              "avgOdds": 3.92,
+              "bettingTypeId": 1,
+              "eventId": 6225387,
+              "maxOdds": 4.3,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "5tvfbxv464x0xfq8pc",
+              "maxOddsProviderId": 3,
+              "active": true
+            }
+          ],
+          "name": "Wigan - Leeds",
+          "colClassNameTime": "datet t1663354800-1-1-0-0"
+        },
+        {
+          "id": 6211035,
+          "url": "/rugby-league/england/super-league-2022/huddersfield-salford-red-devils-x29j6Zxf/",
+          "is-double": false,
+          "home": 16548034,
+          "away": 16548035,
+          "home-name": "Huddersfield",
+          "away-name": "Salford",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109834,
+          "tournament-stage-type-id": 11,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": " - Play Offs",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/2JhN2lTE-42wMS2s3.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/0Yz6lD6n-6PGXorxA.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "x29j6Zxf",
+          "colClassName": "datet t1662811200-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1662811200,
+          "date-start-timestamp": 1662811200,
+          "result": "0:28",
+          "homeResult": "0",
+          "awayResult": "28",
+          "home-winner": "lost",
+          "away-winner": "win",
+          "info": null,
+          "partialresult": "0:16, 0:12",
+          "stream": [],
+          "bookmakersCount": 15,
+          "betting_type": 1,
+          "winner_post": 2,
+          "odds": [
+            {
+              "avgOdds": 1.77,
+              "bettingTypeId": 1,
+              "eventId": 6211035,
+              "maxOdds": 1.85,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "5therxv464x0xfp062",
+              "maxOddsProviderId": 550,
+              "active": true
+            },
+            {
+              "avgOdds": 20.85,
+              "bettingTypeId": 1,
+              "eventId": 6211035,
+              "maxOdds": 24,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "5therxv498x0x0",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 2.09,
+              "bettingTypeId": 1,
+              "eventId": 6211035,
+              "maxOdds": 2.27,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "5therxv464x0xfp063",
+              "maxOddsProviderId": 417,
+              "active": true
+            }
+          ],
+          "name": "Huddersfield - Salford",
+          "colClassNameTime": "datet t1662811200-1-1-0-0"
+        },
+        {
+          "id": 6211036,
+          "url": "/rugby-league/england/super-league-2022/catalans-dragons-leeds-rhinos-KQbe5gh0/",
+          "is-double": false,
+          "home": 16548036,
+          "away": 16548037,
+          "home-name": "Catalans Dragons",
+          "away-name": "Leeds",
+          "home-country-two-chart-name": "fr",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109834,
+          "tournament-stage-type-id": 11,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": " - Play Offs",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/pCVUxgQt-O8Pxd7sP.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/lvG5p3AK-QHmhyON6.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "KQbe5gh0",
+          "colClassName": "datet t1662750000-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1662750000,
+          "date-start-timestamp": 1662750000,
+          "result": "10:20",
+          "homeResult": "10",
+          "awayResult": "20",
+          "home-winner": "lost",
+          "away-winner": "win",
+          "info": null,
+          "partialresult": "4:12, 6:8",
+          "stream": null,
+          "bookmakersCount": 15,
+          "betting_type": 1,
+          "winner_post": 2,
+          "odds": [
+            {
+              "avgOdds": 1.32,
+              "bettingTypeId": 1,
+              "eventId": 6211036,
+              "maxOdds": 1.4,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "5thesxv464x0xfp064",
+              "maxOddsProviderId": 15,
+              "active": true
+            },
+            {
+              "avgOdds": 23.85,
+              "bettingTypeId": 1,
+              "eventId": 6211036,
+              "maxOdds": 27,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "5thesxv498x0x0",
+              "maxOddsProviderId": 550,
+              "active": true
+            },
+            {
+              "avgOdds": 3.49,
+              "bettingTypeId": 1,
+              "eventId": 6211036,
+              "maxOdds": 3.9,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "5thesxv464x0xfp065",
+              "maxOddsProviderId": 381,
+              "active": true
+            }
+          ],
+          "name": "Catalans Dragons - Leeds",
+          "colClassNameTime": "datet t1662750000-1-1-0-0"
+        },
+        {
+          "id": 5553838,
+          "url": "/rugby-league/england/super-league-2022/hull-fc-hull-kr-rqAkQasj/",
+          "is-double": false,
+          "home": 14735599,
+          "away": 14735600,
+          "home-name": "Hull FC",
+          "away-name": "Hull KR",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/AakFwEkQ-jX6C7HT8.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/AyiktMTE-63wsnQ6J.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "rqAkQasj",
+          "colClassName": "datet t1662213600-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1662213600,
+          "date-start-timestamp": 1662213600,
+          "result": "4:36",
+          "homeResult": "4",
+          "awayResult": "36",
+          "home-winner": "lost",
+          "away-winner": "win",
+          "info": null,
+          "partialresult": "4:24, 0:12",
+          "stream": null,
+          "bookmakersCount": 15,
+          "betting_type": 1,
+          "winner_post": 2,
+          "odds": [
+            {
+              "avgOdds": 1.26,
+              "bettingTypeId": 1,
+              "eventId": 5553838,
+              "maxOdds": 1.29,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59flexv464x0xe1m7f",
+              "maxOddsProviderId": 15,
+              "active": true
+            },
+            {
+              "avgOdds": 27.52,
+              "bettingTypeId": 1,
+              "eventId": 5553838,
+              "maxOdds": 33,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59flexv498x0x0",
+              "maxOddsProviderId": 417,
+              "active": true
+            },
+            {
+              "avgOdds": 3.84,
+              "bettingTypeId": 1,
+              "eventId": 5553838,
+              "maxOdds": 4.1,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59flexv464x0xe1m7g",
+              "maxOddsProviderId": 3,
+              "active": true
+            }
+          ],
+          "name": "Hull FC - Hull KR",
+          "colClassNameTime": "datet t1662213600-1-1-0-0"
+        },
+        {
+          "id": 5553839,
+          "url": "/rugby-league/england/super-league-2022/leeds-rhinos-castleford-tigers-MZ8gPJdd/",
+          "is-double": false,
+          "home": 14735601,
+          "away": 14735602,
+          "home-name": "Leeds",
+          "away-name": "Castleford",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/lvG5p3AK-QHmhyON6.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/EuUJEAAK-xOu2HgVI.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "MZ8gPJdd",
+          "colClassName": "datet t1662213600-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1662213600,
+          "date-start-timestamp": 1662213600,
+          "result": "14:8",
+          "homeResult": "14",
+          "awayResult": "8",
+          "home-winner": "win",
+          "away-winner": "lost",
+          "info": null,
+          "partialresult": "0:0, 14:8",
+          "stream": {
+            "417": 1,
+            "453": 1
+          },
+          "bookmakersCount": 15,
+          "winner_post": 0,
+          "betting_type": 1,
+          "odds": [
+            {
+              "avgOdds": 1.15,
+              "bettingTypeId": 1,
+              "eventId": 5553839,
+              "maxOdds": 1.2,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59flfxv464x0xe1m7h",
+              "maxOddsProviderId": 15,
+              "active": true
+            },
+            {
+              "avgOdds": 33.62,
+              "bettingTypeId": 1,
+              "eventId": 5553839,
+              "maxOdds": 41,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59flfxv498x0x0",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 5.47,
+              "bettingTypeId": 1,
+              "eventId": 5553839,
+              "maxOdds": 6.86,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59flfxv464x0xe1m7i",
+              "maxOddsProviderId": 417,
+              "active": true
+            }
+          ],
+          "name": "Leeds - Castleford",
+          "colClassNameTime": "datet t1662213600-1-1-0-0"
+        },
+        {
+          "id": 5553836,
+          "url": "/rugby-league/england/super-league-2022/salford-red-devils-warrington-wolves-vDrIr8cH/",
+          "is-double": false,
+          "home": 14735595,
+          "away": 14735596,
+          "home-name": "Salford",
+          "away-name": "Warrington",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/0Yz6lD6n-6PGXorxA.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/pjJ0vX4n-Ea3MIzQT.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "vDrIr8cH",
+          "colClassName": "datet t1662213600-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1662213600,
+          "date-start-timestamp": 1662213600,
+          "result": "14:32",
+          "homeResult": "14",
+          "awayResult": "32",
+          "home-winner": "lost",
+          "away-winner": "win",
+          "info": null,
+          "partialresult": "8:14, 6:18",
+          "stream": null,
+          "bookmakersCount": 15,
+          "betting_type": 1,
+          "winner_post": 2,
+          "odds": [
+            {
+              "avgOdds": 2.46,
+              "bettingTypeId": 1,
+              "eventId": 5553836,
+              "maxOdds": 2.62,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59flcxv464x0xe1m7b",
+              "maxOddsProviderId": 16,
+              "active": true
+            },
+            {
+              "avgOdds": 22.77,
+              "bettingTypeId": 1,
+              "eventId": 5553836,
+              "maxOdds": 28,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59flcxv498x0x0",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 1.56,
+              "bettingTypeId": 1,
+              "eventId": 5553836,
+              "maxOdds": 1.62,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59flcxv464x0xe1m7c",
+              "maxOddsProviderId": 417,
+              "active": true
+            }
+          ],
+          "name": "Salford - Warrington",
+          "colClassNameTime": "datet t1662213600-1-1-0-0"
+        },
+        {
+          "id": 5553840,
+          "url": "/rugby-league/england/super-league-2022/st-helens-toulouse-olympique-bihxl3Zd/",
+          "is-double": false,
+          "home": 14735603,
+          "away": 14735604,
+          "home-name": "St Helens",
+          "away-name": "Toulouse Olympique",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "fr",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/O832d7m9-rDATBMS5.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/EJh20eiQ-M5Yfva7Q.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "bihxl3Zd",
+          "colClassName": "datet t1662213600-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1662213600,
+          "date-start-timestamp": 1662213600,
+          "result": "36:16",
+          "homeResult": "36",
+          "awayResult": "16",
+          "home-winner": "win",
+          "away-winner": "lost",
+          "info": null,
+          "partialresult": "12:10, 24:6",
+          "stream": null,
+          "bookmakersCount": 15,
+          "winner_post": 0,
+          "betting_type": 1,
+          "odds": [
+            {
+              "avgOdds": 1.01,
+              "bettingTypeId": 1,
+              "eventId": 5553840,
+              "maxOdds": 1.02,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59flgxv464x0xe1m7j",
+              "maxOddsProviderId": 15,
+              "active": true
+            },
+            {
+              "avgOdds": 46.29,
+              "bettingTypeId": 1,
+              "eventId": 5553840,
+              "maxOdds": 101,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59flgxv498x0x0",
+              "maxOddsProviderId": 417,
+              "active": true
+            },
+            {
+              "avgOdds": 14.03,
+              "bettingTypeId": 1,
+              "eventId": 5553840,
+              "maxOdds": 25,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59flgxv464x0xe1m7k",
+              "maxOddsProviderId": 417,
+              "active": true
+            }
+          ],
+          "name": "St Helens - Toulouse Olympique",
+          "colClassNameTime": "datet t1662213600-1-1-0-0"
+        },
+        {
+          "id": 5553841,
+          "url": "/rugby-league/england/super-league-2022/wigan-warriors-catalans-dragons-xritmNl3/",
+          "is-double": false,
+          "home": 14735605,
+          "away": 14735606,
+          "home-name": "Wigan",
+          "away-name": "Catalans Dragons",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "fr",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/dS8WvS4n-WfK3GeJC.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/pCVUxgQt-O8Pxd7sP.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "xritmNl3",
+          "colClassName": "datet t1662145200-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1662145200,
+          "date-start-timestamp": 1662145200,
+          "result": "48:4",
+          "homeResult": "48",
+          "awayResult": "4",
+          "home-winner": "win",
+          "away-winner": "lost",
+          "info": null,
+          "partialresult": "24:0, 24:4",
+          "stream": null,
+          "bookmakersCount": 15,
+          "winner_post": 0,
+          "betting_type": 1,
+          "odds": [
+            {
+              "avgOdds": 1.01,
+              "bettingTypeId": 1,
+              "eventId": 5553841,
+              "maxOdds": 1.01,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59flhxv464x0xe1m7l",
+              "maxOddsProviderId": 470,
+              "active": true
+            },
+            {
+              "avgOdds": 39.71,
+              "bettingTypeId": 1,
+              "eventId": 5553841,
+              "maxOdds": 51,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59flhxv498x0x0",
+              "maxOddsProviderId": 15,
+              "active": true
+            },
+            {
+              "avgOdds": 15.39,
+              "bettingTypeId": 1,
+              "eventId": 5553841,
+              "maxOdds": 21,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59flhxv464x0xe1m7m",
+              "maxOddsProviderId": 15,
+              "active": true
+            }
+          ],
+          "name": "Wigan - Catalans Dragons",
+          "colClassNameTime": "datet t1662145200-1-1-0-0"
+        },
+        {
+          "id": 5553837,
+          "url": "/rugby-league/england/super-league-2022/huddersfield-wakefield-trinity-lMAoRuSq/",
+          "is-double": false,
+          "home": 14735597,
+          "away": 14735598,
+          "home-name": "Huddersfield",
+          "away-name": "Wakefield",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 10,
+          "event-stage-id": 10,
+          "event-stage-name": "After Extra Time",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/2JhN2lTE-42wMS2s3.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/pODpZmCK-Q7raMuHI.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "lMAoRuSq",
+          "colClassName": "datet t1662144300-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1662144300,
+          "date-start-timestamp": 1662144300,
+          "result": "16:14&nbsp;OT",
+          "homeResult": "16",
+          "awayResult": "14&nbsp;OT",
+          "home-winner": "win",
+          "away-winner": "lost",
+          "info": null,
+          "partialresult": "8:10, 6:4, 2:0",
+          "stream": {
+            "453": 1
+          },
+          "bookmakersCount": 15,
+          "betting_type": 1,
+          "winner_post": 1,
+          "odds": [
+            {
+              "avgOdds": 1.25,
+              "bettingTypeId": 1,
+              "eventId": 5553837,
+              "maxOdds": 1.3,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fldxv464x0xe1m7d",
+              "maxOddsProviderId": 16,
+              "active": true
+            },
+            {
+              "avgOdds": 28.25,
+              "bettingTypeId": 1,
+              "eventId": 5553837,
+              "maxOdds": 31,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fldxv498x0x0",
+              "maxOddsProviderId": 617,
+              "active": true
+            },
+            {
+              "avgOdds": 3.97,
+              "bettingTypeId": 1,
+              "eventId": 5553837,
+              "maxOdds": 4.3,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fldxv464x0xe1m7e",
+              "maxOddsProviderId": 3,
+              "active": true
+            }
+          ],
+          "name": "Huddersfield - Wakefield",
+          "colClassNameTime": "datet t1662144300-1-1-0-0"
+        },
+        {
+          "id": 5553835,
+          "url": "/rugby-league/england/super-league-2022/catalans-dragons-leeds-rhinos-dlgDqlrB/",
+          "is-double": false,
+          "home": 14735593,
+          "away": 14735594,
+          "home-name": "Catalans Dragons",
+          "away-name": "Leeds",
+          "home-country-two-chart-name": "fr",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/pCVUxgQt-O8Pxd7sP.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/lvG5p3AK-QHmhyON6.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "dlgDqlrB",
+          "colClassName": "datet t1661792400-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1661792400,
+          "date-start-timestamp": 1661792400,
+          "result": "32:18",
+          "homeResult": "32",
+          "awayResult": "18",
+          "home-winner": "win",
+          "away-winner": "lost",
+          "info": null,
+          "partialresult": "28:6, 4:12",
+          "stream": null,
+          "bookmakersCount": 15,
+          "winner_post": 0,
+          "betting_type": 1,
+          "odds": [
+            {
+              "avgOdds": 1.37,
+              "bettingTypeId": 1,
+              "eventId": 5553835,
+              "maxOdds": 1.43,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59flbxv464x0xe1m79",
+              "maxOddsProviderId": 3,
+              "active": true
+            },
+            {
+              "avgOdds": 24.54,
+              "bettingTypeId": 1,
+              "eventId": 5553835,
+              "maxOdds": 29,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59flbxv498x0x0",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 3.16,
+              "bettingTypeId": 1,
+              "eventId": 5553835,
+              "maxOdds": 3.4,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59flbxv464x0xe1m7a",
+              "maxOddsProviderId": 550,
+              "active": true
+            }
+          ],
+          "name": "Catalans Dragons - Leeds",
+          "colClassNameTime": "datet t1661792400-1-1-0-0"
+        },
+        {
+          "id": 5553834,
+          "url": "/rugby-league/england/super-league-2022/castleford-tigers-salford-red-devils-Icf9pUS4/",
+          "is-double": false,
+          "home": 14735591,
+          "away": 14735592,
+          "home-name": "Castleford",
+          "away-name": "Salford",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/EuUJEAAK-xOu2HgVI.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/0Yz6lD6n-6PGXorxA.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "Icf9pUS4",
+          "colClassName": "datet t1661783400-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1661783400,
+          "date-start-timestamp": 1661783400,
+          "result": "10:50",
+          "homeResult": "10",
+          "awayResult": "50",
+          "home-winner": "lost",
+          "away-winner": "win",
+          "info": null,
+          "partialresult": "10:20, 0:30",
+          "stream": null,
+          "bookmakersCount": 15,
+          "betting_type": 1,
+          "winner_post": 2,
+          "odds": [
+            {
+              "avgOdds": 1.98,
+              "bettingTypeId": 1,
+              "eventId": 5553834,
+              "maxOdds": 2.07,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59flaxv464x0xe1m77",
+              "maxOddsProviderId": 417,
+              "active": true
+            },
+            {
+              "avgOdds": 20.92,
+              "bettingTypeId": 1,
+              "eventId": 5553834,
+              "maxOdds": 26,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59flaxv498x0x0",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 1.87,
+              "bettingTypeId": 1,
+              "eventId": 5553834,
+              "maxOdds": 2,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59flaxv464x0xe1m78",
+              "maxOddsProviderId": 15,
+              "active": true
+            }
+          ],
+          "name": "Castleford - Salford",
+          "colClassNameTime": "datet t1661783400-1-1-0-0"
+        },
+        {
+          "id": 5553831,
+          "url": "/rugby-league/england/super-league-2022/huddersfield-warrington-wolves-S81dmWrn/",
+          "is-double": false,
+          "home": 14735585,
+          "away": 14735586,
+          "home-name": "Huddersfield",
+          "away-name": "Warrington",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/2JhN2lTE-42wMS2s3.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/pjJ0vX4n-Ea3MIzQT.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "S81dmWrn",
+          "colClassName": "datet t1661781600-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1661781600,
+          "date-start-timestamp": 1661781600,
+          "result": "38:36",
+          "homeResult": "38",
+          "awayResult": "36",
+          "home-winner": "win",
+          "away-winner": "lost",
+          "info": null,
+          "partialresult": "32:10, 6:26",
+          "stream": null,
+          "bookmakersCount": 15,
+          "winner_post": 0,
+          "betting_type": 1,
+          "odds": [
+            {
+              "avgOdds": 1.12,
+              "bettingTypeId": 1,
+              "eventId": 5553831,
+              "maxOdds": 1.15,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fl7xv464x0xe1m71",
+              "maxOddsProviderId": 1,
+              "active": true
+            },
+            {
+              "avgOdds": 35.54,
+              "bettingTypeId": 1,
+              "eventId": 5553831,
+              "maxOdds": 46,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fl7xv498x0x0",
+              "maxOddsProviderId": 583,
+              "active": true
+            },
+            {
+              "avgOdds": 6.07,
+              "bettingTypeId": 1,
+              "eventId": 5553831,
+              "maxOdds": 7.5,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fl7xv464x0xe1m72",
+              "maxOddsProviderId": 2,
+              "active": true
+            }
+          ],
+          "name": "Huddersfield - Warrington",
+          "colClassNameTime": "datet t1661781600-1-1-0-0"
+        },
+        {
+          "id": 5553832,
+          "url": "/rugby-league/england/super-league-2022/hull-kr-wigan-warriors-AXj1njbh/",
+          "is-double": false,
+          "home": 14735587,
+          "away": 14735588,
+          "home-name": "Hull KR",
+          "away-name": "Wigan",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/AyiktMTE-63wsnQ6J.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/dS8WvS4n-WfK3GeJC.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "AXj1njbh",
+          "colClassName": "datet t1661781600-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1661781600,
+          "date-start-timestamp": 1661781600,
+          "result": "38:28",
+          "homeResult": "38",
+          "awayResult": "28",
+          "home-winner": "win",
+          "away-winner": "lost",
+          "info": null,
+          "partialresult": "20:6, 18:22",
+          "stream": null,
+          "bookmakersCount": 15,
+          "winner_post": 0,
+          "betting_type": 1,
+          "odds": [
+            {
+              "avgOdds": 1.62,
+              "bettingTypeId": 1,
+              "eventId": 5553832,
+              "maxOdds": 1.83,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fl8xv464x0xe1m73",
+              "maxOddsProviderId": 2,
+              "active": true
+            },
+            {
+              "avgOdds": 23.62,
+              "bettingTypeId": 1,
+              "eventId": 5553832,
+              "maxOdds": 29,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fl8xv498x0x0",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 2.34,
+              "bettingTypeId": 1,
+              "eventId": 5553832,
+              "maxOdds": 2.56,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fl8xv464x0xe1m74",
+              "maxOddsProviderId": 417,
+              "active": true
+            }
+          ],
+          "name": "Hull KR - Wigan",
+          "colClassNameTime": "datet t1661781600-1-1-0-0"
+        },
+        {
+          "id": 5553833,
+          "url": "/rugby-league/england/super-league-2022/st-helens-wakefield-trinity-lOk5oADb/",
+          "is-double": false,
+          "home": 14735589,
+          "away": 14735590,
+          "home-name": "St Helens",
+          "away-name": "Wakefield",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/O832d7m9-rDATBMS5.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/pODpZmCK-Q7raMuHI.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "lOk5oADb",
+          "colClassName": "datet t1661781600-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1661781600,
+          "date-start-timestamp": 1661781600,
+          "result": "18:34",
+          "homeResult": "18",
+          "awayResult": "34",
+          "home-winner": "lost",
+          "away-winner": "win",
+          "info": null,
+          "partialresult": "6:24, 12:10",
+          "stream": null,
+          "bookmakersCount": 15,
+          "betting_type": 1,
+          "winner_post": 2,
+          "odds": [
+            {
+              "avgOdds": 1.6,
+              "bettingTypeId": 1,
+              "eventId": 5553833,
+              "maxOdds": 1.65,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fl9xv464x0xe1m75",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 23.77,
+              "bettingTypeId": 1,
+              "eventId": 5553833,
+              "maxOdds": 29,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fl9xv498x0x0",
+              "maxOddsProviderId": 583,
+              "active": true
+            },
+            {
+              "avgOdds": 2.39,
+              "bettingTypeId": 1,
+              "eventId": 5553833,
+              "maxOdds": 2.55,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fl9xv464x0xe1m76",
+              "maxOddsProviderId": 550,
+              "active": true
+            }
+          ],
+          "name": "St Helens - Wakefield",
+          "colClassNameTime": "datet t1661781600-1-1-0-0"
+        },
+        {
+          "id": 5553830,
+          "url": "/rugby-league/england/super-league-2022/hull-fc-toulouse-olympique-E5chlCTu/",
+          "is-double": false,
+          "home": 14735583,
+          "away": 14735584,
+          "home-name": "Hull FC",
+          "away-name": "Toulouse Olympique",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "fr",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/AakFwEkQ-jX6C7HT8.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/EJh20eiQ-M5Yfva7Q.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "E5chlCTu",
+          "colClassName": "datet t1661695200-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1661695200,
+          "date-start-timestamp": 1661695200,
+          "result": "38:12",
+          "homeResult": "38",
+          "awayResult": "12",
+          "home-winner": "win",
+          "away-winner": "lost",
+          "info": null,
+          "partialresult": "24:0, 14:12",
+          "stream": null,
+          "bookmakersCount": 13,
+          "winner_post": 0,
+          "betting_type": 1,
+          "odds": [
+            {
+              "avgOdds": 1.37,
+              "bettingTypeId": 1,
+              "eventId": 5553830,
+              "maxOdds": 1.41,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fl6xv464x0xe1m6v",
+              "maxOddsProviderId": 417,
+              "active": true
+            },
+            {
+              "avgOdds": 26.05,
+              "bettingTypeId": 1,
+              "eventId": 5553830,
+              "maxOdds": 32,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fl6xv498x0x0",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 3.12,
+              "bettingTypeId": 1,
+              "eventId": 5553830,
+              "maxOdds": 3.31,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fl6xv464x0xe1m70",
+              "maxOddsProviderId": 550,
+              "active": true
+            }
+          ],
+          "name": "Hull FC - Toulouse Olympique",
+          "colClassNameTime": "datet t1661695200-1-1-0-0"
+        },
+        {
+          "id": 5553829,
+          "url": "/rugby-league/england/super-league-2022/wigan-warriors-st-helens-xpMnTScU/",
+          "is-double": false,
+          "home": 14735581,
+          "away": 14735582,
+          "home-name": "Wigan",
+          "away-name": "St Helens",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/dS8WvS4n-WfK3GeJC.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/O832d7m9-rDATBMS5.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "xpMnTScU",
+          "colClassName": "datet t1661540400-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1661540400,
+          "date-start-timestamp": 1661540400,
+          "result": "30:10",
+          "homeResult": "30",
+          "awayResult": "10",
+          "home-winner": "win",
+          "away-winner": "lost",
+          "info": null,
+          "partialresult": "18:2, 12:8",
+          "stream": null,
+          "bookmakersCount": 15,
+          "winner_post": 0,
+          "betting_type": 1,
+          "odds": [
+            {
+              "avgOdds": 1.64,
+              "bettingTypeId": 1,
+              "eventId": 5553829,
+              "maxOdds": 1.67,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fl5xv464x0xe1m6t",
+              "maxOddsProviderId": 550,
+              "active": true
+            },
+            {
+              "avgOdds": 21.14,
+              "bettingTypeId": 1,
+              "eventId": 5553829,
+              "maxOdds": 24,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fl5xv498x0x0",
+              "maxOddsProviderId": 417,
+              "active": true
+            },
+            {
+              "avgOdds": 2.29,
+              "bettingTypeId": 1,
+              "eventId": 5553829,
+              "maxOdds": 2.39,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fl5xv464x0xe1m6u",
+              "maxOddsProviderId": 381,
+              "active": true
+            }
+          ],
+          "name": "Wigan - St Helens",
+          "colClassNameTime": "datet t1661540400-1-1-0-0"
+        },
+        {
+          "id": 5553828,
+          "url": "/rugby-league/england/super-league-2022/warrington-wolves-castleford-tigers-bgNrU8rO/",
+          "is-double": false,
+          "home": 14735579,
+          "away": 14735580,
+          "home-name": "Warrington",
+          "away-name": "Castleford",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/pjJ0vX4n-Ea3MIzQT.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/EuUJEAAK-xOu2HgVI.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "bgNrU8rO",
+          "colClassName": "datet t1661454000-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1661454000,
+          "date-start-timestamp": 1661454000,
+          "result": "18:19",
+          "homeResult": "18",
+          "awayResult": "19",
+          "home-winner": "lost",
+          "away-winner": "win",
+          "info": null,
+          "partialresult": "12:0, 6:19",
+          "stream": null,
+          "bookmakersCount": 15,
+          "betting_type": 1,
+          "winner_post": 2,
+          "odds": [
+            {
+              "avgOdds": 1.73,
+              "bettingTypeId": 1,
+              "eventId": 5553828,
+              "maxOdds": 1.76,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fl4xv464x0xe1m6r",
+              "maxOddsProviderId": 550,
+              "active": true
+            },
+            {
+              "avgOdds": 22.8,
+              "bettingTypeId": 1,
+              "eventId": 5553828,
+              "maxOdds": 27,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fl4xv498x0x0",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 2.14,
+              "bettingTypeId": 1,
+              "eventId": 5553828,
+              "maxOdds": 2.22,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fl4xv464x0xe1m6s",
+              "maxOddsProviderId": 417,
+              "active": true
+            }
+          ],
+          "name": "Warrington - Castleford",
+          "colClassNameTime": "datet t1661454000-1-1-0-0"
+        },
+        {
+          "id": 5553824,
+          "url": "/rugby-league/england/super-league-2022/salford-red-devils-hull-fc-WQ3ZXjqa/",
+          "is-double": false,
+          "home": 14735571,
+          "away": 14735572,
+          "home-name": "Salford",
+          "away-name": "Hull FC",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/0Yz6lD6n-6PGXorxA.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/AakFwEkQ-jX6C7HT8.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "WQ3ZXjqa",
+          "colClassName": "datet t1661453100-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1661453100,
+          "date-start-timestamp": 1661453100,
+          "result": "28:18",
+          "homeResult": "28",
+          "awayResult": "18",
+          "home-winner": "win",
+          "away-winner": "lost",
+          "info": null,
+          "partialresult": "10:12, 18:6",
+          "stream": null,
+          "bookmakersCount": 15,
+          "winner_post": 0,
+          "betting_type": 1,
+          "odds": [
+            {
+              "avgOdds": 1.05,
+              "bettingTypeId": 1,
+              "eventId": 5553824,
+              "maxOdds": 1.07,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fl0xv464x0xe1m6j",
+              "maxOddsProviderId": 15,
+              "active": true
+            },
+            {
+              "avgOdds": 38.04,
+              "bettingTypeId": 1,
+              "eventId": 5553824,
+              "maxOdds": 69,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fl0xv498x0x0",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 9.13,
+              "bettingTypeId": 1,
+              "eventId": 5553824,
+              "maxOdds": 15.75,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fl0xv464x0xe1m6k",
+              "maxOddsProviderId": 381,
+              "active": true
+            }
+          ],
+          "name": "Salford - Hull FC",
+          "colClassNameTime": "datet t1661453100-1-1-0-0"
+        },
+        {
+          "id": 5553825,
+          "url": "/rugby-league/england/super-league-2022/toulouse-olympique-catalans-dragons-pU7wXAb5/",
+          "is-double": false,
+          "home": 14735573,
+          "away": 14735574,
+          "home-name": "Toulouse Olympique",
+          "away-name": "Catalans Dragons",
+          "home-country-two-chart-name": "fr",
+          "away-country-two-chart-name": "fr",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/EJh20eiQ-M5Yfva7Q.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/pCVUxgQt-O8Pxd7sP.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "pU7wXAb5",
+          "colClassName": "datet t1661452200-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1661452200,
+          "date-start-timestamp": 1661452200,
+          "result": "14:24",
+          "homeResult": "14",
+          "awayResult": "24",
+          "home-winner": "lost",
+          "away-winner": "win",
+          "info": null,
+          "partialresult": "8:12, 6:12",
+          "stream": null,
+          "bookmakersCount": 15,
+          "betting_type": 1,
+          "winner_post": 2,
+          "odds": [
+            {
+              "avgOdds": 3.42,
+              "bettingTypeId": 1,
+              "eventId": 5553825,
+              "maxOdds": 3.63,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fl1xv464x0xe1m6l",
+              "maxOddsProviderId": 550,
+              "active": true
+            },
+            {
+              "avgOdds": 26.07,
+              "bettingTypeId": 1,
+              "eventId": 5553825,
+              "maxOdds": 31,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fl1xv498x0x0",
+              "maxOddsProviderId": 617,
+              "active": true
+            },
+            {
+              "avgOdds": 1.32,
+              "bettingTypeId": 1,
+              "eventId": 5553825,
+              "maxOdds": 1.36,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fl1xv464x0xe1m6m",
+              "maxOddsProviderId": 3,
+              "active": true
+            }
+          ],
+          "name": "Toulouse Olympique - Catalans Dragons",
+          "colClassNameTime": "datet t1661452200-1-1-0-0"
+        },
+        {
+          "id": 5553826,
+          "url": "/rugby-league/england/super-league-2022/wakefield-trinity-hull-kr-vi7sWUDB/",
+          "is-double": false,
+          "home": 14735575,
+          "away": 14735576,
+          "home-name": "Wakefield",
+          "away-name": "Hull KR",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/pODpZmCK-Q7raMuHI.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/AyiktMTE-63wsnQ6J.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "vi7sWUDB",
+          "colClassName": "datet t1661452200-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1661452200,
+          "date-start-timestamp": 1661452200,
+          "result": "18:6",
+          "homeResult": "18",
+          "awayResult": "6",
+          "home-winner": "win",
+          "away-winner": "lost",
+          "info": null,
+          "partialresult": "0:6, 18:0",
+          "stream": null,
+          "bookmakersCount": 15,
+          "winner_post": 0,
+          "betting_type": 1,
+          "odds": [
+            {
+              "avgOdds": 1.54,
+              "bettingTypeId": 1,
+              "eventId": 5553826,
+              "maxOdds": 1.61,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fl2xv464x0xe1m6n",
+              "maxOddsProviderId": 417,
+              "active": true
+            },
+            {
+              "avgOdds": 23.48,
+              "bettingTypeId": 1,
+              "eventId": 5553826,
+              "maxOdds": 31,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fl2xv498x0x0",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 2.5,
+              "bettingTypeId": 1,
+              "eventId": 5553826,
+              "maxOdds": 2.6,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fl2xv464x0xe1m6o",
+              "maxOddsProviderId": 3,
+              "active": true
+            }
+          ],
+          "name": "Wakefield - Hull KR",
+          "colClassNameTime": "datet t1661452200-1-1-0-0"
+        },
+        {
+          "id": 5553827,
+          "url": "/rugby-league/england/super-league-2022/leeds-rhinos-huddersfield-Is6oVlTH/",
+          "is-double": false,
+          "home": 14735577,
+          "away": 14735578,
+          "home-name": "Leeds",
+          "away-name": "Huddersfield",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/lvG5p3AK-QHmhyON6.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/2JhN2lTE-42wMS2s3.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "Is6oVlTH",
+          "colClassName": "datet t1661367600-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1661367600,
+          "date-start-timestamp": 1661367600,
+          "result": "18:14",
+          "homeResult": "18",
+          "awayResult": "14",
+          "home-winner": "win",
+          "away-winner": "lost",
+          "info": null,
+          "partialresult": "6:8, 12:6",
+          "stream": null,
+          "bookmakersCount": 15,
+          "winner_post": 0,
+          "betting_type": 1,
+          "odds": [
+            {
+              "avgOdds": 1.61,
+              "bettingTypeId": 1,
+              "eventId": 5553827,
+              "maxOdds": 1.65,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fl3xv464x0xe1m6p",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 22,
+              "bettingTypeId": 1,
+              "eventId": 5553827,
+              "maxOdds": 24,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fl3xv498x0x0",
+              "maxOddsProviderId": 550,
+              "active": true
+            },
+            {
+              "avgOdds": 2.38,
+              "bettingTypeId": 1,
+              "eventId": 5553827,
+              "maxOdds": 2.5,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fl3xv464x0xe1m6q",
+              "maxOddsProviderId": 15,
+              "active": true
+            }
+          ],
+          "name": "Leeds - Huddersfield",
+          "colClassNameTime": "datet t1661367600-1-1-0-0"
+        },
+        {
+          "id": 5553823,
+          "url": "/rugby-league/england/super-league-2022/catalans-dragons-salford-red-devils-l2EUYWTh/",
+          "is-double": false,
+          "home": 14735569,
+          "away": 14735570,
+          "home-name": "Catalans Dragons",
+          "away-name": "Salford",
+          "home-country-two-chart-name": "fr",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/pCVUxgQt-O8Pxd7sP.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/0Yz6lD6n-6PGXorxA.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "l2EUYWTh",
+          "colClassName": "datet t1661014800-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1661014800,
+          "date-start-timestamp": 1661014800,
+          "result": "14:46",
+          "homeResult": "14",
+          "awayResult": "46",
+          "home-winner": "lost",
+          "away-winner": "win",
+          "info": null,
+          "partialresult": "8:18, 6:28",
+          "stream": null,
+          "bookmakersCount": 15,
+          "betting_type": 1,
+          "winner_post": 2,
+          "odds": [
+            {
+              "avgOdds": 1.46,
+              "bettingTypeId": 1,
+              "eventId": 5553823,
+              "maxOdds": 1.5,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkvxv464x0xe1m6h",
+              "maxOddsProviderId": 15,
+              "active": true
+            },
+            {
+              "avgOdds": 25.41,
+              "bettingTypeId": 1,
+              "eventId": 5553823,
+              "maxOdds": 31,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkvxv498x0x0",
+              "maxOddsProviderId": 417,
+              "active": true
+            },
+            {
+              "avgOdds": 2.75,
+              "bettingTypeId": 1,
+              "eventId": 5553823,
+              "maxOdds": 3,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fkvxv464x0xe1m6i",
+              "maxOddsProviderId": 2,
+              "active": true
+            }
+          ],
+          "name": "Catalans Dragons - Salford",
+          "colClassNameTime": "datet t1661014800-1-1-0-0"
+        },
+        {
+          "id": 5553819,
+          "url": "/rugby-league/england/super-league-2022/hull-fc-wakefield-trinity-xOpCGkEO/",
+          "is-double": false,
+          "home": 14735561,
+          "away": 14735562,
+          "home-name": "Hull FC",
+          "away-name": "Wakefield",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/AakFwEkQ-jX6C7HT8.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/pODpZmCK-Q7raMuHI.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "xOpCGkEO",
+          "colClassName": "datet t1660935600-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1660935600,
+          "date-start-timestamp": 1660935600,
+          "result": "18:26",
+          "homeResult": "18",
+          "awayResult": "26",
+          "home-winner": "lost",
+          "away-winner": "win",
+          "info": null,
+          "partialresult": "6:16, 12:10",
+          "stream": null,
+          "bookmakersCount": 15,
+          "betting_type": 1,
+          "winner_post": 2,
+          "odds": [
+            {
+              "avgOdds": 2.06,
+              "bettingTypeId": 1,
+              "eventId": 5553819,
+              "maxOdds": 2.27,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkrxv464x0xe1m69",
+              "maxOddsProviderId": 417,
+              "active": true
+            },
+            {
+              "avgOdds": 21.62,
+              "bettingTypeId": 1,
+              "eventId": 5553819,
+              "maxOdds": 25,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkrxv498x0x0",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 1.8,
+              "bettingTypeId": 1,
+              "eventId": 5553819,
+              "maxOdds": 1.91,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fkrxv464x0xe1m6a",
+              "maxOddsProviderId": 2,
+              "active": true
+            }
+          ],
+          "name": "Hull FC - Wakefield",
+          "colClassNameTime": "datet t1660935600-1-1-0-0"
+        },
+        {
+          "id": 5553820,
+          "url": "/rugby-league/england/super-league-2022/leeds-rhinos-warrington-wolves-vTOfuZjP/",
+          "is-double": false,
+          "home": 14735563,
+          "away": 14735564,
+          "home-name": "Leeds",
+          "away-name": "Warrington",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/lvG5p3AK-QHmhyON6.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/pjJ0vX4n-Ea3MIzQT.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "vTOfuZjP",
+          "colClassName": "datet t1660935600-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1660935600,
+          "date-start-timestamp": 1660935600,
+          "result": "24:18",
+          "homeResult": "24",
+          "awayResult": "18",
+          "home-winner": "win",
+          "away-winner": "lost",
+          "info": null,
+          "partialresult": "24:6, 0:12",
+          "stream": null,
+          "bookmakersCount": 15,
+          "winner_post": 0,
+          "betting_type": 1,
+          "odds": [
+            {
+              "avgOdds": 1.24,
+              "bettingTypeId": 1,
+              "eventId": 5553820,
+              "maxOdds": 1.33,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fksxv464x0xe1m6b",
+              "maxOddsProviderId": 15,
+              "active": true
+            },
+            {
+              "avgOdds": 25.69,
+              "bettingTypeId": 1,
+              "eventId": 5553820,
+              "maxOdds": 32,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fksxv498x0x0",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 4.13,
+              "bettingTypeId": 1,
+              "eventId": 5553820,
+              "maxOdds": 4.8,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fksxv464x0xe1m6c",
+              "maxOddsProviderId": 381,
+              "active": true
+            }
+          ],
+          "name": "Leeds - Warrington",
+          "colClassNameTime": "datet t1660935600-1-1-0-0"
+        },
+        {
+          "id": 5553821,
+          "url": "/rugby-league/england/super-league-2022/st-helens-hull-kr-txBMzgat/",
+          "is-double": false,
+          "home": 14735565,
+          "away": 14735566,
+          "home-name": "St Helens",
+          "away-name": "Hull KR",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/O832d7m9-rDATBMS5.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/AyiktMTE-63wsnQ6J.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "txBMzgat",
+          "colClassName": "datet t1660935600-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1660935600,
+          "date-start-timestamp": 1660935600,
+          "result": "38:12",
+          "homeResult": "38",
+          "awayResult": "12",
+          "home-winner": "win",
+          "away-winner": "lost",
+          "info": null,
+          "partialresult": "20:0, 18:12",
+          "stream": null,
+          "bookmakersCount": 15,
+          "winner_post": 0,
+          "betting_type": 1,
+          "odds": [
+            {
+              "avgOdds": 1.02,
+              "bettingTypeId": 1,
+              "eventId": 5553821,
+              "maxOdds": 1.04,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fktxv464x0xe1m6d",
+              "maxOddsProviderId": 550,
+              "active": true
+            },
+            {
+              "avgOdds": 40.5,
+              "bettingTypeId": 1,
+              "eventId": 5553821,
+              "maxOdds": 51,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fktxv498x0x0",
+              "maxOddsProviderId": 16,
+              "active": true
+            },
+            {
+              "avgOdds": 12.27,
+              "bettingTypeId": 1,
+              "eventId": 5553821,
+              "maxOdds": 18.7,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fktxv464x0xe1m6e",
+              "maxOddsProviderId": 417,
+              "active": true
+            }
+          ],
+          "name": "St Helens - Hull KR",
+          "colClassNameTime": "datet t1660935600-1-1-0-0"
+        },
+        {
+          "id": 5553822,
+          "url": "/rugby-league/england/super-league-2022/wigan-warriors-toulouse-olympique-ABFQZCEn/",
+          "is-double": false,
+          "home": 14735567,
+          "away": 14735568,
+          "home-name": "Wigan",
+          "away-name": "Toulouse Olympique",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "fr",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/dS8WvS4n-WfK3GeJC.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/EJh20eiQ-M5Yfva7Q.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "ABFQZCEn",
+          "colClassName": "datet t1660935600-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1660935600,
+          "date-start-timestamp": 1660935600,
+          "result": "52:6",
+          "homeResult": "52",
+          "awayResult": "6",
+          "home-winner": "win",
+          "away-winner": "lost",
+          "info": null,
+          "partialresult": "24:0, 28:6",
+          "stream": null,
+          "bookmakersCount": 15,
+          "winner_post": 0,
+          "betting_type": 1,
+          "odds": [
+            {
+              "avgOdds": 1.02,
+              "bettingTypeId": 1,
+              "eventId": 5553822,
+              "maxOdds": 1.03,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fkuxv464x0xe1m6f",
+              "maxOddsProviderId": 16,
+              "active": true
+            },
+            {
+              "avgOdds": 45.38,
+              "bettingTypeId": 1,
+              "eventId": 5553822,
+              "maxOdds": 101,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkuxv498x0x0",
+              "maxOddsProviderId": 417,
+              "active": true
+            },
+            {
+              "avgOdds": 11.71,
+              "bettingTypeId": 1,
+              "eventId": 5553822,
+              "maxOdds": 14.5,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkuxv464x0xe1m6g",
+              "maxOddsProviderId": 417,
+              "active": true
+            }
+          ],
+          "name": "Wigan - Toulouse Olympique",
+          "colClassNameTime": "datet t1660935600-1-1-0-0"
+        },
+        {
+          "id": 5553818,
+          "url": "/rugby-league/england/super-league-2022/huddersfield-castleford-tigers-vwS8HVbI/",
+          "is-double": false,
+          "home": 14735559,
+          "away": 14735560,
+          "home-name": "Huddersfield",
+          "away-name": "Castleford",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/2JhN2lTE-42wMS2s3.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/EuUJEAAK-xOu2HgVI.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "vwS8HVbI",
+          "colClassName": "datet t1660849200-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1660849200,
+          "date-start-timestamp": 1660849200,
+          "result": "36:10",
+          "homeResult": "36",
+          "awayResult": "10",
+          "home-winner": "win",
+          "away-winner": "lost",
+          "info": null,
+          "partialresult": "10:4, 26:6",
+          "stream": null,
+          "bookmakersCount": 15,
+          "winner_post": 0,
+          "betting_type": 1,
+          "odds": [
+            {
+              "avgOdds": 1.44,
+              "bettingTypeId": 1,
+              "eventId": 5553818,
+              "maxOdds": 1.5,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fkqxv464x0xe1m67",
+              "maxOddsProviderId": 15,
+              "active": true
+            },
+            {
+              "avgOdds": 23.69,
+              "bettingTypeId": 1,
+              "eventId": 5553818,
+              "maxOdds": 29,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkqxv498x0x0",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 2.83,
+              "bettingTypeId": 1,
+              "eventId": 5553818,
+              "maxOdds": 2.95,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkqxv464x0xe1m68",
+              "maxOddsProviderId": 3,
+              "active": true
+            }
+          ],
+          "name": "Huddersfield - Castleford",
+          "colClassNameTime": "datet t1660849200-1-1-0-0"
+        },
+        {
+          "id": 5553814,
+          "url": "/rugby-league/england/super-league-2022/hull-fc-st-helens-AczhLDag/",
+          "is-double": false,
+          "home": 14735551,
+          "away": 14735552,
+          "home-name": "Hull FC",
+          "away-name": "St Helens",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/AakFwEkQ-jX6C7HT8.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/O832d7m9-rDATBMS5.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "AczhLDag",
+          "colClassName": "datet t1660485600-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1660485600,
+          "date-start-timestamp": 1660485600,
+          "result": "6:60",
+          "homeResult": "6",
+          "awayResult": "60",
+          "home-winner": "lost",
+          "away-winner": "win",
+          "info": null,
+          "partialresult": "6:26, 0:34",
+          "stream": null,
+          "bookmakersCount": 15,
+          "betting_type": 1,
+          "winner_post": 2,
+          "odds": [
+            {
+              "avgOdds": 3.58,
+              "bettingTypeId": 1,
+              "eventId": 5553814,
+              "maxOdds": 4,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkmxv464x0xe1m5v",
+              "maxOddsProviderId": 15,
+              "active": true
+            },
+            {
+              "avgOdds": 25.23,
+              "bettingTypeId": 1,
+              "eventId": 5553814,
+              "maxOdds": 31,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkmxv498x0x0",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 1.3,
+              "bettingTypeId": 1,
+              "eventId": 5553814,
+              "maxOdds": 1.33,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fkmxv464x0xe1m60",
+              "maxOddsProviderId": 16,
+              "active": true
+            }
+          ],
+          "name": "Hull FC - St Helens",
+          "colClassNameTime": "datet t1660485600-1-1-0-0"
+        },
+        {
+          "id": 5553817,
+          "url": "/rugby-league/england/super-league-2022/wakefield-trinity-wigan-warriors-pGS4IBqC/",
+          "is-double": false,
+          "home": 14735557,
+          "away": 14735558,
+          "home-name": "Wakefield",
+          "away-name": "Wigan",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/pODpZmCK-Q7raMuHI.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/dS8WvS4n-WfK3GeJC.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "pGS4IBqC",
+          "colClassName": "datet t1660485600-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1660485600,
+          "date-start-timestamp": 1660485600,
+          "result": "30:12",
+          "homeResult": "30",
+          "awayResult": "12",
+          "home-winner": "win",
+          "away-winner": "lost",
+          "info": null,
+          "partialresult": "18:6, 12:6",
+          "stream": null,
+          "bookmakersCount": 15,
+          "winner_post": 0,
+          "betting_type": 1,
+          "odds": [
+            {
+              "avgOdds": 4.3,
+              "bettingTypeId": 1,
+              "eventId": 5553817,
+              "maxOdds": 5,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fkpxv464x0xe1m65",
+              "maxOddsProviderId": 15,
+              "active": true
+            },
+            {
+              "avgOdds": 29.08,
+              "bettingTypeId": 1,
+              "eventId": 5553817,
+              "maxOdds": 34,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkpxv498x0x0",
+              "maxOddsProviderId": 15,
+              "active": true
+            },
+            {
+              "avgOdds": 1.22,
+              "bettingTypeId": 1,
+              "eventId": 5553817,
+              "maxOdds": 1.27,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkpxv464x0xe1m66",
+              "maxOddsProviderId": 417,
+              "active": true
+            }
+          ],
+          "name": "Wakefield - Wigan",
+          "colClassNameTime": "datet t1660485600-1-1-0-0"
+        },
+        {
+          "id": 5553816,
+          "url": "/rugby-league/england/super-league-2022/salford-red-devils-huddersfield-6PT0JiU5/",
+          "is-double": false,
+          "home": 14735555,
+          "away": 14735556,
+          "home-name": "Salford",
+          "away-name": "Huddersfield",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/0Yz6lD6n-6PGXorxA.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/2JhN2lTE-42wMS2s3.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "6PT0JiU5",
+          "colClassName": "datet t1660392000-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1660392000,
+          "date-start-timestamp": 1660392000,
+          "result": "33:16",
+          "homeResult": "33",
+          "awayResult": "16",
+          "home-winner": "win",
+          "away-winner": "lost",
+          "info": null,
+          "partialresult": "26:6, 7:10",
+          "stream": [],
+          "bookmakersCount": 15,
+          "winner_post": 0,
+          "betting_type": 1,
+          "odds": [
+            {
+              "avgOdds": 1.96,
+              "bettingTypeId": 1,
+              "eventId": 5553816,
+              "maxOdds": 2.1,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fkoxv464x0xe1m63",
+              "maxOddsProviderId": 2,
+              "active": true
+            },
+            {
+              "avgOdds": 21.85,
+              "bettingTypeId": 1,
+              "eventId": 5553816,
+              "maxOdds": 27,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkoxv498x0x0",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 1.89,
+              "bettingTypeId": 1,
+              "eventId": 5553816,
+              "maxOdds": 1.95,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkoxv464x0xe1m64",
+              "maxOddsProviderId": 15,
+              "active": true
+            }
+          ],
+          "name": "Salford - Huddersfield",
+          "colClassNameTime": "datet t1660392000-1-1-0-0"
+        },
+        {
+          "id": 5553812,
+          "url": "/rugby-league/england/super-league-2022/castleford-tigers-catalans-dragons-2XWqNZUt/",
+          "is-double": false,
+          "home": 14735547,
+          "away": 14735548,
+          "home-name": "Castleford",
+          "away-name": "Catalans Dragons",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "fr",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/EuUJEAAK-xOu2HgVI.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/pCVUxgQt-O8Pxd7sP.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "2XWqNZUt",
+          "colClassName": "datet t1660330800-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1660330800,
+          "date-start-timestamp": 1660330800,
+          "result": "18:8",
+          "homeResult": "18",
+          "awayResult": "8",
+          "home-winner": "win",
+          "away-winner": "lost",
+          "info": null,
+          "partialresult": "14:4, 4:4",
+          "stream": null,
+          "bookmakersCount": 15,
+          "winner_post": 0,
+          "betting_type": 1,
+          "odds": [
+            {
+              "avgOdds": 1.92,
+              "bettingTypeId": 1,
+              "eventId": 5553812,
+              "maxOdds": 2.1,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fkkxv464x0xe1m5r",
+              "maxOddsProviderId": 15,
+              "active": true
+            },
+            {
+              "avgOdds": 21.15,
+              "bettingTypeId": 1,
+              "eventId": 5553812,
+              "maxOdds": 24,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkkxv498x0x0",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 1.92,
+              "bettingTypeId": 1,
+              "eventId": 5553812,
+              "maxOdds": 2.08,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkkxv464x0xe1m5s",
+              "maxOddsProviderId": 381,
+              "active": true
+            }
+          ],
+          "name": "Castleford - Catalans Dragons",
+          "colClassNameTime": "datet t1660330800-1-1-0-0"
+        },
+        {
+          "id": 5553815,
+          "url": "/rugby-league/england/super-league-2022/hull-kr-leeds-rhinos-llZeKXEa/",
+          "is-double": false,
+          "home": 14735553,
+          "away": 14735554,
+          "home-name": "Hull KR",
+          "away-name": "Leeds",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/AyiktMTE-63wsnQ6J.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/lvG5p3AK-QHmhyON6.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "llZeKXEa",
+          "colClassName": "datet t1660330800-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1660330800,
+          "date-start-timestamp": 1660330800,
+          "result": "20:28",
+          "homeResult": "20",
+          "awayResult": "28",
+          "home-winner": "lost",
+          "away-winner": "win",
+          "info": null,
+          "partialresult": "14:18, 6:10",
+          "stream": null,
+          "bookmakersCount": 15,
+          "betting_type": 1,
+          "winner_post": 2,
+          "odds": [
+            {
+              "avgOdds": 2.64,
+              "bettingTypeId": 1,
+              "eventId": 5553815,
+              "maxOdds": 2.87,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fknxv464x0xe1m61",
+              "maxOddsProviderId": 16,
+              "active": true
+            },
+            {
+              "avgOdds": 23.37,
+              "bettingTypeId": 1,
+              "eventId": 5553815,
+              "maxOdds": 30,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fknxv498x0x0",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 1.5,
+              "bettingTypeId": 1,
+              "eventId": 5553815,
+              "maxOdds": 1.53,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fknxv464x0xe1m62",
+              "maxOddsProviderId": 381,
+              "active": true
+            }
+          ],
+          "name": "Hull KR - Leeds",
+          "colClassNameTime": "datet t1660330800-1-1-0-0"
+        },
+        {
+          "id": 5553813,
+          "url": "/rugby-league/england/super-league-2022/warrington-wolves-toulouse-olympique-GzylMgpm/",
+          "is-double": false,
+          "home": 14735549,
+          "away": 14735550,
+          "home-name": "Warrington",
+          "away-name": "Toulouse Olympique",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "fr",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/pjJ0vX4n-Ea3MIzQT.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/EJh20eiQ-M5Yfva7Q.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "GzylMgpm",
+          "colClassName": "datet t1660244400-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1660244400,
+          "date-start-timestamp": 1660244400,
+          "result": "32:18",
+          "homeResult": "32",
+          "awayResult": "18",
+          "home-winner": "win",
+          "away-winner": "lost",
+          "info": null,
+          "partialresult": "14:18, 18:0",
+          "stream": null,
+          "bookmakersCount": 15,
+          "winner_post": 0,
+          "betting_type": 1,
+          "odds": [
+            {
+              "avgOdds": 1.17,
+              "bettingTypeId": 1,
+              "eventId": 5553813,
+              "maxOdds": 1.2,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fklxv464x0xe1m5t",
+              "maxOddsProviderId": 3,
+              "active": true
+            },
+            {
+              "avgOdds": 30.23,
+              "bettingTypeId": 1,
+              "eventId": 5553813,
+              "maxOdds": 38,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fklxv498x0x0",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 5.01,
+              "bettingTypeId": 1,
+              "eventId": 5553813,
+              "maxOdds": 6,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fklxv464x0xe1m5u",
+              "maxOddsProviderId": 15,
+              "active": true
+            }
+          ],
+          "name": "Warrington - Toulouse Olympique",
+          "colClassNameTime": "datet t1660244400-1-1-0-0"
+        },
+        {
+          "id": 5553810,
+          "url": "/rugby-league/england/super-league-2022/leeds-rhinos-salford-red-devils-IaeDSe7J/",
+          "is-double": false,
+          "home": 14735543,
+          "away": 14735544,
+          "home-name": "Leeds",
+          "away-name": "Salford",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/lvG5p3AK-QHmhyON6.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/0Yz6lD6n-6PGXorxA.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "IaeDSe7J",
+          "colClassName": "datet t1659880800-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1659880800,
+          "date-start-timestamp": 1659880800,
+          "result": "34:14",
+          "homeResult": "34",
+          "awayResult": "14",
+          "home-winner": "win",
+          "away-winner": "lost",
+          "info": null,
+          "partialresult": "18:8, 16:6",
+          "stream": null,
+          "bookmakersCount": 15,
+          "winner_post": 0,
+          "betting_type": 1,
+          "odds": [
+            {
+              "avgOdds": 1.48,
+              "bettingTypeId": 1,
+              "eventId": 5553810,
+              "maxOdds": 1.53,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fkixv464x0xe1m5n",
+              "maxOddsProviderId": 3,
+              "active": true
+            },
+            {
+              "avgOdds": 24.15,
+              "bettingTypeId": 1,
+              "eventId": 5553810,
+              "maxOdds": 29,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkixv498x0x0",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 2.65,
+              "bettingTypeId": 1,
+              "eventId": 5553810,
+              "maxOdds": 2.77,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkixv464x0xe1m5o",
+              "maxOddsProviderId": 550,
+              "active": true
+            }
+          ],
+          "name": "Leeds - Salford",
+          "colClassNameTime": "datet t1659880800-1-1-0-0"
+        },
+        {
+          "id": 5553811,
+          "url": "/rugby-league/england/super-league-2022/wakefield-trinity-catalans-dragons-djfHRFMP/",
+          "is-double": false,
+          "home": 14735545,
+          "away": 14735546,
+          "home-name": "Wakefield",
+          "away-name": "Catalans Dragons",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "fr",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/pODpZmCK-Q7raMuHI.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/pCVUxgQt-O8Pxd7sP.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "djfHRFMP",
+          "colClassName": "datet t1659880800-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1659880800,
+          "date-start-timestamp": 1659880800,
+          "result": "16:20",
+          "homeResult": "16",
+          "awayResult": "20",
+          "home-winner": "lost",
+          "away-winner": "win",
+          "info": null,
+          "partialresult": "4:16, 12:4",
+          "stream": null,
+          "bookmakersCount": 15,
+          "betting_type": 1,
+          "winner_post": 2,
+          "odds": [
+            {
+              "avgOdds": 2.11,
+              "bettingTypeId": 1,
+              "eventId": 5553811,
+              "maxOdds": 2.37,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkjxv464x0xe1m5p",
+              "maxOddsProviderId": 2,
+              "active": true
+            },
+            {
+              "avgOdds": 23.56,
+              "bettingTypeId": 1,
+              "eventId": 5553811,
+              "maxOdds": 29,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkjxv498x0x0",
+              "maxOddsProviderId": 617,
+              "active": true
+            },
+            {
+              "avgOdds": 1.75,
+              "bettingTypeId": 1,
+              "eventId": 5553811,
+              "maxOdds": 1.8,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fkjxv464x0xe1m5q",
+              "maxOddsProviderId": 16,
+              "active": true
+            }
+          ],
+          "name": "Wakefield - Catalans Dragons",
+          "colClassNameTime": "datet t1659880800-1-1-0-0"
+        },
+        {
+          "id": 5553807,
+          "url": "/rugby-league/england/super-league-2022/st-helens-castleford-tigers-UwJM5Ya6/",
+          "is-double": false,
+          "home": 14735537,
+          "away": 14735538,
+          "home-name": "St Helens",
+          "away-name": "Castleford",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/O832d7m9-rDATBMS5.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/EuUJEAAK-xOu2HgVI.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "UwJM5Ya6",
+          "colClassName": "datet t1659873600-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1659873600,
+          "date-start-timestamp": 1659873600,
+          "result": "20:12",
+          "homeResult": "20",
+          "awayResult": "12",
+          "home-winner": "win",
+          "away-winner": "lost",
+          "info": null,
+          "partialresult": "12:0, 8:12",
+          "stream": null,
+          "bookmakersCount": 15,
+          "winner_post": 0,
+          "betting_type": 1,
+          "odds": [
+            {
+              "avgOdds": 1.2,
+              "bettingTypeId": 1,
+              "eventId": 5553807,
+              "maxOdds": 1.22,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fkfxv464x0xe1m5h",
+              "maxOddsProviderId": 16,
+              "active": true
+            },
+            {
+              "avgOdds": 28.35,
+              "bettingTypeId": 1,
+              "eventId": 5553807,
+              "maxOdds": 35,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkfxv498x0x0",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 4.5,
+              "bettingTypeId": 1,
+              "eventId": 5553807,
+              "maxOdds": 4.75,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkfxv464x0xe1m5i",
+              "maxOddsProviderId": 15,
+              "active": true
+            }
+          ],
+          "name": "St Helens - Castleford",
+          "colClassNameTime": "datet t1659873600-1-1-0-0"
+        },
+        {
+          "id": 5553808,
+          "url": "/rugby-league/england/super-league-2022/wigan-warriors-warrington-wolves-C28R4hFC/",
+          "is-double": false,
+          "home": 14735539,
+          "away": 14735540,
+          "home-name": "Wigan",
+          "away-name": "Warrington",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/dS8WvS4n-WfK3GeJC.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/pjJ0vX4n-Ea3MIzQT.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "C28R4hFC",
+          "colClassName": "datet t1659726000-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1659726000,
+          "date-start-timestamp": 1659726000,
+          "result": "32:6",
+          "homeResult": "32",
+          "awayResult": "6",
+          "home-winner": "win",
+          "away-winner": "lost",
+          "info": null,
+          "partialresult": "4:6, 28:0",
+          "stream": null,
+          "bookmakersCount": 15,
+          "winner_post": 0,
+          "betting_type": 1,
+          "odds": [
+            {
+              "avgOdds": 1.18,
+              "bettingTypeId": 1,
+              "eventId": 5553808,
+              "maxOdds": 1.23,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fkgxv464x0xe1m5j",
+              "maxOddsProviderId": 417,
+              "active": true
+            },
+            {
+              "avgOdds": 30.62,
+              "bettingTypeId": 1,
+              "eventId": 5553808,
+              "maxOdds": 38,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkgxv498x0x0",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 4.63,
+              "bettingTypeId": 1,
+              "eventId": 5553808,
+              "maxOdds": 5,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkgxv464x0xe1m5k",
+              "maxOddsProviderId": 16,
+              "active": true
+            }
+          ],
+          "name": "Wigan - Warrington",
+          "colClassNameTime": "datet t1659726000-1-1-0-0"
+        },
+        {
+          "id": 5553806,
+          "url": "/rugby-league/england/super-league-2022/huddersfield-hull-fc-GzFI6Ep0/",
+          "is-double": false,
+          "home": 14735535,
+          "away": 14735536,
+          "home-name": "Huddersfield",
+          "away-name": "Hull FC",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/2JhN2lTE-42wMS2s3.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/AakFwEkQ-jX6C7HT8.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "GzFI6Ep0",
+          "colClassName": "datet t1659725100-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1659725100,
+          "date-start-timestamp": 1659725100,
+          "result": "22:16",
+          "homeResult": "22",
+          "awayResult": "16",
+          "home-winner": "win",
+          "away-winner": "lost",
+          "info": null,
+          "partialresult": "0:10, 22:6",
+          "stream": null,
+          "bookmakersCount": 15,
+          "winner_post": 0,
+          "betting_type": 1,
+          "odds": [
+            {
+              "avgOdds": 1.33,
+              "bettingTypeId": 1,
+              "eventId": 5553806,
+              "maxOdds": 1.37,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fkexv464x0xe1m5f",
+              "maxOddsProviderId": 417,
+              "active": true
+            },
+            {
+              "avgOdds": 23.85,
+              "bettingTypeId": 1,
+              "eventId": 5553806,
+              "maxOdds": 30,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkexv498x0x0",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 3.37,
+              "bettingTypeId": 1,
+              "eventId": 5553806,
+              "maxOdds": 3.65,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkexv464x0xe1m5g",
+              "maxOddsProviderId": 3,
+              "active": true
+            }
+          ],
+          "name": "Huddersfield - Hull FC",
+          "colClassNameTime": "datet t1659725100-1-1-0-0"
+        },
+        {
+          "id": 5553809,
+          "url": "/rugby-league/england/super-league-2022/hull-kr-toulouse-olympique-jg7V3CUI/",
+          "is-double": false,
+          "home": 14735541,
+          "away": 14735542,
+          "home-name": "Hull KR",
+          "away-name": "Toulouse Olympique",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "fr",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/AyiktMTE-63wsnQ6J.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/EJh20eiQ-M5Yfva7Q.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "jg7V3CUI",
+          "colClassName": "datet t1659639600-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1659639600,
+          "date-start-timestamp": 1659639600,
+          "result": "22:16",
+          "homeResult": "22",
+          "awayResult": "16",
+          "home-winner": "win",
+          "away-winner": "lost",
+          "info": null,
+          "partialresult": "6:12, 16:4",
+          "stream": null,
+          "bookmakersCount": 15,
+          "winner_post": 0,
+          "betting_type": 1,
+          "odds": [
+            {
+              "avgOdds": 1.38,
+              "bettingTypeId": 1,
+              "eventId": 5553809,
+              "maxOdds": 1.41,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fkhxv464x0xe1m5l",
+              "maxOddsProviderId": 5,
+              "active": true
+            },
+            {
+              "avgOdds": 23.14,
+              "bettingTypeId": 1,
+              "eventId": 5553809,
+              "maxOdds": 26,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkhxv498x0x0",
+              "maxOddsProviderId": 550,
+              "active": true
+            },
+            {
+              "avgOdds": 3.13,
+              "bettingTypeId": 1,
+              "eventId": 5553809,
+              "maxOdds": 3.38,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkhxv464x0xe1m5m",
+              "maxOddsProviderId": 381,
+              "active": true
+            }
+          ],
+          "name": "Hull KR - Toulouse Olympique",
+          "colClassNameTime": "datet t1659639600-1-1-0-0"
+        },
+        {
+          "id": 5553805,
+          "url": "/rugby-league/england/super-league-2022/salford-red-devils-st-helens-MDFE7fVg/",
+          "is-double": false,
+          "home": 14735533,
+          "away": 14735534,
+          "home-name": "Salford",
+          "away-name": "St Helens",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/0Yz6lD6n-6PGXorxA.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/O832d7m9-rDATBMS5.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "MDFE7fVg",
+          "colClassName": "datet t1659276000-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1659276000,
+          "date-start-timestamp": 1659276000,
+          "result": "44:12",
+          "homeResult": "44",
+          "awayResult": "12",
+          "home-winner": "win",
+          "away-winner": "lost",
+          "info": null,
+          "partialresult": "26:0, 18:12",
+          "stream": null,
+          "bookmakersCount": 15,
+          "winner_post": 0,
+          "betting_type": 1,
+          "odds": [
+            {
+              "avgOdds": 3.5,
+              "bettingTypeId": 1,
+              "eventId": 5553805,
+              "maxOdds": 3.82,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fkdxv464x0xe1m5d",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 24.34,
+              "bettingTypeId": 1,
+              "eventId": 5553805,
+              "maxOdds": 33,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkdxv498x0x0",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 1.31,
+              "bettingTypeId": 1,
+              "eventId": 5553805,
+              "maxOdds": 1.33,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkdxv464x0xe1m5e",
+              "maxOddsProviderId": 16,
+              "active": true
+            }
+          ],
+          "name": "Salford - St Helens",
+          "colClassNameTime": "datet t1659276000-1-1-0-0"
+        },
+        {
+          "id": 5553804,
+          "url": "/rugby-league/england/super-league-2022/catalans-dragons-leeds-rhinos-rNGA8zGm/",
+          "is-double": false,
+          "home": 14735531,
+          "away": 14735532,
+          "home-name": "Catalans Dragons",
+          "away-name": "Leeds",
+          "home-country-two-chart-name": "fr",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 10,
+          "event-stage-id": 10,
+          "event-stage-name": "After Extra Time",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/pCVUxgQt-O8Pxd7sP.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/lvG5p3AK-QHmhyON6.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "rNGA8zGm",
+          "colClassName": "datet t1659200400-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1659200400,
+          "date-start-timestamp": 1659200400,
+          "result": "32:36&nbsp;OT",
+          "homeResult": "32",
+          "awayResult": "36&nbsp;OT",
+          "home-winner": "lost",
+          "away-winner": "win",
+          "info": null,
+          "partialresult": "16:6, 16:26, 0:4",
+          "stream": null,
+          "bookmakersCount": 15,
+          "betting_type": 1,
+          "winner_post": 1,
+          "odds": [
+            {
+              "avgOdds": 1.45,
+              "bettingTypeId": 1,
+              "eventId": 5553804,
+              "maxOdds": 1.5,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkcxv464x0xe1m5b",
+              "maxOddsProviderId": 2,
+              "active": true
+            },
+            {
+              "avgOdds": 23.35,
+              "bettingTypeId": 1,
+              "eventId": 5553804,
+              "maxOdds": 31,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fkcxv498x0x0",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 2.8,
+              "bettingTypeId": 1,
+              "eventId": 5553804,
+              "maxOdds": 3.05,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkcxv464x0xe1m5c",
+              "maxOddsProviderId": 3,
+              "active": true
+            }
+          ],
+          "name": "Catalans Dragons - Leeds",
+          "colClassNameTime": "datet t1659200400-1-1-0-0"
+        },
+        {
+          "id": 5553800,
+          "url": "/rugby-league/england/super-league-2022/huddersfield-warrington-wolves-IuXVFIND/",
+          "is-double": false,
+          "home": 14735523,
+          "away": 14735524,
+          "home-name": "Huddersfield",
+          "away-name": "Warrington",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/2JhN2lTE-42wMS2s3.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/pjJ0vX4n-Ea3MIzQT.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "IuXVFIND",
+          "colClassName": "datet t1659189600-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1659189600,
+          "date-start-timestamp": 1659189600,
+          "result": "32:22",
+          "homeResult": "32",
+          "awayResult": "22",
+          "home-winner": "win",
+          "away-winner": "lost",
+          "info": null,
+          "partialresult": "10:12, 22:10",
+          "stream": null,
+          "bookmakersCount": 15,
+          "winner_post": 0,
+          "betting_type": 1,
+          "odds": [
+            {
+              "avgOdds": 1.49,
+              "bettingTypeId": 1,
+              "eventId": 5553800,
+              "maxOdds": 1.57,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fk8xv464x0xe1m53",
+              "maxOddsProviderId": 15,
+              "active": true
+            },
+            {
+              "avgOdds": 22.85,
+              "bettingTypeId": 1,
+              "eventId": 5553800,
+              "maxOdds": 29,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fk8xv498x0x0",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 2.65,
+              "bettingTypeId": 1,
+              "eventId": 5553800,
+              "maxOdds": 2.76,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fk8xv464x0xe1m54",
+              "maxOddsProviderId": 381,
+              "active": true
+            }
+          ],
+          "name": "Huddersfield - Warrington",
+          "colClassNameTime": "datet t1659189600-1-1-0-0"
+        },
+        {
+          "id": 5553803,
+          "url": "/rugby-league/england/super-league-2022/castleford-tigers-wakefield-trinity-QoM59G0s/",
+          "is-double": false,
+          "home": 14735529,
+          "away": 14735530,
+          "home-name": "Castleford",
+          "away-name": "Wakefield",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/EuUJEAAK-xOu2HgVI.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/pODpZmCK-Q7raMuHI.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "QoM59G0s",
+          "colClassName": "datet t1659121200-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1659121200,
+          "date-start-timestamp": 1659121200,
+          "result": "6:32",
+          "homeResult": "6",
+          "awayResult": "32",
+          "home-winner": "lost",
+          "away-winner": "win",
+          "info": null,
+          "partialresult": "0:18, 6:14",
+          "stream": null,
+          "bookmakersCount": 15,
+          "betting_type": 1,
+          "winner_post": 2,
+          "odds": [
+            {
+              "avgOdds": 1.19,
+              "bettingTypeId": 1,
+              "eventId": 5553803,
+              "maxOdds": 1.21,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkbxv464x0xe1m59",
+              "maxOddsProviderId": 3,
+              "active": true
+            },
+            {
+              "avgOdds": 29.08,
+              "bettingTypeId": 1,
+              "eventId": 5553803,
+              "maxOdds": 41,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkbxv498x0x0",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 4.72,
+              "bettingTypeId": 1,
+              "eventId": 5553803,
+              "maxOdds": 5.31,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fkbxv464x0xe1m5a",
+              "maxOddsProviderId": 417,
+              "active": true
+            }
+          ],
+          "name": "Castleford - Wakefield",
+          "colClassNameTime": "datet t1659121200-1-1-0-0"
+        },
+        {
+          "id": 5553802,
+          "url": "/rugby-league/england/super-league-2022/toulouse-olympique-hull-fc-OxzvEdhQ/",
+          "is-double": false,
+          "home": 14735527,
+          "away": 14735528,
+          "home-name": "Toulouse Olympique",
+          "away-name": "Hull FC",
+          "home-country-two-chart-name": "fr",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/EJh20eiQ-M5Yfva7Q.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/AakFwEkQ-jX6C7HT8.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "OxzvEdhQ",
+          "colClassName": "datet t1659114000-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1659114000,
+          "date-start-timestamp": 1659114000,
+          "result": "6:30",
+          "homeResult": "6",
+          "awayResult": "30",
+          "home-winner": "lost",
+          "away-winner": "win",
+          "info": null,
+          "partialresult": "6:10, 0:20",
+          "stream": null,
+          "bookmakersCount": 15,
+          "betting_type": 1,
+          "winner_post": 2,
+          "odds": [
+            {
+              "avgOdds": 1.68,
+              "bettingTypeId": 1,
+              "eventId": 5553802,
+              "maxOdds": 1.73,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkaxv464x0xe1m57",
+              "maxOddsProviderId": 417,
+              "active": true
+            },
+            {
+              "avgOdds": 21.69,
+              "bettingTypeId": 1,
+              "eventId": 5553802,
+              "maxOdds": 26,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fkaxv498x0x0",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 2.22,
+              "bettingTypeId": 1,
+              "eventId": 5553802,
+              "maxOdds": 2.3,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fkaxv464x0xe1m58",
+              "maxOddsProviderId": 15,
+              "active": true
+            }
+          ],
+          "name": "Toulouse Olympique - Hull FC",
+          "colClassNameTime": "datet t1659114000-1-1-0-0"
+        },
+        {
+          "id": 5553801,
+          "url": "/rugby-league/england/super-league-2022/wigan-warriors-hull-kr-UFzzFxwK/",
+          "is-double": false,
+          "home": 14735525,
+          "away": 14735526,
+          "home-name": "Wigan",
+          "away-name": "Hull KR",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/dS8WvS4n-WfK3GeJC.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/AyiktMTE-63wsnQ6J.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "UFzzFxwK",
+          "colClassName": "datet t1659034800-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1659034800,
+          "date-start-timestamp": 1659034800,
+          "result": "46:4",
+          "homeResult": "46",
+          "awayResult": "4",
+          "home-winner": "win",
+          "away-winner": "lost",
+          "info": null,
+          "partialresult": "20:4, 26:0",
+          "stream": null,
+          "bookmakersCount": 15,
+          "winner_post": 0,
+          "betting_type": 1,
+          "odds": [
+            {
+              "avgOdds": 1.04,
+              "bettingTypeId": 1,
+              "eventId": 5553801,
+              "maxOdds": 1.07,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fk9xv464x0xe1m55",
+              "maxOddsProviderId": 550,
+              "active": true
+            },
+            {
+              "avgOdds": 42,
+              "bettingTypeId": 1,
+              "eventId": 5553801,
+              "maxOdds": 67,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fk9xv498x0x0",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 9.73,
+              "bettingTypeId": 1,
+              "eventId": 5553801,
+              "maxOdds": 13,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fk9xv464x0xe1m56",
+              "maxOddsProviderId": 417,
+              "active": true
+            }
+          ],
+          "name": "Wigan - Hull KR",
+          "colClassNameTime": "datet t1659034800-1-1-0-0"
+        },
+        {
+          "id": 5553799,
+          "url": "/rugby-league/england/super-league-2022/wakefield-trinity-st-helens-E76k7QJD/",
+          "is-double": false,
+          "home": 14735521,
+          "away": 14735522,
+          "home-name": "Wakefield",
+          "away-name": "St Helens",
+          "home-country-two-chart-name": "198",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 10,
+          "event-stage-id": 10,
+          "event-stage-name": "After Extra Time",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/pODpZmCK-Q7raMuHI.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/O832d7m9-rDATBMS5.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "E76k7QJD",
+          "colClassName": "datet t1658671200-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1658671200,
+          "date-start-timestamp": 1658671200,
+          "result": "12:13&nbsp;OT",
+          "homeResult": "12",
+          "awayResult": "13&nbsp;OT",
+          "home-winner": "lost",
+          "away-winner": "win",
+          "info": null,
+          "partialresult": "10:0, 2:12, 0:1",
+          "stream": null,
+          "bookmakersCount": 15,
+          "betting_type": 1,
+          "winner_post": 1,
+          "odds": [
+            {
+              "avgOdds": 4.76,
+              "bettingTypeId": 1,
+              "eventId": 5553799,
+              "maxOdds": 5.5,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fk7xv464x0xe1m51",
+              "maxOddsProviderId": 2,
+              "active": true
+            },
+            {
+              "avgOdds": 30.33,
+              "bettingTypeId": 1,
+              "eventId": 5553799,
+              "maxOdds": 38,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fk7xv498x0x0",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 1.19,
+              "bettingTypeId": 1,
+              "eventId": 5553799,
+              "maxOdds": 1.23,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fk7xv464x0xe1m52",
+              "maxOddsProviderId": 417,
+              "active": true
+            }
+          ],
+          "name": "Wakefield - St Helens",
+          "colClassNameTime": "datet t1658671200-1-1-0-0"
+        },
+        {
+          "id": 5553797,
+          "url": "/rugby-league/england/super-league-2022/toulouse-olympique-salford-red-devils-6s3s9nk1/",
+          "is-double": false,
+          "home": 14735517,
+          "away": 14735518,
+          "home-name": "Toulouse Olympique",
+          "away-name": "Salford",
+          "home-country-two-chart-name": "fr",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/EJh20eiQ-M5Yfva7Q.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/0Yz6lD6n-6PGXorxA.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "6s3s9nk1",
+          "colClassName": "datet t1658599200-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1658599200,
+          "date-start-timestamp": 1658599200,
+          "result": "11:24",
+          "homeResult": "11",
+          "awayResult": "24",
+          "home-winner": "lost",
+          "away-winner": "win",
+          "info": null,
+          "partialresult": "9:6, 2:18",
+          "stream": null,
+          "bookmakersCount": 14,
+          "betting_type": 1,
+          "winner_post": 2,
+          "odds": [
+            {
+              "avgOdds": 2.08,
+              "bettingTypeId": 1,
+              "eventId": 5553797,
+              "maxOdds": 2.18,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fk5xv464x0xe1m4t",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 21.33,
+              "bettingTypeId": 1,
+              "eventId": 5553797,
+              "maxOdds": 25,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fk5xv498x0x0",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 1.77,
+              "bettingTypeId": 1,
+              "eventId": 5553797,
+              "maxOdds": 1.83,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fk5xv464x0xe1m4u",
+              "maxOddsProviderId": 15,
+              "active": true
+            }
+          ],
+          "name": "Toulouse Olympique - Salford",
+          "colClassNameTime": "datet t1658599200-1-1-0-0"
+        },
+        {
+          "id": 5553795,
+          "url": "/rugby-league/england/super-league-2022/catalans-dragons-huddersfield-pSEYA8Kl/",
+          "is-double": false,
+          "home": 14735513,
+          "away": 14735514,
+          "home-name": "Catalans Dragons",
+          "away-name": "Huddersfield",
+          "home-country-two-chart-name": "fr",
+          "away-country-two-chart-name": "198",
+          "home-participant-id": 1,
+          "away-participant-id": 1,
+          "status-id": 3,
+          "event-stage-id": 3,
+          "event-stage-name": "Finished",
+          "tournament-stage-id": 109833,
+          "tournament-stage-type-id": 2,
+          "tournament-stage-group-id": 0,
+          "tournament-stage-name": "",
+          "sport-id": 19,
+          "cols": "1|X|2",
+          "country-id": 198,
+          "country-name": "England",
+          "country-two-chart-name": 198,
+          "country-type": "State",
+          "tournament-id": 65647,
+          "tournament-name": "Super League 2022",
+          "tournament-url": "super-league-2022",
+          "home-participant-images": [
+            "/serve/images/team-logo/Men/pCVUxgQt-O8Pxd7sP.png"
+          ],
+          "away-participant-images": [
+            "/serve/images/team-logo/Men/2JhN2lTE-42wMS2s3.png"
+          ],
+          "sport-url-name": "rugby-league",
+          "breadcrumbs": {
+            "sport": {
+              "name": "Rugby League",
+              "url": "/rugby-league/"
+            },
+            "country": {
+              "name": "England",
+              "url": "/rugby-league/england/"
+            },
+            "tournament": {
+              "name": "Super League 2022",
+              "url": "/rugby-league/england/super-league-2022/"
+            }
+          },
+          "encodeEventId": "pSEYA8Kl",
+          "colClassName": "datet t1658592000-2-0-0-1",
+          "homeParticipantTypes": [
+            1
+          ],
+          "awayParticipantTypes": [
+            1
+          ],
+          "date-start-base": 1658592000,
+          "date-start-timestamp": 1658592000,
+          "result": "13:12",
+          "homeResult": "13",
+          "awayResult": "12",
+          "home-winner": "win",
+          "away-winner": "lost",
+          "info": null,
+          "partialresult": "4:4, 9:8",
+          "stream": null,
+          "bookmakersCount": 14,
+          "winner_post": 0,
+          "betting_type": 1,
+          "odds": [
+            {
+              "avgOdds": 1.46,
+              "bettingTypeId": 1,
+              "eventId": 5553795,
+              "maxOdds": 1.51,
+              "outcomeResultId": 1,
+              "scopeId": 2,
+              "outcomeId": "59fk3xv464x0xe1m4p",
+              "maxOddsProviderId": 417,
+              "active": true
+            },
+            {
+              "avgOdds": 23.08,
+              "bettingTypeId": 1,
+              "eventId": 5553795,
+              "maxOdds": 32,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fk3xv498x0x0",
+              "maxOddsProviderId": 381,
+              "active": true
+            },
+            {
+              "avgOdds": 2.78,
+              "bettingTypeId": 1,
+              "eventId": 5553795,
+              "maxOdds": 3.1,
+              "outcomeResultId": 2,
+              "scopeId": 2,
+              "outcomeId": "59fk3xv464x0xe1m4q",
+              "maxOddsProviderId": 15,
+              "active": true
+            }
+          ],
+          "name": "Catalans Dragons - Huddersfield",
+          "colClassNameTime": "datet t1658592000-1-1-0-0"
+        }
+      ],
+      "paginationView": "<div class=\"flex mx-3 mt-7\"><div class=\"flex items-center justify-center mr-3\"></div><div id=\"pagination\" class=\"flex-wrap w-full gap-4 max-sm:w-full max-sm:mt-11 max-sm:relative max-sm:flex-auto flex-center min-sm:px-3\"><span class=\"w-6 h-8 text-xs leading-4 flex-center active-page bg-gray-light test\">1</span><a href=\"javascript: void(0)\" :href=\"https://www.oddsportal.com/ajax-sport-country-tournament-archive_/19/4vvIVnie/X0/1/0/page/2/\" onclick=\"pagination(this)\" x-page=\"2\" class=\"flex test3\"><span class=\"w-6 h-8 text-xs leading-4 underline flex-center text-black-main\">2</span></a><a href=\"javascript: void(0)\" :href=\"https://www.oddsportal.com/ajax-sport-country-tournament-archive_/19/4vvIVnie/X0/1/0/page/3/\" onclick=\"pagination(this)\" x-page=\"3\" class=\"flex test3\"><span class=\"w-6 h-8 text-xs leading-4 underline flex-center text-black-main\">3</span></a><a href=\"javascript: void(0)\" :href=\"https://www.oddsportal.com/ajax-sport-country-tournament-archive_/19/4vvIVnie/X0/1/0/page/4/\" onclick=\"pagination(this)\" x-page=\"4\" class=\"flex test3\"><span class=\"w-6 h-8 text-xs leading-4 underline flex-center text-black-main\">4</span></a></div><div class=\"flex items-center justify-center ml-3\"><a class=\"h-max\" href=\"javascript: void(0)\" :href=\"https://www.oddsportal.com/ajax-sport-country-tournament-archive_/19/4vvIVnie/X0/1/0/page/2/\" onclick=\"pagination(this)\" x-page=\"2\">                        <div class=\"flex justify-center gap-1 text-xs underline capitalize\">                            <p class=\"flex items-center\">next</p>                        </div>                    </a>                    <a href=\"javascript: void(0)\" :href=\"https://www.oddsportal.com/ajax-sport-country-tournament-archive_/19/4vvIVnie/X0/1/0/page/4/\" onclick=\"pagination(this)\" x-page=\"5\" class=\"w-6 h-6 bg-no-repeat bg-skip-next\"></a></div></div>"
+    },
+    "refresh": 20
+  }

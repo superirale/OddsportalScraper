@@ -1,0 +1,5227 @@
+{
+  "s": 1,
+  "d": {
+    "total": 204,
+    "onePage": 50,
+    "page": 1,
+    "rows": [
+      {
+        "id": 6254123,
+        "url": "/rugby-league/australia/nrl-2022/penrith-panthers-parramatta-eels-UskJvKm4/",
+        "is-double": false,
+        "home": 16676431,
+        "away": 16676432,
+        "home-name": "Penrith Panthers",
+        "away-name": "Parramatta Eels",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113697,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/hpRGvNSc-hQ68UlEd.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/n1xCK2oh-0fKl6Lea.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "UskJvKm4",
+        "colClassName": "datet t1664699400-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1664699400,
+        "date-start-timestamp": 1664699400,
+        "result": "28:12",
+        "homeResult": "28",
+        "awayResult": "12",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "info": null,
+        "partialresult": "18:0, 10:12",
+        "stream": {
+          "417": 1,
+          "453": 1
+        },
+        "bookmakersCount": 14,
+        "winner_post": 0,
+        "betting_type": 1,
+        "odds": [
+          {
+            "avgOdds": 1.34,
+            "bettingTypeId": 1,
+            "eventId": 6254123,
+            "maxOdds": 1.38,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "5urhbxv464x0xfstif",
+            "maxOddsProviderId": 417,
+            "active": true
+          },
+          {
+            "avgOdds": 22.46,
+            "bettingTypeId": 1,
+            "eventId": 6254123,
+            "maxOdds": 25,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "5urhbxv498x0x0",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 3.37,
+            "bettingTypeId": 1,
+            "eventId": 6254123,
+            "maxOdds": 3.68,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "5urhbxv464x0xfstig",
+            "maxOddsProviderId": 381,
+            "active": true
+          }
+        ],
+        "name": "Penrith Panthers - Parramatta Eels",
+        "colClassNameTime": "datet t1664699400-1-1-0-0"
+      },
+      {
+        "id": 6239155,
+        "url": "/rugby-league/australia/nrl-2022/penrith-panthers-south-sydney-rabbitohs-0IuYv2Or/",
+        "is-double": false,
+        "home": 16632277,
+        "away": 16632278,
+        "home-name": "Penrith Panthers",
+        "away-name": "South Sydney Rabbitohs",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113697,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/hpRGvNSc-hQ68UlEd.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/xjzxa5Rc-pIUtLbwk.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "0IuYv2Or",
+        "colClassName": "datet t1664013000-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1664013000,
+        "date-start-timestamp": 1664013000,
+        "result": "32:12",
+        "homeResult": "32",
+        "awayResult": "12",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "info": null,
+        "partialresult": "12:12, 20:0",
+        "stream": null,
+        "bookmakersCount": 14,
+        "winner_post": 0,
+        "betting_type": 1,
+        "odds": [
+          {
+            "avgOdds": 1.31,
+            "bettingTypeId": 1,
+            "eventId": 6239155,
+            "maxOdds": 1.36,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "5uctjxv464x0xfriel",
+            "maxOddsProviderId": 3,
+            "active": true
+          },
+          {
+            "avgOdds": 25,
+            "bettingTypeId": 1,
+            "eventId": 6239155,
+            "maxOdds": 28,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "5uctjxv498x0x0",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 3.53,
+            "bettingTypeId": 1,
+            "eventId": 6239155,
+            "maxOdds": 4.05,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "5uctjxv464x0xfriem",
+            "maxOddsProviderId": 381,
+            "active": true
+          }
+        ],
+        "name": "Penrith Panthers - South Sydney Rabbitohs",
+        "colClassNameTime": "datet t1664013000-1-1-0-0"
+      },
+      {
+        "id": 6237940,
+        "url": "/rugby-league/australia/nrl-2022/north-queensland-cowboys-parramatta-eels-AumZRbIJ/",
+        "is-double": false,
+        "home": 16628504,
+        "away": 16628505,
+        "home-name": "NQ Cowboys",
+        "away-name": "Parramatta Eels",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113697,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/zTa6xH73-QFleSbKF.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/n1xCK2oh-0fKl6Lea.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "AumZRbIJ",
+        "colClassName": "datet t1663926600-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1663926600,
+        "date-start-timestamp": 1663926600,
+        "result": "20:24",
+        "homeResult": "20",
+        "awayResult": "24",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "info": null,
+        "partialresult": "12:12, 8:12",
+        "stream": null,
+        "bookmakersCount": 14,
+        "betting_type": 1,
+        "winner_post": 2,
+        "odds": [
+          {
+            "avgOdds": 1.7,
+            "bettingTypeId": 1,
+            "eventId": 6237940,
+            "maxOdds": 1.79,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "5ubnkxv464x0xfreoo",
+            "maxOddsProviderId": 417,
+            "active": true
+          },
+          {
+            "avgOdds": 21.31,
+            "bettingTypeId": 1,
+            "eventId": 6237940,
+            "maxOdds": 24,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "5ubnkxv498x0x0",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 2.21,
+            "bettingTypeId": 1,
+            "eventId": 6237940,
+            "maxOdds": 2.31,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "5ubnkxv464x0xfreop",
+            "maxOddsProviderId": 381,
+            "active": true
+          }
+        ],
+        "name": "NQ Cowboys - Parramatta Eels",
+        "colClassNameTime": "datet t1663926600-1-1-0-0"
+      },
+      {
+        "id": 6226551,
+        "url": "/rugby-league/australia/nrl-2022/cronulla-sharks-south-sydney-rabbitohs-0najRei3/",
+        "is-double": false,
+        "home": 16592630,
+        "away": 16592631,
+        "home-name": "Cronulla Sharks",
+        "away-name": "South Sydney Rabbitohs",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113697,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/0IqBDDSc-dfDpRZgA.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/xjzxa5Rc-pIUtLbwk.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "0najRei3",
+        "colClassName": "datet t1663408800-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1663408800,
+        "date-start-timestamp": 1663408800,
+        "result": "12:38",
+        "homeResult": "12",
+        "awayResult": "38",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "info": null,
+        "partialresult": "0:18, 12:20",
+        "stream": null,
+        "bookmakersCount": 14,
+        "betting_type": 1,
+        "winner_post": 2,
+        "odds": [
+          {
+            "avgOdds": 2.27,
+            "bettingTypeId": 1,
+            "eventId": 6226551,
+            "maxOdds": 2.35,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "5u0jnxv464x0xfqbnm",
+            "maxOddsProviderId": 5,
+            "active": true
+          },
+          {
+            "avgOdds": 20.4,
+            "bettingTypeId": 1,
+            "eventId": 6226551,
+            "maxOdds": 23,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "5u0jnxv498x0x0",
+            "maxOddsProviderId": 15,
+            "active": true
+          },
+          {
+            "avgOdds": 1.68,
+            "bettingTypeId": 1,
+            "eventId": 6226551,
+            "maxOdds": 1.73,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "5u0jnxv464x0xfqbnn",
+            "maxOddsProviderId": 15,
+            "active": true
+          }
+        ],
+        "name": "Cronulla Sharks - South Sydney Rabbitohs",
+        "colClassNameTime": "datet t1663408800-1-1-0-0"
+      },
+      {
+        "id": 6225093,
+        "url": "/rugby-league/australia/nrl-2022/parramatta-eels-canberra-raiders-KG3w65fR/",
+        "is-double": false,
+        "home": 16589022,
+        "away": 16589023,
+        "home-name": "Parramatta Eels",
+        "away-name": "Canberra Raiders",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113697,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/n1xCK2oh-0fKl6Lea.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/YmzJFJmh-IVxiY1Kq.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "KG3w65fR",
+        "colClassName": "datet t1663321800-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1663321800,
+        "date-start-timestamp": 1663321800,
+        "result": "40:4",
+        "homeResult": "40",
+        "awayResult": "4",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "info": null,
+        "partialresult": "22:4, 18:0",
+        "stream": null,
+        "bookmakersCount": 14,
+        "winner_post": 0,
+        "betting_type": 1,
+        "odds": [
+          {
+            "avgOdds": 1.49,
+            "bettingTypeId": 1,
+            "eventId": 6225093,
+            "maxOdds": 1.53,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "5tv65xv464x0xfq86u",
+            "maxOddsProviderId": 15,
+            "active": true
+          },
+          {
+            "avgOdds": 23.62,
+            "bettingTypeId": 1,
+            "eventId": 6225093,
+            "maxOdds": 26,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "5tv65xv498x0x0",
+            "maxOddsProviderId": 16,
+            "active": true
+          },
+          {
+            "avgOdds": 2.67,
+            "bettingTypeId": 1,
+            "eventId": 6225093,
+            "maxOdds": 2.76,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "5tv65xv464x0xfq86v",
+            "maxOddsProviderId": 381,
+            "active": true
+          }
+        ],
+        "name": "Parramatta Eels - Canberra Raiders",
+        "colClassNameTime": "datet t1663321800-1-1-0-0"
+      },
+      {
+        "id": 6207228,
+        "url": "/rugby-league/australia/nrl-2022/sydney-roosters-south-sydney-rabbitohs-vmqeB20I/",
+        "is-double": false,
+        "home": 16537650,
+        "away": 16537651,
+        "home-name": "Sydney Roosters",
+        "away-name": "South Sydney Rabbitohs",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113697,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/vVDOk7VE-GfEFzHVt.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/xjzxa5Rc-pIUtLbwk.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "vmqeB20I",
+        "colClassName": "datet t1662876300-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1662876300,
+        "date-start-timestamp": 1662876300,
+        "result": "14:30",
+        "homeResult": "14",
+        "awayResult": "30",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "info": null,
+        "partialresult": "8:12, 6:18",
+        "stream": null,
+        "bookmakersCount": 15,
+        "betting_type": 1,
+        "winner_post": 2,
+        "odds": [
+          {
+            "avgOdds": 1.58,
+            "bettingTypeId": 1,
+            "eventId": 6207228,
+            "maxOdds": 1.63,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "5tdnsxv464x0xfom1i",
+            "maxOddsProviderId": 5,
+            "active": true
+          },
+          {
+            "avgOdds": 21.34,
+            "bettingTypeId": 1,
+            "eventId": 6207228,
+            "maxOdds": 24,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "5tdnsxv498x0x0",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 2.43,
+            "bettingTypeId": 1,
+            "eventId": 6207228,
+            "maxOdds": 2.52,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "5tdnsxv464x0xfom1j",
+            "maxOddsProviderId": 381,
+            "active": true
+          }
+        ],
+        "name": "Sydney Roosters - South Sydney Rabbitohs",
+        "colClassNameTime": "datet t1662876300-1-1-0-0"
+      },
+      {
+        "id": 6213407,
+        "url": "/rugby-league/australia/nrl-2022/cronulla-sharks-north-queensland-cowboys-nBTCFtGq/",
+        "is-double": false,
+        "home": 16554879,
+        "away": 16554880,
+        "home-name": "Cronulla Sharks",
+        "away-name": "NQ Cowboys",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 10,
+        "event-stage-id": 10,
+        "event-stage-name": "After Extra Time",
+        "tournament-stage-id": 113697,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/0IqBDDSc-dfDpRZgA.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/zTa6xH73-QFleSbKF.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "nBTCFtGq",
+        "colClassName": "datet t1662803400-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1662803400,
+        "date-start-timestamp": 1662803400,
+        "result": "30:32&nbsp;OT",
+        "homeResult": "30",
+        "awayResult": "32&nbsp;OT",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "info": null,
+        "partialresult": "18:18, 12:12, 0:2",
+        "stream": {
+          "24": 1,
+          "33": 1,
+          "43": 1,
+          "417": 1,
+          "453": 1
+        },
+        "bookmakersCount": 15,
+        "betting_type": 1,
+        "winner_post": 1,
+        "odds": [
+          {
+            "avgOdds": 1.67,
+            "bettingTypeId": 1,
+            "eventId": 6213407,
+            "maxOdds": 1.7,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "5tjovxv464x0xfp6rv",
+            "maxOddsProviderId": 16,
+            "active": true
+          },
+          {
+            "avgOdds": 21.29,
+            "bettingTypeId": 1,
+            "eventId": 6213407,
+            "maxOdds": 25,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "5tjovxv498x0x0",
+            "maxOddsProviderId": 417,
+            "active": true
+          },
+          {
+            "avgOdds": 2.27,
+            "bettingTypeId": 1,
+            "eventId": 6213407,
+            "maxOdds": 2.34,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "5tjovxv464x0xfp6s0",
+            "maxOddsProviderId": 381,
+            "active": true
+          }
+        ],
+        "name": "Cronulla Sharks - NQ Cowboys",
+        "colClassNameTime": "datet t1662803400-1-1-0-0"
+      },
+      {
+        "id": 6213406,
+        "url": "/rugby-league/australia/nrl-2022/melbourne-storm-canberra-raiders-p2soKM7S/",
+        "is-double": false,
+        "home": 16554877,
+        "away": 16554878,
+        "home-name": "Melbourne Storm",
+        "away-name": "Canberra Raiders",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113697,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/SzaXrn5n-CWUSBLm7.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/YmzJFJmh-IVxiY1Kq.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "p2soKM7S",
+        "colClassName": "datet t1662795600-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1662795600,
+        "date-start-timestamp": 1662795600,
+        "result": "20:28",
+        "homeResult": "20",
+        "awayResult": "28",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "info": null,
+        "partialresult": "8:16, 12:12",
+        "stream": null,
+        "bookmakersCount": 15,
+        "betting_type": 1,
+        "winner_post": 2,
+        "odds": [
+          {
+            "avgOdds": 1.33,
+            "bettingTypeId": 1,
+            "eventId": 6213406,
+            "maxOdds": 1.4,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "5tjouxv464x0xfp6rt",
+            "maxOddsProviderId": 15,
+            "active": true
+          },
+          {
+            "avgOdds": 24.29,
+            "bettingTypeId": 1,
+            "eventId": 6213406,
+            "maxOdds": 28,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "5tjouxv498x0x0",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 3.38,
+            "bettingTypeId": 1,
+            "eventId": 6213406,
+            "maxOdds": 3.62,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "5tjouxv464x0xfp6ru",
+            "maxOddsProviderId": 417,
+            "active": true
+          }
+        ],
+        "name": "Melbourne Storm - Canberra Raiders",
+        "colClassNameTime": "datet t1662795600-1-1-0-0"
+      },
+      {
+        "id": 6206975,
+        "url": "/rugby-league/australia/nrl-2022/penrith-panthers-parramatta-eels-0EDMVaff/",
+        "is-double": false,
+        "home": 16536874,
+        "away": 16536875,
+        "home-name": "Penrith Panthers",
+        "away-name": "Parramatta Eels",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113697,
+        "tournament-stage-type-id": 11,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": " - Play Offs",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/hpRGvNSc-hQ68UlEd.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/n1xCK2oh-0fKl6Lea.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "0EDMVaff",
+        "colClassName": "datet t1662717000-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1662717000,
+        "date-start-timestamp": 1662717000,
+        "result": "27:8",
+        "homeResult": "27",
+        "awayResult": "8",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "info": null,
+        "partialresult": "7:6, 20:2",
+        "stream": null,
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 1,
+        "odds": [
+          {
+            "avgOdds": 1.37,
+            "bettingTypeId": 1,
+            "eventId": 6206975,
+            "maxOdds": 1.42,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "5tdfvxv464x0xfol9a",
+            "maxOddsProviderId": 16,
+            "active": true
+          },
+          {
+            "avgOdds": 23.57,
+            "bettingTypeId": 1,
+            "eventId": 6206975,
+            "maxOdds": 36,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "5tdfvxv498x0x0",
+            "maxOddsProviderId": 417,
+            "active": true
+          },
+          {
+            "avgOdds": 3.17,
+            "bettingTypeId": 1,
+            "eventId": 6206975,
+            "maxOdds": 3.38,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "5tdfvxv464x0xfol9b",
+            "maxOddsProviderId": 381,
+            "active": true
+          }
+        ],
+        "name": "Penrith Panthers - Parramatta Eels",
+        "colClassNameTime": "datet t1662717000-1-1-0-0"
+      },
+      {
+        "id": 5531532,
+        "url": "/rugby-league/australia/nrl-2022/wests-tigers-canberra-raiders-MF6HNlwb/",
+        "is-double": false,
+        "home": 14669297,
+        "away": 14669298,
+        "home-name": "Wests Tigers",
+        "away-name": "Canberra Raiders",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/xO6qbJAK-pS5BxT3L.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/YmzJFJmh-IVxiY1Kq.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "MF6HNlwb",
+        "colClassName": "datet t1662271500-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1662271500,
+        "date-start-timestamp": 1662271500,
+        "result": "10:56",
+        "homeResult": "10",
+        "awayResult": "56",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "info": null,
+        "partialresult": "0:42, 10:14",
+        "stream": null,
+        "bookmakersCount": 15,
+        "betting_type": 1,
+        "winner_post": 2,
+        "odds": [
+          {
+            "avgOdds": 2.78,
+            "bettingTypeId": 1,
+            "eventId": 5531532,
+            "maxOdds": 2.95,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58pscxv464x0xdvlfh",
+            "maxOddsProviderId": 3,
+            "active": true
+          },
+          {
+            "avgOdds": 25.79,
+            "bettingTypeId": 1,
+            "eventId": 5531532,
+            "maxOdds": 31,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58pscxv498x0x0",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 1.45,
+            "bettingTypeId": 1,
+            "eventId": 5531532,
+            "maxOdds": 1.51,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58pscxv464x0xdvlfi",
+            "maxOddsProviderId": 417,
+            "active": true
+          }
+        ],
+        "name": "Wests Tigers - Canberra Raiders",
+        "colClassNameTime": "datet t1662271500-1-1-0-0"
+      },
+      {
+        "id": 5531531,
+        "url": "/rugby-league/australia/nrl-2022/newcastle-knights-cronulla-sharks-4vCCOUNi/",
+        "is-double": false,
+        "home": 14669295,
+        "away": 14669296,
+        "home-name": "Newcastle Knights",
+        "away-name": "Cronulla Sharks",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/6L6j0PVE-lC8KaUse.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/0IqBDDSc-dfDpRZgA.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "4vCCOUNi",
+        "colClassName": "datet t1662264000-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1662264000,
+        "date-start-timestamp": 1662264000,
+        "result": "16:38",
+        "homeResult": "16",
+        "awayResult": "38",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "info": null,
+        "partialresult": "12:12, 4:26",
+        "stream": null,
+        "bookmakersCount": 15,
+        "betting_type": 1,
+        "winner_post": 2,
+        "odds": [
+          {
+            "avgOdds": 6.63,
+            "bettingTypeId": 1,
+            "eventId": 5531531,
+            "maxOdds": 8.5,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58psbxv464x0xdvlff",
+            "maxOddsProviderId": 5,
+            "active": true
+          },
+          {
+            "avgOdds": 39.31,
+            "bettingTypeId": 1,
+            "eventId": 5531531,
+            "maxOdds": 48,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58psbxv498x0x0",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 1.1,
+            "bettingTypeId": 1,
+            "eventId": 5531531,
+            "maxOdds": 1.12,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58psbxv464x0xdvlfg",
+            "maxOddsProviderId": 2,
+            "active": true
+          }
+        ],
+        "name": "Newcastle Knights - Cronulla Sharks",
+        "colClassNameTime": "datet t1662264000-1-1-0-0"
+      },
+      {
+        "id": 5531530,
+        "url": "/rugby-league/australia/nrl-2022/north-queensland-cowboys-penrith-panthers-QmD8PA8o/",
+        "is-double": false,
+        "home": 14669293,
+        "away": 14669294,
+        "home-name": "NQ Cowboys",
+        "away-name": "Penrith Panthers",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/zTa6xH73-QFleSbKF.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/hpRGvNSc-hQ68UlEd.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "QmD8PA8o",
+        "colClassName": "datet t1662197700-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1662197700,
+        "date-start-timestamp": 1662197700,
+        "result": "38:8",
+        "homeResult": "38",
+        "awayResult": "8",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "info": null,
+        "partialresult": "20:0, 18:8",
+        "stream": null,
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 1,
+        "odds": [
+          {
+            "avgOdds": 1.1,
+            "bettingTypeId": 1,
+            "eventId": 5531530,
+            "maxOdds": 1.15,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58psaxv464x0xdvlfd",
+            "maxOddsProviderId": 3,
+            "active": true
+          },
+          {
+            "avgOdds": 35.46,
+            "bettingTypeId": 1,
+            "eventId": 5531530,
+            "maxOdds": 48,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58psaxv498x0x0",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 6.68,
+            "bettingTypeId": 1,
+            "eventId": 5531530,
+            "maxOdds": 9.1,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58psaxv464x0xdvlfe",
+            "maxOddsProviderId": 381,
+            "active": true
+          }
+        ],
+        "name": "NQ Cowboys - Penrith Panthers",
+        "colClassNameTime": "datet t1662197700-1-1-0-0"
+      },
+      {
+        "id": 5531529,
+        "url": "/rugby-league/australia/nrl-2022/st-george-illawarra-dragons-brisbane-broncos-CpPQ0RVp/",
+        "is-double": false,
+        "home": 14669291,
+        "away": 14669292,
+        "home-name": "St. George Illawarra Dragons",
+        "away-name": "Brisbane Broncos",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/v15jCqPt-dfVqZfja.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/A571euA3-SKCdz6l0.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "CpPQ0RVp",
+        "colClassName": "datet t1662190200-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1662190200,
+        "date-start-timestamp": 1662190200,
+        "result": "22:12",
+        "homeResult": "22",
+        "awayResult": "12",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "info": null,
+        "partialresult": "10:6, 12:6",
+        "stream": null,
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 1,
+        "odds": [
+          {
+            "avgOdds": 2.38,
+            "bettingTypeId": 1,
+            "eventId": 5531529,
+            "maxOdds": 2.5,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58ps9xv464x0xdvlfb",
+            "maxOddsProviderId": 550,
+            "active": true
+          },
+          {
+            "avgOdds": 24.69,
+            "bettingTypeId": 1,
+            "eventId": 5531529,
+            "maxOdds": 28,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58ps9xv498x0x0",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 1.6,
+            "bettingTypeId": 1,
+            "eventId": 5531529,
+            "maxOdds": 1.62,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58ps9xv464x0xdvlfc",
+            "maxOddsProviderId": 15,
+            "active": true
+          }
+        ],
+        "name": "St. George Illawarra Dragons - Brisbane Broncos",
+        "colClassNameTime": "datet t1662190200-1-1-0-0"
+      },
+      {
+        "id": 5531528,
+        "url": "/rugby-league/australia/nrl-2022/new-zealand-warriors-gold-coast-titans-zPXb57NT/",
+        "is-double": false,
+        "home": 14669289,
+        "away": 14669290,
+        "home-name": "New Zealand Warriors",
+        "away-name": "Gold Coast Titans",
+        "home-country-two-chart-name": "nz",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 10,
+        "event-stage-id": 10,
+        "event-stage-name": "After Extra Time",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/EmsomOOt-WzMViy7E.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/WERvNMkQ-b7mfH8z7.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "zPXb57NT",
+        "colClassName": "datet t1662181200-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1662181200,
+        "date-start-timestamp": 1662181200,
+        "result": "26:27&nbsp;OT",
+        "homeResult": "26",
+        "awayResult": "27&nbsp;OT",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "info": null,
+        "partialresult": "20:6, 6:20, 0:1",
+        "stream": {
+          "24": 1,
+          "33": 1,
+          "43": 1,
+          "417": 1,
+          "453": 1
+        },
+        "bookmakersCount": 15,
+        "betting_type": 1,
+        "winner_post": 1,
+        "odds": [
+          {
+            "avgOdds": 1.65,
+            "bettingTypeId": 1,
+            "eventId": 5531528,
+            "maxOdds": 1.75,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58ps8xv464x0xdvlf9",
+            "maxOddsProviderId": 16,
+            "active": true
+          },
+          {
+            "avgOdds": 24.86,
+            "bettingTypeId": 1,
+            "eventId": 5531528,
+            "maxOdds": 31,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58ps8xv498x0x0",
+            "maxOddsProviderId": 417,
+            "active": true
+          },
+          {
+            "avgOdds": 2.27,
+            "bettingTypeId": 1,
+            "eventId": 5531528,
+            "maxOdds": 2.5,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58ps8xv464x0xdvlfa",
+            "maxOddsProviderId": 15,
+            "active": true
+          }
+        ],
+        "name": "New Zealand Warriors - Gold Coast Titans",
+        "colClassNameTime": "datet t1662181200-1-1-0-0"
+      },
+      {
+        "id": 5531527,
+        "url": "/rugby-league/australia/nrl-2022/sydney-roosters-south-sydney-rabbitohs-h0rf6m8N/",
+        "is-double": false,
+        "home": 14669287,
+        "away": 14669288,
+        "home-name": "Sydney Roosters",
+        "away-name": "South Sydney Rabbitohs",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/vVDOk7VE-GfEFzHVt.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/xjzxa5Rc-pIUtLbwk.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "h0rf6m8N",
+        "colClassName": "datet t1662112500-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1662112500,
+        "date-start-timestamp": 1662112500,
+        "result": "26:16",
+        "homeResult": "26",
+        "awayResult": "16",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "info": null,
+        "partialresult": "20:6, 6:10",
+        "stream": null,
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 1,
+        "odds": [
+          {
+            "avgOdds": 1.7,
+            "bettingTypeId": 1,
+            "eventId": 5531527,
+            "maxOdds": 1.74,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58ps7xv464x0xdvlf7",
+            "maxOddsProviderId": 417,
+            "active": true
+          },
+          {
+            "avgOdds": 21.35,
+            "bettingTypeId": 1,
+            "eventId": 5531527,
+            "maxOdds": 26,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58ps7xv498x0x0",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 2.2,
+            "bettingTypeId": 1,
+            "eventId": 5531527,
+            "maxOdds": 2.28,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58ps7xv464x0xdvlf8",
+            "maxOddsProviderId": 5,
+            "active": true
+          }
+        ],
+        "name": "Sydney Roosters - South Sydney Rabbitohs",
+        "colClassNameTime": "datet t1662112500-1-1-0-0"
+      },
+      {
+        "id": 5531526,
+        "url": "/rugby-league/australia/nrl-2022/canterbury-bulldogs-manly-sea-eagles-E9qj7ThH/",
+        "is-double": false,
+        "home": 14669285,
+        "away": 14669286,
+        "home-name": "Canterbury Bulldogs",
+        "away-name": "Manly Sea Eagles",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/Gvay7mmh-6LbKWKcE.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/O0BHhXVE-C6FlxSJm.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "E9qj7ThH",
+        "colClassName": "datet t1662105600-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1662105600,
+        "date-start-timestamp": 1662105600,
+        "result": "21:20",
+        "homeResult": "21",
+        "awayResult": "20",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "info": null,
+        "partialresult": "12:16, 9:4",
+        "stream": null,
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 1,
+        "odds": [
+          {
+            "avgOdds": 1.43,
+            "bettingTypeId": 1,
+            "eventId": 5531526,
+            "maxOdds": 1.47,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58ps6xv464x0xdvlf5",
+            "maxOddsProviderId": 550,
+            "active": true
+          },
+          {
+            "avgOdds": 27.57,
+            "bettingTypeId": 1,
+            "eventId": 5531526,
+            "maxOdds": 34,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58ps6xv498x0x0",
+            "maxOddsProviderId": 417,
+            "active": true
+          },
+          {
+            "avgOdds": 2.8,
+            "bettingTypeId": 1,
+            "eventId": 5531526,
+            "maxOdds": 2.9,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58ps6xv464x0xdvlf6",
+            "maxOddsProviderId": 417,
+            "active": true
+          }
+        ],
+        "name": "Canterbury Bulldogs - Manly Sea Eagles",
+        "colClassNameTime": "datet t1662105600-1-1-0-0"
+      },
+      {
+        "id": 5531525,
+        "url": "/rugby-league/australia/nrl-2022/parramatta-eels-melbourne-storm-6qpn89wB/",
+        "is-double": false,
+        "home": 14669283,
+        "away": 14669284,
+        "home-name": "Parramatta Eels",
+        "away-name": "Melbourne Storm",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/n1xCK2oh-0fKl6Lea.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/SzaXrn5n-CWUSBLm7.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "6qpn89wB",
+        "colClassName": "datet t1662025800-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1662025800,
+        "date-start-timestamp": 1662025800,
+        "result": "22:14",
+        "homeResult": "22",
+        "awayResult": "14",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "info": null,
+        "partialresult": "8:0, 14:14",
+        "stream": null,
+        "bookmakersCount": 14,
+        "winner_post": 0,
+        "betting_type": 1,
+        "odds": [
+          {
+            "avgOdds": 1.69,
+            "bettingTypeId": 1,
+            "eventId": 5531525,
+            "maxOdds": 1.8,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58ps5xv464x0xdvlf3",
+            "maxOddsProviderId": 16,
+            "active": true
+          },
+          {
+            "avgOdds": 21.08,
+            "bettingTypeId": 1,
+            "eventId": 5531525,
+            "maxOdds": 26,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58ps5xv498x0x0",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 2.24,
+            "bettingTypeId": 1,
+            "eventId": 5531525,
+            "maxOdds": 2.33,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58ps5xv464x0xdvlf4",
+            "maxOddsProviderId": 417,
+            "active": true
+          }
+        ],
+        "name": "Parramatta Eels - Melbourne Storm",
+        "colClassNameTime": "datet t1662025800-1-1-0-0"
+      },
+      {
+        "id": 5531524,
+        "url": "/rugby-league/australia/nrl-2022/gold-coast-titans-newcastle-knights-Shor9kO4/",
+        "is-double": false,
+        "home": 14669281,
+        "away": 14669282,
+        "home-name": "Gold Coast Titans",
+        "away-name": "Newcastle Knights",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/WERvNMkQ-b7mfH8z7.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/6L6j0PVE-lC8KaUse.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "Shor9kO4",
+        "colClassName": "datet t1661666700-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1661666700,
+        "date-start-timestamp": 1661666700,
+        "result": "36:26",
+        "homeResult": "36",
+        "awayResult": "26",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "info": null,
+        "partialresult": "24:10, 12:16",
+        "stream": null,
+        "bookmakersCount": 14,
+        "winner_post": 0,
+        "betting_type": 1,
+        "odds": [
+          {
+            "avgOdds": 1.44,
+            "bettingTypeId": 1,
+            "eventId": 5531524,
+            "maxOdds": 1.47,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58ps4xv464x0xdvlf1",
+            "maxOddsProviderId": 3,
+            "active": true
+          },
+          {
+            "avgOdds": 25.54,
+            "bettingTypeId": 1,
+            "eventId": 5531524,
+            "maxOdds": 32,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58ps4xv498x0x0",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 2.8,
+            "bettingTypeId": 1,
+            "eventId": 5531524,
+            "maxOdds": 3,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58ps4xv464x0xdvlf2",
+            "maxOddsProviderId": 15,
+            "active": true
+          }
+        ],
+        "name": "Gold Coast Titans - Newcastle Knights",
+        "colClassNameTime": "datet t1661666700-1-1-0-0"
+      },
+      {
+        "id": 5531523,
+        "url": "/rugby-league/australia/nrl-2022/wests-tigers-st-george-illawarra-dragons-pUewAV8b/",
+        "is-double": false,
+        "home": 14669279,
+        "away": 14669280,
+        "home-name": "Wests Tigers",
+        "away-name": "St. George Illawarra Dragons",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/xO6qbJAK-pS5BxT3L.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/v15jCqPt-dfVqZfja.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "pUewAV8b",
+        "colClassName": "datet t1661659200-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1661659200,
+        "date-start-timestamp": 1661659200,
+        "result": "22:24",
+        "homeResult": "22",
+        "awayResult": "24",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "info": null,
+        "partialresult": "16:6, 6:18",
+        "stream": null,
+        "bookmakersCount": 14,
+        "betting_type": 1,
+        "winner_post": 2,
+        "odds": [
+          {
+            "avgOdds": 3.32,
+            "bettingTypeId": 1,
+            "eventId": 5531523,
+            "maxOdds": 3.64,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58ps3xv464x0xdvlev",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 27.85,
+            "bettingTypeId": 1,
+            "eventId": 5531523,
+            "maxOdds": 32,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58ps3xv498x0x0",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 1.33,
+            "bettingTypeId": 1,
+            "eventId": 5531523,
+            "maxOdds": 1.37,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58ps3xv464x0xdvlf0",
+            "maxOddsProviderId": 3,
+            "active": true
+          }
+        ],
+        "name": "Wests Tigers - St. George Illawarra Dragons",
+        "colClassNameTime": "datet t1661659200-1-1-0-0"
+      },
+      {
+        "id": 5531522,
+        "url": "/rugby-league/australia/nrl-2022/south-sydney-rabbitohs-north-queensland-cowboys-WQiZABgh/",
+        "is-double": false,
+        "home": 14669277,
+        "away": 14669278,
+        "home-name": "South Sydney Rabbitohs",
+        "away-name": "NQ Cowboys",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/xjzxa5Rc-pIUtLbwk.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/zTa6xH73-QFleSbKF.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "WQiZABgh",
+        "colClassName": "datet t1661592900-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1661592900,
+        "date-start-timestamp": 1661592900,
+        "result": "20:10",
+        "homeResult": "20",
+        "awayResult": "10",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "info": null,
+        "partialresult": "14:6, 6:4",
+        "stream": null,
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 1,
+        "odds": [
+          {
+            "avgOdds": 1.59,
+            "bettingTypeId": 1,
+            "eventId": 5531522,
+            "maxOdds": 1.67,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58ps2xv464x0xdvlet",
+            "maxOddsProviderId": 5,
+            "active": true
+          },
+          {
+            "avgOdds": 22.87,
+            "bettingTypeId": 1,
+            "eventId": 5531522,
+            "maxOdds": 26,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58ps2xv498x0x0",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 2.42,
+            "bettingTypeId": 1,
+            "eventId": 5531522,
+            "maxOdds": 2.73,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58ps2xv464x0xdvleu",
+            "maxOddsProviderId": 584,
+            "active": true
+          }
+        ],
+        "name": "South Sydney Rabbitohs - NQ Cowboys",
+        "colClassNameTime": "datet t1661592900-1-1-0-0"
+      },
+      {
+        "id": 5531534,
+        "url": "/rugby-league/australia/nrl-2022/cronulla-sharks-canterbury-bulldogs-fT4PLS7A/",
+        "is-double": false,
+        "home": 14669301,
+        "away": 14669302,
+        "home-name": "Cronulla Sharks",
+        "away-name": "Canterbury Bulldogs",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/0IqBDDSc-dfDpRZgA.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/Gvay7mmh-6LbKWKcE.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "fT4PLS7A",
+        "colClassName": "datet t1661585400-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1661585400,
+        "date-start-timestamp": 1661585400,
+        "result": "16:0",
+        "homeResult": "16",
+        "awayResult": "0",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "info": null,
+        "partialresult": "10:0, 6:0",
+        "stream": null,
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 1,
+        "odds": [
+          {
+            "avgOdds": 1.05,
+            "bettingTypeId": 1,
+            "eventId": 5531534,
+            "maxOdds": 1.08,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58psexv464x0xdvlfl",
+            "maxOddsProviderId": 5,
+            "active": true
+          },
+          {
+            "avgOdds": 40.78,
+            "bettingTypeId": 1,
+            "eventId": 5531534,
+            "maxOdds": 53,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58psexv498x0x0",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 9.23,
+            "bettingTypeId": 1,
+            "eventId": 5531534,
+            "maxOdds": 12,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58psexv464x0xdvlfm",
+            "maxOddsProviderId": 16,
+            "active": true
+          }
+        ],
+        "name": "Cronulla Sharks - Canterbury Bulldogs",
+        "colClassNameTime": "datet t1661585400-1-1-0-0"
+      },
+      {
+        "id": 5531521,
+        "url": "/rugby-league/australia/nrl-2022/canberra-raiders-manly-sea-eagles-x4hVBivn/",
+        "is-double": false,
+        "home": 14669275,
+        "away": 14669276,
+        "home-name": "Canberra Raiders",
+        "away-name": "Manly Sea Eagles",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/YmzJFJmh-IVxiY1Kq.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/O0BHhXVE-C6FlxSJm.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "x4hVBivn",
+        "colClassName": "datet t1661576400-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1661576400,
+        "date-start-timestamp": 1661576400,
+        "result": "48:6",
+        "homeResult": "48",
+        "awayResult": "6",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "info": null,
+        "partialresult": "28:0, 20:6",
+        "stream": null,
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 1,
+        "odds": [
+          {
+            "avgOdds": 1.19,
+            "bettingTypeId": 1,
+            "eventId": 5531521,
+            "maxOdds": 1.23,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58ps1xv464x0xdvler",
+            "maxOddsProviderId": 3,
+            "active": true
+          },
+          {
+            "avgOdds": 32.16,
+            "bettingTypeId": 1,
+            "eventId": 5531521,
+            "maxOdds": 40,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58ps1xv498x0x0",
+            "maxOddsProviderId": 3,
+            "active": true
+          },
+          {
+            "avgOdds": 4.62,
+            "bettingTypeId": 1,
+            "eventId": 5531521,
+            "maxOdds": 4.97,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58ps1xv464x0xdvles",
+            "maxOddsProviderId": 550,
+            "active": true
+          }
+        ],
+        "name": "Canberra Raiders - Manly Sea Eagles",
+        "colClassNameTime": "datet t1661576400-1-1-0-0"
+      },
+      {
+        "id": 5531520,
+        "url": "/rugby-league/australia/nrl-2022/melbourne-storm-sydney-roosters-bDgRCXOu/",
+        "is-double": false,
+        "home": 14669273,
+        "away": 14669274,
+        "home-name": "Melbourne Storm",
+        "away-name": "Sydney Roosters",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/SzaXrn5n-CWUSBLm7.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/vVDOk7VE-GfEFzHVt.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "bDgRCXOu",
+        "colClassName": "datet t1661507700-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1661507700,
+        "date-start-timestamp": 1661507700,
+        "result": "14:18",
+        "homeResult": "14",
+        "awayResult": "18",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "info": null,
+        "partialresult": "8:14, 6:4",
+        "stream": null,
+        "bookmakersCount": 15,
+        "betting_type": 1,
+        "winner_post": 2,
+        "odds": [
+          {
+            "avgOdds": 1.63,
+            "bettingTypeId": 1,
+            "eventId": 5531520,
+            "maxOdds": 1.68,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58ps0xv464x0xdvlep",
+            "maxOddsProviderId": 550,
+            "active": true
+          },
+          {
+            "avgOdds": 21.99,
+            "bettingTypeId": 1,
+            "eventId": 5531520,
+            "maxOdds": 24,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58ps0xv498x0x0",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 2.34,
+            "bettingTypeId": 1,
+            "eventId": 5531520,
+            "maxOdds": 2.45,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58ps0xv464x0xdvleq",
+            "maxOddsProviderId": 381,
+            "active": true
+          }
+        ],
+        "name": "Melbourne Storm - Sydney Roosters",
+        "colClassNameTime": "datet t1661507700-1-1-0-0"
+      },
+      {
+        "id": 5531519,
+        "url": "/rugby-league/australia/nrl-2022/penrith-panthers-new-zealand-warriors-OMoJ4zXI/",
+        "is-double": false,
+        "home": 14669271,
+        "away": 14669272,
+        "home-name": "Penrith Panthers",
+        "away-name": "New Zealand Warriors",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "nz",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/hpRGvNSc-hQ68UlEd.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/EmsomOOt-WzMViy7E.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "OMoJ4zXI",
+        "colClassName": "datet t1661500800-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1661500800,
+        "date-start-timestamp": 1661500800,
+        "result": "46:12",
+        "homeResult": "46",
+        "awayResult": "12",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "info": null,
+        "partialresult": "22:6, 24:6",
+        "stream": null,
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 1,
+        "odds": [
+          {
+            "avgOdds": 1.01,
+            "bettingTypeId": 1,
+            "eventId": 5531519,
+            "maxOdds": 1.03,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58prvxv464x0xdvlen",
+            "maxOddsProviderId": 15,
+            "active": true
+          },
+          {
+            "avgOdds": 40.9,
+            "bettingTypeId": 1,
+            "eventId": 5531519,
+            "maxOdds": 61,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prvxv498x0x0",
+            "maxOddsProviderId": 5,
+            "active": true
+          },
+          {
+            "avgOdds": 14.4,
+            "bettingTypeId": 1,
+            "eventId": 5531519,
+            "maxOdds": 19,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prvxv464x0xdvleo",
+            "maxOddsProviderId": 16,
+            "active": true
+          }
+        ],
+        "name": "Penrith Panthers - New Zealand Warriors",
+        "colClassNameTime": "datet t1661500800-1-1-0-0"
+      },
+      {
+        "id": 5531518,
+        "url": "/rugby-league/australia/nrl-2022/brisbane-broncos-parramatta-eels-pWnF5GHC/",
+        "is-double": false,
+        "home": 14669269,
+        "away": 14669270,
+        "home-name": "Brisbane Broncos",
+        "away-name": "Parramatta Eels",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/A571euA3-SKCdz6l0.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/n1xCK2oh-0fKl6Lea.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "pWnF5GHC",
+        "colClassName": "datet t1661421000-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1661421000,
+        "date-start-timestamp": 1661421000,
+        "result": "6:53",
+        "homeResult": "6",
+        "awayResult": "53",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "info": null,
+        "partialresult": "6:31, 0:22",
+        "stream": null,
+        "bookmakersCount": 15,
+        "betting_type": 1,
+        "winner_post": 2,
+        "odds": [
+          {
+            "avgOdds": 2.56,
+            "bettingTypeId": 1,
+            "eventId": 5531518,
+            "maxOdds": 2.74,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58pruxv464x0xdvlel",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 21.72,
+            "bettingTypeId": 1,
+            "eventId": 5531518,
+            "maxOdds": 25,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58pruxv498x0x0",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 1.53,
+            "bettingTypeId": 1,
+            "eventId": 5531518,
+            "maxOdds": 1.58,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58pruxv464x0xdvlem",
+            "maxOddsProviderId": 550,
+            "active": true
+          }
+        ],
+        "name": "Brisbane Broncos - Parramatta Eels",
+        "colClassNameTime": "datet t1661421000-1-1-0-0"
+      },
+      {
+        "id": 5531517,
+        "url": "/rugby-league/australia/nrl-2022/newcastle-knights-canberra-raiders-j9mB6d26/",
+        "is-double": false,
+        "home": 14669267,
+        "away": 14669268,
+        "home-name": "Newcastle Knights",
+        "away-name": "Canberra Raiders",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/6L6j0PVE-lC8KaUse.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/YmzJFJmh-IVxiY1Kq.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "j9mB6d26",
+        "colClassName": "datet t1661061900-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1661061900,
+        "date-start-timestamp": 1661061900,
+        "result": "22:28",
+        "homeResult": "22",
+        "awayResult": "28",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "info": null,
+        "partialresult": "22:8, 0:20",
+        "stream": null,
+        "bookmakersCount": 15,
+        "betting_type": 1,
+        "winner_post": 2,
+        "odds": [
+          {
+            "avgOdds": 4.96,
+            "bettingTypeId": 1,
+            "eventId": 5531517,
+            "maxOdds": 7.1,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prtxv464x0xdvlej",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 29.63,
+            "bettingTypeId": 1,
+            "eventId": 5531517,
+            "maxOdds": 36,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prtxv498x0x0",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 1.18,
+            "bettingTypeId": 1,
+            "eventId": 5531517,
+            "maxOdds": 1.29,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58prtxv464x0xdvlek",
+            "maxOddsProviderId": 15,
+            "active": true
+          }
+        ],
+        "name": "Newcastle Knights - Canberra Raiders",
+        "colClassNameTime": "datet t1661061900-1-1-0-0"
+      },
+      {
+        "id": 5531516,
+        "url": "/rugby-league/australia/nrl-2022/st-george-illawarra-dragons-gold-coast-titans-hOU77xm0/",
+        "is-double": false,
+        "home": 14669265,
+        "away": 14669266,
+        "home-name": "St. George Illawarra Dragons",
+        "away-name": "Gold Coast Titans",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/v15jCqPt-dfVqZfja.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/WERvNMkQ-b7mfH8z7.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "hOU77xm0",
+        "colClassName": "datet t1661054400-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1661054400,
+        "date-start-timestamp": 1661054400,
+        "result": "46:26",
+        "homeResult": "46",
+        "awayResult": "26",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "info": null,
+        "partialresult": "22:14, 24:12",
+        "stream": null,
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 1,
+        "odds": [
+          {
+            "avgOdds": 1.54,
+            "bettingTypeId": 1,
+            "eventId": 5531516,
+            "maxOdds": 1.62,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58prsxv464x0xdvleh",
+            "maxOddsProviderId": 15,
+            "active": true
+          },
+          {
+            "avgOdds": 23.46,
+            "bettingTypeId": 1,
+            "eventId": 5531516,
+            "maxOdds": 26,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prsxv498x0x0",
+            "maxOddsProviderId": 16,
+            "active": true
+          },
+          {
+            "avgOdds": 2.54,
+            "bettingTypeId": 1,
+            "eventId": 5531516,
+            "maxOdds": 2.75,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prsxv464x0xdvlei",
+            "maxOddsProviderId": 381,
+            "active": true
+          }
+        ],
+        "name": "St. George Illawarra Dragons - Gold Coast Titans",
+        "colClassNameTime": "datet t1661054400-1-1-0-0"
+      },
+      {
+        "id": 5531515,
+        "url": "/rugby-league/australia/nrl-2022/sydney-roosters-wests-tigers-Aau38IXg/",
+        "is-double": false,
+        "home": 14669263,
+        "away": 14669264,
+        "home-name": "Sydney Roosters",
+        "away-name": "Wests Tigers",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/vVDOk7VE-GfEFzHVt.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/xO6qbJAK-pS5BxT3L.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "Aau38IXg",
+        "colClassName": "datet t1660988100-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1660988100,
+        "date-start-timestamp": 1660988100,
+        "result": "72:6",
+        "homeResult": "72",
+        "awayResult": "6",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "info": null,
+        "partialresult": "30:0, 42:6",
+        "stream": null,
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 1,
+        "odds": [
+          {
+            "avgOdds": 1.05,
+            "bettingTypeId": 1,
+            "eventId": 5531515,
+            "maxOdds": 1.07,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58prrxv464x0xdvlef",
+            "maxOddsProviderId": 550,
+            "active": true
+          },
+          {
+            "avgOdds": 38.77,
+            "bettingTypeId": 1,
+            "eventId": 5531515,
+            "maxOdds": 61,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prrxv498x0x0",
+            "maxOddsProviderId": 417,
+            "active": true
+          },
+          {
+            "avgOdds": 9.14,
+            "bettingTypeId": 1,
+            "eventId": 5531515,
+            "maxOdds": 10.5,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prrxv464x0xdvleg",
+            "maxOddsProviderId": 5,
+            "active": true
+          }
+        ],
+        "name": "Sydney Roosters - Wests Tigers",
+        "colClassNameTime": "datet t1660988100-1-1-0-0"
+      },
+      {
+        "id": 5531514,
+        "url": "/rugby-league/australia/nrl-2022/manly-sea-eagles-cronulla-sharks-W8ta9bIm/",
+        "is-double": false,
+        "home": 14669261,
+        "away": 14669262,
+        "home-name": "Manly Sea Eagles",
+        "away-name": "Cronulla Sharks",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/O0BHhXVE-C6FlxSJm.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/0IqBDDSc-dfDpRZgA.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "W8ta9bIm",
+        "colClassName": "datet t1660980600-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1660980600,
+        "date-start-timestamp": 1660980600,
+        "result": "6:40",
+        "homeResult": "6",
+        "awayResult": "40",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "info": null,
+        "partialresult": "0:22, 6:18",
+        "stream": null,
+        "bookmakersCount": 15,
+        "betting_type": 1,
+        "winner_post": 2,
+        "odds": [
+          {
+            "avgOdds": 5.1,
+            "bettingTypeId": 1,
+            "eventId": 5531514,
+            "maxOdds": 6.55,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prqxv464x0xdvled",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 30.79,
+            "bettingTypeId": 1,
+            "eventId": 5531514,
+            "maxOdds": 36,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prqxv498x0x0",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 1.17,
+            "bettingTypeId": 1,
+            "eventId": 5531514,
+            "maxOdds": 1.23,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58prqxv464x0xdvlee",
+            "maxOddsProviderId": 5,
+            "active": true
+          }
+        ],
+        "name": "Manly Sea Eagles - Cronulla Sharks",
+        "colClassNameTime": "datet t1660980600-1-1-0-0"
+      },
+      {
+        "id": 5531513,
+        "url": "/rugby-league/australia/nrl-2022/parramatta-eels-canterbury-bulldogs-2ZyeAv3s/",
+        "is-double": false,
+        "home": 14669259,
+        "away": 14669260,
+        "home-name": "Parramatta Eels",
+        "away-name": "Canterbury Bulldogs",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/n1xCK2oh-0fKl6Lea.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/Gvay7mmh-6LbKWKcE.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "2ZyeAv3s",
+        "colClassName": "datet t1660971600-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1660971600,
+        "date-start-timestamp": 1660971600,
+        "result": "42:6",
+        "homeResult": "42",
+        "awayResult": "6",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "info": null,
+        "partialresult": "16:6, 26:0",
+        "stream": null,
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 1,
+        "odds": [
+          {
+            "avgOdds": 1.3,
+            "bettingTypeId": 1,
+            "eventId": 5531513,
+            "maxOdds": 1.37,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58prpxv464x0xdvleb",
+            "maxOddsProviderId": 3,
+            "active": true
+          },
+          {
+            "avgOdds": 26.07,
+            "bettingTypeId": 1,
+            "eventId": 5531513,
+            "maxOdds": 30,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prpxv498x0x0",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 3.62,
+            "bettingTypeId": 1,
+            "eventId": 5531513,
+            "maxOdds": 4.05,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prpxv464x0xdvlec",
+            "maxOddsProviderId": 381,
+            "active": true
+          }
+        ],
+        "name": "Parramatta Eels - Canterbury Bulldogs",
+        "colClassNameTime": "datet t1660971600-1-1-0-0"
+      },
+      {
+        "id": 5531512,
+        "url": "/rugby-league/australia/nrl-2022/brisbane-broncos-melbourne-storm-0QkTEKfQ/",
+        "is-double": false,
+        "home": 14669257,
+        "away": 14669258,
+        "home-name": "Brisbane Broncos",
+        "away-name": "Melbourne Storm",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/A571euA3-SKCdz6l0.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/SzaXrn5n-CWUSBLm7.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "0QkTEKfQ",
+        "colClassName": "datet t1660902900-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1660902900,
+        "date-start-timestamp": 1660902900,
+        "result": "12:60",
+        "homeResult": "12",
+        "awayResult": "60",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "info": null,
+        "partialresult": "6:24, 6:36",
+        "stream": null,
+        "bookmakersCount": 15,
+        "betting_type": 1,
+        "winner_post": 2,
+        "odds": [
+          {
+            "avgOdds": 3.19,
+            "bettingTypeId": 1,
+            "eventId": 5531512,
+            "maxOdds": 3.6,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58proxv464x0xdvle9",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 23.64,
+            "bettingTypeId": 1,
+            "eventId": 5531512,
+            "maxOdds": 27,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58proxv498x0x0",
+            "maxOddsProviderId": 550,
+            "active": true
+          },
+          {
+            "avgOdds": 1.37,
+            "bettingTypeId": 1,
+            "eventId": 5531512,
+            "maxOdds": 1.43,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58proxv464x0xdvlea",
+            "maxOddsProviderId": 417,
+            "active": true
+          }
+        ],
+        "name": "Brisbane Broncos - Melbourne Storm",
+        "colClassNameTime": "datet t1660902900-1-1-0-0"
+      },
+      {
+        "id": 5531511,
+        "url": "/rugby-league/australia/nrl-2022/north-queensland-cowboys-new-zealand-warriors-I10OF0uK/",
+        "is-double": false,
+        "home": 14669255,
+        "away": 14669256,
+        "home-name": "NQ Cowboys",
+        "away-name": "New Zealand Warriors",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "nz",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/zTa6xH73-QFleSbKF.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/EmsomOOt-WzMViy7E.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "I10OF0uK",
+        "colClassName": "datet t1660896000-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1660896000,
+        "date-start-timestamp": 1660896000,
+        "result": "48:4",
+        "homeResult": "48",
+        "awayResult": "4",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "info": null,
+        "partialresult": "24:4, 24:0",
+        "stream": null,
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 1,
+        "odds": [
+          {
+            "avgOdds": 1.06,
+            "bettingTypeId": 1,
+            "eventId": 5531511,
+            "maxOdds": 1.1,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58prnxv464x0xdvle7",
+            "maxOddsProviderId": 550,
+            "active": true
+          },
+          {
+            "avgOdds": 37.79,
+            "bettingTypeId": 1,
+            "eventId": 5531511,
+            "maxOdds": 61,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prnxv498x0x0",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 8.86,
+            "bettingTypeId": 1,
+            "eventId": 5531511,
+            "maxOdds": 14,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prnxv464x0xdvle8",
+            "maxOddsProviderId": 381,
+            "active": true
+          }
+        ],
+        "name": "NQ Cowboys - New Zealand Warriors",
+        "colClassNameTime": "datet t1660896000-1-1-0-0"
+      },
+      {
+        "id": 5531510,
+        "url": "/rugby-league/australia/nrl-2022/south-sydney-rabbitohs-penrith-panthers-4bdKGtQD/",
+        "is-double": false,
+        "home": 14669253,
+        "away": 14669254,
+        "home-name": "South Sydney Rabbitohs",
+        "away-name": "Penrith Panthers",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/xjzxa5Rc-pIUtLbwk.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/hpRGvNSc-hQ68UlEd.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "4bdKGtQD",
+        "colClassName": "datet t1660816200-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1660816200,
+        "date-start-timestamp": 1660816200,
+        "result": "22:26",
+        "homeResult": "22",
+        "awayResult": "26",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "info": null,
+        "partialresult": "12:12, 10:14",
+        "stream": null,
+        "bookmakersCount": 15,
+        "betting_type": 1,
+        "winner_post": 2,
+        "odds": [
+          {
+            "avgOdds": 1.54,
+            "bettingTypeId": 1,
+            "eventId": 5531510,
+            "maxOdds": 1.6,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prmxv464x0xdvle5",
+            "maxOddsProviderId": 2,
+            "active": true
+          },
+          {
+            "avgOdds": 22.23,
+            "bettingTypeId": 1,
+            "eventId": 5531510,
+            "maxOdds": 24,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prmxv498x0x0",
+            "maxOddsProviderId": 550,
+            "active": true
+          },
+          {
+            "avgOdds": 2.55,
+            "bettingTypeId": 1,
+            "eventId": 5531510,
+            "maxOdds": 2.74,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58prmxv464x0xdvle6",
+            "maxOddsProviderId": 381,
+            "active": true
+          }
+        ],
+        "name": "South Sydney Rabbitohs - Penrith Panthers",
+        "colClassNameTime": "datet t1660816200-1-1-0-0"
+      },
+      {
+        "id": 5531509,
+        "url": "/rugby-league/australia/nrl-2022/gold-coast-titans-manly-sea-eagles-je8xhcmD/",
+        "is-double": false,
+        "home": 14669251,
+        "away": 14669252,
+        "home-name": "Gold Coast Titans",
+        "away-name": "Manly Sea Eagles",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/WERvNMkQ-b7mfH8z7.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/O0BHhXVE-C6FlxSJm.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "je8xhcmD",
+        "colClassName": "datet t1660457100-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1660457100,
+        "date-start-timestamp": 1660457100,
+        "result": "44:24",
+        "homeResult": "44",
+        "awayResult": "24",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "info": null,
+        "partialresult": "20:12, 24:12",
+        "stream": null,
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 1,
+        "odds": [
+          {
+            "avgOdds": 3.31,
+            "bettingTypeId": 1,
+            "eventId": 5531509,
+            "maxOdds": 3.65,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58prlxv464x0xdvle3",
+            "maxOddsProviderId": 5,
+            "active": true
+          },
+          {
+            "avgOdds": 26.29,
+            "bettingTypeId": 1,
+            "eventId": 5531509,
+            "maxOdds": 35,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prlxv498x0x0",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 1.34,
+            "bettingTypeId": 1,
+            "eventId": 5531509,
+            "maxOdds": 1.4,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prlxv464x0xdvle4",
+            "maxOddsProviderId": 15,
+            "active": true
+          }
+        ],
+        "name": "Gold Coast Titans - Manly Sea Eagles",
+        "colClassNameTime": "datet t1660457100-1-1-0-0"
+      },
+      {
+        "id": 5531508,
+        "url": "/rugby-league/australia/nrl-2022/canberra-raiders-st-george-illawarra-dragons-C49YhwY6/",
+        "is-double": false,
+        "home": 14669249,
+        "away": 14669250,
+        "home-name": "Canberra Raiders",
+        "away-name": "St. George Illawarra Dragons",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/YmzJFJmh-IVxiY1Kq.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/v15jCqPt-dfVqZfja.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "C49YhwY6",
+        "colClassName": "datet t1660449600-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1660449600,
+        "date-start-timestamp": 1660449600,
+        "result": "24:22",
+        "homeResult": "24",
+        "awayResult": "22",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "info": null,
+        "partialresult": "18:12, 6:10",
+        "stream": null,
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 1,
+        "odds": [
+          {
+            "avgOdds": 1.47,
+            "bettingTypeId": 1,
+            "eventId": 5531508,
+            "maxOdds": 1.5,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58prkxv464x0xdvle1",
+            "maxOddsProviderId": 16,
+            "active": true
+          },
+          {
+            "avgOdds": 24.36,
+            "bettingTypeId": 1,
+            "eventId": 5531508,
+            "maxOdds": 30,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prkxv498x0x0",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 2.72,
+            "bettingTypeId": 1,
+            "eventId": 5531508,
+            "maxOdds": 2.87,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prkxv464x0xdvle2",
+            "maxOddsProviderId": 417,
+            "active": true
+          }
+        ],
+        "name": "Canberra Raiders - St. George Illawarra Dragons",
+        "colClassNameTime": "datet t1660449600-1-1-0-0"
+      },
+      {
+        "id": 5531507,
+        "url": "/rugby-league/australia/nrl-2022/brisbane-broncos-newcastle-knights-WhhyfJI0/",
+        "is-double": false,
+        "home": 14669247,
+        "away": 14669248,
+        "home-name": "Brisbane Broncos",
+        "away-name": "Newcastle Knights",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/A571euA3-SKCdz6l0.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/6L6j0PVE-lC8KaUse.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "WhhyfJI0",
+        "colClassName": "datet t1660383300-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1660383300,
+        "date-start-timestamp": 1660383300,
+        "result": "28:10",
+        "homeResult": "28",
+        "awayResult": "10",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "info": null,
+        "partialresult": "18:0, 10:10",
+        "stream": null,
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 1,
+        "odds": [
+          {
+            "avgOdds": 1.09,
+            "bettingTypeId": 1,
+            "eventId": 5531507,
+            "maxOdds": 1.12,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58prjxv464x0xdvldv",
+            "maxOddsProviderId": 550,
+            "active": true
+          },
+          {
+            "avgOdds": 38.71,
+            "bettingTypeId": 1,
+            "eventId": 5531507,
+            "maxOdds": 70,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prjxv498x0x0",
+            "maxOddsProviderId": 3,
+            "active": true
+          },
+          {
+            "avgOdds": 7.13,
+            "bettingTypeId": 1,
+            "eventId": 5531507,
+            "maxOdds": 8.5,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prjxv464x0xdvle0",
+            "maxOddsProviderId": 5,
+            "active": true
+          }
+        ],
+        "name": "Brisbane Broncos - Newcastle Knights",
+        "colClassNameTime": "datet t1660383300-1-1-0-0"
+      },
+      {
+        "id": 5531506,
+        "url": "/rugby-league/australia/nrl-2022/wests-tigers-cronulla-sharks-h2gXfa3f/",
+        "is-double": false,
+        "home": 14669245,
+        "away": 14669246,
+        "home-name": "Wests Tigers",
+        "away-name": "Cronulla Sharks",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/xO6qbJAK-pS5BxT3L.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/0IqBDDSc-dfDpRZgA.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "h2gXfa3f",
+        "colClassName": "datet t1660375800-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1660375800,
+        "date-start-timestamp": 1660375800,
+        "result": "12:36",
+        "homeResult": "12",
+        "awayResult": "36",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "info": null,
+        "partialresult": "6:26, 6:10",
+        "stream": null,
+        "bookmakersCount": 15,
+        "betting_type": 1,
+        "winner_post": 2,
+        "odds": [
+          {
+            "avgOdds": 4.58,
+            "bettingTypeId": 1,
+            "eventId": 5531506,
+            "maxOdds": 5.03,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prixv464x0xdvldt",
+            "maxOddsProviderId": 417,
+            "active": true
+          },
+          {
+            "avgOdds": 30.57,
+            "bettingTypeId": 1,
+            "eventId": 5531506,
+            "maxOdds": 34,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prixv498x0x0",
+            "maxOddsProviderId": 16,
+            "active": true
+          },
+          {
+            "avgOdds": 1.2,
+            "bettingTypeId": 1,
+            "eventId": 5531506,
+            "maxOdds": 1.26,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58prixv464x0xdvldu",
+            "maxOddsProviderId": 3,
+            "active": true
+          }
+        ],
+        "name": "Wests Tigers - Cronulla Sharks",
+        "colClassNameTime": "datet t1660375800-1-1-0-0"
+      },
+      {
+        "id": 5531505,
+        "url": "/rugby-league/australia/nrl-2022/sydney-roosters-north-queensland-cowboys-bufTeull/",
+        "is-double": false,
+        "home": 14669243,
+        "away": 14669244,
+        "home-name": "Sydney Roosters",
+        "away-name": "NQ Cowboys",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/vVDOk7VE-GfEFzHVt.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/zTa6xH73-QFleSbKF.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "bufTeull",
+        "colClassName": "datet t1660366800-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1660366800,
+        "date-start-timestamp": 1660366800,
+        "result": "32:18",
+        "homeResult": "32",
+        "awayResult": "18",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "info": null,
+        "partialresult": "14:6, 18:12",
+        "stream": null,
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 1,
+        "odds": [
+          {
+            "avgOdds": 1.63,
+            "bettingTypeId": 1,
+            "eventId": 5531505,
+            "maxOdds": 1.71,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58prhxv464x0xdvldr",
+            "maxOddsProviderId": 5,
+            "active": true
+          },
+          {
+            "avgOdds": 22.71,
+            "bettingTypeId": 1,
+            "eventId": 5531505,
+            "maxOdds": 31,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prhxv498x0x0",
+            "maxOddsProviderId": 417,
+            "active": true
+          },
+          {
+            "avgOdds": 2.35,
+            "bettingTypeId": 1,
+            "eventId": 5531505,
+            "maxOdds": 2.49,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prhxv464x0xdvlds",
+            "maxOddsProviderId": 381,
+            "active": true
+          }
+        ],
+        "name": "Sydney Roosters - NQ Cowboys",
+        "colClassNameTime": "datet t1660366800-1-1-0-0"
+      },
+      {
+        "id": 5531504,
+        "url": "/rugby-league/australia/nrl-2022/parramatta-eels-south-sydney-rabbitohs-pxjPdLYs/",
+        "is-double": false,
+        "home": 14669241,
+        "away": 14669242,
+        "home-name": "Parramatta Eels",
+        "away-name": "South Sydney Rabbitohs",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/n1xCK2oh-0fKl6Lea.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/xjzxa5Rc-pIUtLbwk.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "pxjPdLYs",
+        "colClassName": "datet t1660298100-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1660298100,
+        "date-start-timestamp": 1660298100,
+        "result": "0:26",
+        "homeResult": "0",
+        "awayResult": "26",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "info": null,
+        "partialresult": "0:14, 0:12",
+        "stream": null,
+        "bookmakersCount": 15,
+        "betting_type": 1,
+        "winner_post": 2,
+        "odds": [
+          {
+            "avgOdds": 2.17,
+            "bettingTypeId": 1,
+            "eventId": 5531504,
+            "maxOdds": 2.25,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prgxv464x0xdvldp",
+            "maxOddsProviderId": 15,
+            "active": true
+          },
+          {
+            "avgOdds": 22.29,
+            "bettingTypeId": 1,
+            "eventId": 5531504,
+            "maxOdds": 27,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prgxv498x0x0",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 1.72,
+            "bettingTypeId": 1,
+            "eventId": 5531504,
+            "maxOdds": 1.83,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58prgxv464x0xdvldq",
+            "maxOddsProviderId": 417,
+            "active": true
+          }
+        ],
+        "name": "Parramatta Eels - South Sydney Rabbitohs",
+        "colClassNameTime": "datet t1660298100-1-1-0-0"
+      },
+      {
+        "id": 5531503,
+        "url": "/rugby-league/australia/nrl-2022/new-zealand-warriors-canterbury-bulldogs-veDd11QQ/",
+        "is-double": false,
+        "home": 14669239,
+        "away": 14669240,
+        "home-name": "New Zealand Warriors",
+        "away-name": "Canterbury Bulldogs",
+        "home-country-two-chart-name": "nz",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/EmsomOOt-WzMViy7E.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/Gvay7mmh-6LbKWKcE.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "veDd11QQ",
+        "colClassName": "datet t1660291200-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1660291200,
+        "date-start-timestamp": 1660291200,
+        "result": "42:18",
+        "homeResult": "42",
+        "awayResult": "18",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "info": null,
+        "partialresult": "18:6, 24:12",
+        "stream": null,
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 1,
+        "odds": [
+          {
+            "avgOdds": 2.42,
+            "bettingTypeId": 1,
+            "eventId": 5531503,
+            "maxOdds": 2.56,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58prfxv464x0xdvldn",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 22.5,
+            "bettingTypeId": 1,
+            "eventId": 5531503,
+            "maxOdds": 26,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prfxv498x0x0",
+            "maxOddsProviderId": 16,
+            "active": true
+          },
+          {
+            "avgOdds": 1.59,
+            "bettingTypeId": 1,
+            "eventId": 5531503,
+            "maxOdds": 1.66,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prfxv464x0xdvldo",
+            "maxOddsProviderId": 3,
+            "active": true
+          }
+        ],
+        "name": "New Zealand Warriors - Canterbury Bulldogs",
+        "colClassNameTime": "datet t1660291200-1-1-0-0"
+      },
+      {
+        "id": 5531502,
+        "url": "/rugby-league/australia/nrl-2022/penrith-panthers-melbourne-storm-04Eh2sBK/",
+        "is-double": false,
+        "home": 14669237,
+        "away": 14669238,
+        "home-name": "Penrith Panthers",
+        "away-name": "Melbourne Storm",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/hpRGvNSc-hQ68UlEd.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/SzaXrn5n-CWUSBLm7.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "04Eh2sBK",
+        "colClassName": "datet t1660211400-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1660211400,
+        "date-start-timestamp": 1660211400,
+        "result": "0:16",
+        "homeResult": "0",
+        "awayResult": "16",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "info": null,
+        "partialresult": "0:16, 0:0",
+        "stream": null,
+        "bookmakersCount": 15,
+        "betting_type": 1,
+        "winner_post": 2,
+        "odds": [
+          {
+            "avgOdds": 1.67,
+            "bettingTypeId": 1,
+            "eventId": 5531502,
+            "maxOdds": 1.76,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prexv464x0xdvldl",
+            "maxOddsProviderId": 417,
+            "active": true
+          },
+          {
+            "avgOdds": 21.54,
+            "bettingTypeId": 1,
+            "eventId": 5531502,
+            "maxOdds": 26,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prexv498x0x0",
+            "maxOddsProviderId": 15,
+            "active": true
+          },
+          {
+            "avgOdds": 2.27,
+            "bettingTypeId": 1,
+            "eventId": 5531502,
+            "maxOdds": 2.5,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58prexv464x0xdvldm",
+            "maxOddsProviderId": 15,
+            "active": true
+          }
+        ],
+        "name": "Penrith Panthers - Melbourne Storm",
+        "colClassNameTime": "datet t1660211400-1-1-0-0"
+      },
+      {
+        "id": 5531501,
+        "url": "/rugby-league/australia/nrl-2022/wests-tigers-newcastle-knights-WU9l3NeE/",
+        "is-double": false,
+        "home": 14669235,
+        "away": 14669236,
+        "home-name": "Wests Tigers",
+        "away-name": "Newcastle Knights",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/xO6qbJAK-pS5BxT3L.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/6L6j0PVE-lC8KaUse.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "WU9l3NeE",
+        "colClassName": "datet t1659852300-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1659852300,
+        "date-start-timestamp": 1659852300,
+        "result": "10:14",
+        "homeResult": "10",
+        "awayResult": "14",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "info": null,
+        "partialresult": "0:14, 10:0",
+        "stream": null,
+        "bookmakersCount": 15,
+        "betting_type": 1,
+        "winner_post": 2,
+        "odds": [
+          {
+            "avgOdds": 1.45,
+            "bettingTypeId": 1,
+            "eventId": 5531501,
+            "maxOdds": 1.5,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prdxv464x0xdvldj",
+            "maxOddsProviderId": 15,
+            "active": true
+          },
+          {
+            "avgOdds": 22.57,
+            "bettingTypeId": 1,
+            "eventId": 5531501,
+            "maxOdds": 25,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prdxv498x0x0",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 2.84,
+            "bettingTypeId": 1,
+            "eventId": 5531501,
+            "maxOdds": 3.13,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58prdxv464x0xdvldk",
+            "maxOddsProviderId": 381,
+            "active": true
+          }
+        ],
+        "name": "Wests Tigers - Newcastle Knights",
+        "colClassNameTime": "datet t1659852300-1-1-0-0"
+      },
+      {
+        "id": 5531500,
+        "url": "/rugby-league/australia/nrl-2022/canterbury-bulldogs-north-queensland-cowboys-hvBp43t8/",
+        "is-double": false,
+        "home": 14669233,
+        "away": 14669234,
+        "home-name": "Canterbury Bulldogs",
+        "away-name": "NQ Cowboys",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/Gvay7mmh-6LbKWKcE.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/zTa6xH73-QFleSbKF.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "hvBp43t8",
+        "colClassName": "datet t1659844800-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1659844800,
+        "date-start-timestamp": 1659844800,
+        "result": "14:28",
+        "homeResult": "14",
+        "awayResult": "28",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "info": null,
+        "partialresult": "10:10, 4:18",
+        "stream": null,
+        "bookmakersCount": 15,
+        "betting_type": 1,
+        "winner_post": 2,
+        "odds": [
+          {
+            "avgOdds": 3.97,
+            "bettingTypeId": 1,
+            "eventId": 5531500,
+            "maxOdds": 4.25,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prcxv464x0xdvldh",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 28.79,
+            "bettingTypeId": 1,
+            "eventId": 5531500,
+            "maxOdds": 34,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prcxv498x0x0",
+            "maxOddsProviderId": 16,
+            "active": true
+          },
+          {
+            "avgOdds": 1.25,
+            "bettingTypeId": 1,
+            "eventId": 5531500,
+            "maxOdds": 1.3,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58prcxv464x0xdvldi",
+            "maxOddsProviderId": 15,
+            "active": true
+          }
+        ],
+        "name": "Canterbury Bulldogs - NQ Cowboys",
+        "colClassNameTime": "datet t1659844800-1-1-0-0"
+      },
+      {
+        "id": 5531499,
+        "url": "/rugby-league/australia/nrl-2022/cronulla-sharks-st-george-illawarra-dragons-l6p4eBx8/",
+        "is-double": false,
+        "home": 14669231,
+        "away": 14669232,
+        "home-name": "Cronulla Sharks",
+        "away-name": "St. George Illawarra Dragons",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/0IqBDDSc-dfDpRZgA.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/v15jCqPt-dfVqZfja.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "l6p4eBx8",
+        "colClassName": "datet t1659778500-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1659778500,
+        "date-start-timestamp": 1659778500,
+        "result": "24:18",
+        "homeResult": "24",
+        "awayResult": "18",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "info": null,
+        "partialresult": "18:6, 6:12",
+        "stream": null,
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 1,
+        "odds": [
+          {
+            "avgOdds": 1.27,
+            "bettingTypeId": 1,
+            "eventId": 5531499,
+            "maxOdds": 1.3,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58prbxv464x0xdvldf",
+            "maxOddsProviderId": 417,
+            "active": true
+          },
+          {
+            "avgOdds": 28.29,
+            "bettingTypeId": 1,
+            "eventId": 5531499,
+            "maxOdds": 34,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prbxv498x0x0",
+            "maxOddsProviderId": 16,
+            "active": true
+          },
+          {
+            "avgOdds": 3.81,
+            "bettingTypeId": 1,
+            "eventId": 5531499,
+            "maxOdds": 4.35,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58prbxv464x0xdvldg",
+            "maxOddsProviderId": 381,
+            "active": true
+          }
+        ],
+        "name": "Cronulla Sharks - St. George Illawarra Dragons",
+        "colClassNameTime": "datet t1659778500-1-1-0-0"
+      },
+      {
+        "id": 5531498,
+        "url": "/rugby-league/australia/nrl-2022/canberra-raiders-penrith-panthers-xWt0diN1/",
+        "is-double": false,
+        "home": 14669229,
+        "away": 14669230,
+        "home-name": "Canberra Raiders",
+        "away-name": "Penrith Panthers",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/YmzJFJmh-IVxiY1Kq.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/hpRGvNSc-hQ68UlEd.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "xWt0diN1",
+        "colClassName": "datet t1659771000-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1659771000,
+        "date-start-timestamp": 1659771000,
+        "result": "6:26",
+        "homeResult": "6",
+        "awayResult": "26",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "info": null,
+        "partialresult": "6:14, 0:12",
+        "stream": null,
+        "bookmakersCount": 15,
+        "betting_type": 1,
+        "winner_post": 2,
+        "odds": [
+          {
+            "avgOdds": 2.15,
+            "bettingTypeId": 1,
+            "eventId": 5531498,
+            "maxOdds": 2.3,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58praxv464x0xdvldd",
+            "maxOddsProviderId": 15,
+            "active": true
+          },
+          {
+            "avgOdds": 23.29,
+            "bettingTypeId": 1,
+            "eventId": 5531498,
+            "maxOdds": 26,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58praxv498x0x0",
+            "maxOddsProviderId": 617,
+            "active": true
+          },
+          {
+            "avgOdds": 1.73,
+            "bettingTypeId": 1,
+            "eventId": 5531498,
+            "maxOdds": 1.8,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58praxv464x0xdvlde",
+            "maxOddsProviderId": 16,
+            "active": true
+          }
+        ],
+        "name": "Canberra Raiders - Penrith Panthers",
+        "colClassNameTime": "datet t1659771000-1-1-0-0"
+      },
+      {
+        "id": 5531497,
+        "url": "/rugby-league/australia/nrl-2022/south-sydney-rabbitohs-new-zealand-warriors-r9sdcX7e/",
+        "is-double": false,
+        "home": 14669227,
+        "away": 14669228,
+        "home-name": "South Sydney Rabbitohs",
+        "away-name": "New Zealand Warriors",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "nz",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/xjzxa5Rc-pIUtLbwk.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/EmsomOOt-WzMViy7E.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "r9sdcX7e",
+        "colClassName": "datet t1659762000-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1659762000,
+        "date-start-timestamp": 1659762000,
+        "result": "48:10",
+        "homeResult": "48",
+        "awayResult": "10",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "info": null,
+        "partialresult": "36:6, 12:4",
+        "stream": null,
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 1,
+        "odds": [
+          {
+            "avgOdds": 1.08,
+            "bettingTypeId": 1,
+            "eventId": 5531497,
+            "maxOdds": 1.11,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58pr9xv464x0xdvldb",
+            "maxOddsProviderId": 3,
+            "active": true
+          },
+          {
+            "avgOdds": 36.46,
+            "bettingTypeId": 1,
+            "eventId": 5531497,
+            "maxOdds": 50,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58pr9xv498x0x0",
+            "maxOddsProviderId": 3,
+            "active": true
+          },
+          {
+            "avgOdds": 7.8,
+            "bettingTypeId": 1,
+            "eventId": 5531497,
+            "maxOdds": 8.75,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58pr9xv464x0xdvldc",
+            "maxOddsProviderId": 550,
+            "active": true
+          }
+        ],
+        "name": "South Sydney Rabbitohs - New Zealand Warriors",
+        "colClassNameTime": "datet t1659762000-1-1-0-0"
+      },
+      {
+        "id": 5531496,
+        "url": "/rugby-league/australia/nrl-2022/manly-sea-eagles-parramatta-eels-4IrhbDhk/",
+        "is-double": false,
+        "home": 14669225,
+        "away": 14669226,
+        "home-name": "Manly Sea Eagles",
+        "away-name": "Parramatta Eels",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/O0BHhXVE-C6FlxSJm.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/n1xCK2oh-0fKl6Lea.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "4IrhbDhk",
+        "colClassName": "datet t1659693300-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1659693300,
+        "date-start-timestamp": 1659693300,
+        "result": "20:36",
+        "homeResult": "20",
+        "awayResult": "36",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "info": null,
+        "partialresult": "14:14, 6:22",
+        "stream": null,
+        "bookmakersCount": 15,
+        "betting_type": 1,
+        "winner_post": 2,
+        "odds": [
+          {
+            "avgOdds": 1.79,
+            "bettingTypeId": 1,
+            "eventId": 5531496,
+            "maxOdds": 1.83,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58pr8xv464x0xdvld9",
+            "maxOddsProviderId": 16,
+            "active": true
+          },
+          {
+            "avgOdds": 20,
+            "bettingTypeId": 1,
+            "eventId": 5531496,
+            "maxOdds": 23,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58pr8xv498x0x0",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 2.09,
+            "bettingTypeId": 1,
+            "eventId": 5531496,
+            "maxOdds": 2.2,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58pr8xv464x0xdvlda",
+            "maxOddsProviderId": 1,
+            "active": true
+          }
+        ],
+        "name": "Manly Sea Eagles - Parramatta Eels",
+        "colClassNameTime": "datet t1659693300-1-1-0-0"
+      },
+      {
+        "id": 5531495,
+        "url": "/rugby-league/australia/nrl-2022/melbourne-storm-gold-coast-titans-nslmagwq/",
+        "is-double": false,
+        "home": 14669223,
+        "away": 14669224,
+        "home-name": "Melbourne Storm",
+        "away-name": "Gold Coast Titans",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/SzaXrn5n-CWUSBLm7.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/WERvNMkQ-b7mfH8z7.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "nslmagwq",
+        "colClassName": "datet t1659686400-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1659686400,
+        "date-start-timestamp": 1659686400,
+        "result": "32:14",
+        "homeResult": "32",
+        "awayResult": "14",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "info": null,
+        "partialresult": "22:10, 10:4",
+        "stream": null,
+        "bookmakersCount": 15,
+        "winner_post": 0,
+        "betting_type": 1,
+        "odds": [
+          {
+            "avgOdds": 1.1,
+            "bettingTypeId": 1,
+            "eventId": 5531495,
+            "maxOdds": 1.12,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58pr7xv464x0xdvld7",
+            "maxOddsProviderId": 15,
+            "active": true
+          },
+          {
+            "avgOdds": 34.71,
+            "bettingTypeId": 1,
+            "eventId": 5531495,
+            "maxOdds": 46,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58pr7xv498x0x0",
+            "maxOddsProviderId": 417,
+            "active": true
+          },
+          {
+            "avgOdds": 6.87,
+            "bettingTypeId": 1,
+            "eventId": 5531495,
+            "maxOdds": 7.6,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58pr7xv464x0xdvld8",
+            "maxOddsProviderId": 381,
+            "active": true
+          }
+        ],
+        "name": "Melbourne Storm - Gold Coast Titans",
+        "colClassNameTime": "datet t1659686400-1-1-0-0"
+      },
+      {
+        "id": 5531494,
+        "url": "/rugby-league/australia/nrl-2022/sydney-roosters-brisbane-broncos-pY1L3ZUR/",
+        "is-double": false,
+        "home": 14669221,
+        "away": 14669222,
+        "home-name": "Sydney Roosters",
+        "away-name": "Brisbane Broncos",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/vVDOk7VE-GfEFzHVt.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/A571euA3-SKCdz6l0.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "pY1L3ZUR",
+        "colClassName": "datet t1659606600-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1659606600,
+        "date-start-timestamp": 1659606600,
+        "result": "34:16",
+        "homeResult": "34",
+        "awayResult": "16",
+        "home-winner": "win",
+        "away-winner": "lost",
+        "info": null,
+        "partialresult": "18:4, 16:12",
+        "stream": null,
+        "bookmakersCount": 14,
+        "winner_post": 0,
+        "betting_type": 1,
+        "odds": [
+          {
+            "avgOdds": 1.54,
+            "bettingTypeId": 1,
+            "eventId": 5531494,
+            "maxOdds": 1.62,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58pr6xv464x0xdvld5",
+            "maxOddsProviderId": 3,
+            "active": true
+          },
+          {
+            "avgOdds": 23.46,
+            "bettingTypeId": 1,
+            "eventId": 5531494,
+            "maxOdds": 26,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58pr6xv498x0x0",
+            "maxOddsProviderId": 16,
+            "active": true
+          },
+          {
+            "avgOdds": 2.52,
+            "bettingTypeId": 1,
+            "eventId": 5531494,
+            "maxOdds": 2.8,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58pr6xv464x0xdvld6",
+            "maxOddsProviderId": 381,
+            "active": true
+          }
+        ],
+        "name": "Sydney Roosters - Brisbane Broncos",
+        "colClassNameTime": "datet t1659606600-1-1-0-0"
+      },
+      {
+        "id": 5531493,
+        "url": "/rugby-league/australia/nrl-2022/st-george-illawarra-dragons-north-queensland-cowboys-jB2H4FFL/",
+        "is-double": false,
+        "home": 14669219,
+        "away": 14669220,
+        "home-name": "St. George Illawarra Dragons",
+        "away-name": "NQ Cowboys",
+        "home-country-two-chart-name": "au",
+        "away-country-two-chart-name": "au",
+        "home-participant-id": 1,
+        "away-participant-id": 1,
+        "status-id": 3,
+        "event-stage-id": 3,
+        "event-stage-name": "Finished",
+        "tournament-stage-id": 113696,
+        "tournament-stage-type-id": 2,
+        "tournament-stage-group-id": 0,
+        "tournament-stage-name": "",
+        "sport-id": 19,
+        "cols": "1|X|2",
+        "country-id": 24,
+        "country-name": "Australia",
+        "country-two-chart-name": "au",
+        "country-type": "Country",
+        "tournament-id": 68118,
+        "tournament-name": "NRL 2022",
+        "tournament-url": "nrl-2022",
+        "home-participant-images": [
+          "/serve/images/team-logo/Men/v15jCqPt-dfVqZfja.png"
+        ],
+        "away-participant-images": [
+          "/serve/images/team-logo/Men/zTa6xH73-QFleSbKF.png"
+        ],
+        "sport-url-name": "rugby-league",
+        "breadcrumbs": {
+          "sport": {
+            "name": "Rugby League",
+            "url": "/rugby-league/"
+          },
+          "country": {
+            "name": "Australia",
+            "url": "/rugby-league/australia/"
+          },
+          "tournament": {
+            "name": "NRL 2022",
+            "url": "/rugby-league/australia/nrl-2022/"
+          }
+        },
+        "encodeEventId": "jB2H4FFL",
+        "colClassName": "datet t1659247500-2-0-0-1",
+        "homeParticipantTypes": [1],
+        "awayParticipantTypes": [1],
+        "date-start-base": 1659247500,
+        "date-start-timestamp": 1659247500,
+        "result": "8:34",
+        "homeResult": "8",
+        "awayResult": "34",
+        "home-winner": "lost",
+        "away-winner": "win",
+        "info": null,
+        "partialresult": "8:10, 0:24",
+        "stream": null,
+        "bookmakersCount": 15,
+        "betting_type": 1,
+        "winner_post": 2,
+        "odds": [
+          {
+            "avgOdds": 3,
+            "bettingTypeId": 1,
+            "eventId": 5531493,
+            "maxOdds": 3.15,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58pr5xv464x0xdvld3",
+            "maxOddsProviderId": 5,
+            "active": true
+          },
+          {
+            "avgOdds": 25.93,
+            "bettingTypeId": 1,
+            "eventId": 5531493,
+            "maxOdds": 31,
+            "outcomeResultId": 2,
+            "scopeId": 2,
+            "outcomeId": "58pr5xv498x0x0",
+            "maxOddsProviderId": 381,
+            "active": true
+          },
+          {
+            "avgOdds": 1.4,
+            "bettingTypeId": 1,
+            "eventId": 5531493,
+            "maxOdds": 1.44,
+            "outcomeResultId": 1,
+            "scopeId": 2,
+            "outcomeId": "58pr5xv464x0xdvld4",
+            "maxOddsProviderId": 381,
+            "active": true
+          }
+        ],
+        "name": "St. George Illawarra Dragons - NQ Cowboys",
+        "colClassNameTime": "datet t1659247500-1-1-0-0"
+      }
+    ],
+    "paginationView": "<div class=\"flex mx-3 mt-7\"><div class=\"flex items-center justify-center mr-3\"></div><div id=\"pagination\" class=\"flex-wrap w-full gap-4 max-sm:w-full max-sm:mt-11 max-sm:relative max-sm:flex-auto flex-center min-sm:px-3\"><span class=\"w-6 h-8 text-xs leading-4 flex-center active-page bg-gray-light test\">1</span><a href=\"javascript: void(0)\" :href=\"https://www.oddsportal.com/ajax-sport-country-tournament-archive_/19/IcS1yEdI/X0/1/0/page/2/\" onclick=\"pagination(this)\" x-page=\"2\" class=\"flex test3\"><span class=\"w-6 h-8 text-xs leading-4 underline flex-center text-black-main\">2</span></a><a href=\"javascript: void(0)\" :href=\"https://www.oddsportal.com/ajax-sport-country-tournament-archive_/19/IcS1yEdI/X0/1/0/page/3/\" onclick=\"pagination(this)\" x-page=\"3\" class=\"flex test3\"><span class=\"w-6 h-8 text-xs leading-4 underline flex-center text-black-main\">3</span></a><a href=\"javascript: void(0)\" :href=\"https://www.oddsportal.com/ajax-sport-country-tournament-archive_/19/IcS1yEdI/X0/1/0/page/4/\" onclick=\"pagination(this)\" x-page=\"4\" class=\"flex test3\"><span class=\"w-6 h-8 text-xs leading-4 underline flex-center text-black-main\">4</span></a><a href=\"javascript: void(0)\" :href=\"https://www.oddsportal.com/ajax-sport-country-tournament-archive_/19/IcS1yEdI/X0/1/0/page/5/\" onclick=\"pagination(this)\" x-page=\"5\" class=\"flex test3\"><span class=\"w-6 h-8 text-xs leading-4 underline flex-center text-black-main\">5</span></a></div><div class=\"flex items-center justify-center ml-3\"><a class=\"h-max\" href=\"javascript: void(0)\" :href=\"https://www.oddsportal.com/ajax-sport-country-tournament-archive_/19/IcS1yEdI/X0/1/0/page/2/\" onclick=\"pagination(this)\" x-page=\"2\">                        <div class=\"flex justify-center gap-1 text-xs underline capitalize\">                            <p class=\"flex items-center\">next</p>                        </div>                    </a>                    <a href=\"javascript: void(0)\" :href=\"https://www.oddsportal.com/ajax-sport-country-tournament-archive_/19/IcS1yEdI/X0/1/0/page/5/\" onclick=\"pagination(this)\" x-page=\"6\" class=\"w-6 h-6 bg-no-repeat bg-skip-next\"></a></div></div>"
+  },
+  "refresh": 20
+}

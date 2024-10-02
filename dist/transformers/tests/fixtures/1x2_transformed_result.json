@@ -1,0 +1,478 @@
+[
+    {
+        "bookieName": "bwin",
+        "odds": {
+            "away": {
+                "closing": 1.53,
+                "opening": 1.53
+            },
+            "draw": {
+                "closing": 19,
+                "opening": 19
+            },
+            "home": {
+                "closing": 2.5,
+                "opening": 2.5
+            }
+        }
+    },
+    {
+        "bookieName": "bet-at-home",
+        "odds": {
+            "away": {
+                "closing": 1.52,
+                "opening": 1.51
+            },
+            "draw": {
+                "closing": 21,
+                "opening": 20
+            },
+            "home": {
+                "closing": 2.36,
+                "opening": 2.39
+            }
+        }
+    },
+    {
+        "bookieName": "William Hill",
+        "odds": {
+            "away": {
+                "closing": 1.62,
+                "opening": 1.53
+            },
+            "draw": {
+                "closing": 21,
+                "opening": 21
+            },
+            "home": {
+                "closing": 2.3,
+                "opening": 2.5
+            }
+        }
+    },
+    {
+        "bookieName": "bet365",
+        "odds": {
+            "away": {
+                "closing": 1.57,
+                "opening": 1.57
+            },
+            "draw": {
+                "closing": 21,
+                "opening": 21
+            },
+            "home": {
+                "closing": 2.5,
+                "opening": 2.5
+            }
+        }
+    },
+    {
+        "bookieName": "Betsafe",
+        "odds": {
+            "away": {
+                "closing": 1.58,
+                "opening": 1.62
+            },
+            "draw": {
+                "closing": 22,
+                "opening": 22
+            },
+            "home": {
+                "closing": 2.6,
+                "opening": 2.5
+            }
+        }
+    },
+    {
+        "bookieName": "888sport",
+        "odds": {
+            "away": {
+                "closing": 1.53,
+                "opening": 1.53
+            },
+            "draw": {
+                "closing": 20.5,
+                "opening": 22
+            },
+            "home": {
+                "closing": 2.4,
+                "opening": 2.38
+            }
+        }
+    },
+    {
+        "bookieName": "NordicBet",
+        "odds": {
+            "away": {
+                "closing": 1.58,
+                "opening": 1.62
+            },
+            "draw": {
+                "closing": 22,
+                "opening": 22
+            },
+            "home": {
+                "closing": 2.6,
+                "opening": 2.5
+            }
+        }
+    },
+    {
+        "bookieName": "Betsson",
+        "odds": {
+            "away": {
+                "closing": 1.58,
+                "opening": 1.62
+            },
+            "draw": {
+                "closing": 22,
+                "opening": 22
+            },
+            "home": {
+                "closing": 2.6,
+                "opening": 2.5
+            }
+        }
+    },
+    {
+        "bookieName": "bwin.it",
+        "odds": {
+            "away": {
+                "closing": 1.53,
+                "opening": 1.53
+            },
+            "draw": {
+                "closing": 19,
+                "opening": 19
+            },
+            "home": {
+                "closing": 2.5,
+                "opening": 2.5
+            }
+        }
+    },
+    {
+        "bookieName": "188BET",
+        "odds": {
+            "away": {
+                "closing": 1.57,
+                "opening": 1.59
+            },
+            "draw": {
+                "closing": 21,
+                "opening": 21
+            },
+            "home": {
+                "closing": 2.56,
+                "opening": 2.52
+            }
+        }
+    },
+    {
+        "bookieName": "bwin.fr",
+        "odds": {
+            "away": {
+                "closing": 1.5,
+                "opening": 1.5
+            },
+            "draw": {
+                "closing": 16,
+                "opening": 16
+            },
+            "home": {
+                "closing": 2.4,
+                "opening": 2.4
+            }
+        }
+    },
+    {
+        "bookieName": "Betclic.fr",
+        "odds": {
+            "away": {
+                "closing": 1.48,
+                "opening": 1.48
+            },
+            "draw": {
+                "closing": 19,
+                "opening": 18
+            },
+            "home": {
+                "closing": 2.25,
+                "opening": 2.25
+            }
+        }
+    },
+    {
+        "bookieName": "STS.pl",
+        "odds": {
+            "away": {
+                "closing": 1.57,
+                "opening": 1.57
+            },
+            "draw": {
+                "closing": 22.5,
+                "opening": 21.5
+            },
+            "home": {
+                "closing": 2.5,
+                "opening": 2.55
+            }
+        }
+    },
+    {
+        "bookieName": "WilliamHill.it",
+        "odds": {
+            "away": {
+                "closing": 1.62,
+                "opening": 1.53
+            },
+            "draw": {
+                "closing": 21,
+                "opening": 21
+            },
+            "home": {
+                "closing": 2.3,
+                "opening": 2.5
+            }
+        }
+    },
+    {
+        "bookieName": "Marathonbet",
+        "odds": {
+            "away": {
+                "closing": 1.55,
+                "opening": 1.44
+            },
+            "draw": {
+                "closing": 26,
+                "opening": 26
+            },
+            "home": {
+                "closing": 2.57,
+                "opening": 2.91
+            }
+        }
+    },
+    {
+        "bookieName": "bwin.es",
+        "odds": {
+            "away": {
+                "closing": 1.53,
+                "opening": 1.53
+            },
+            "draw": {
+                "closing": 19,
+                "opening": 19
+            },
+            "home": {
+                "closing": 2.5,
+                "opening": 2.5
+            }
+        }
+    },
+    {
+        "bookieName": "1xBet",
+        "odds": {
+            "away": {
+                "closing": 1.59,
+                "opening": 1.55
+            },
+            "draw": {
+                "closing": 19,
+                "opening": 21
+            },
+            "home": {
+                "closing": 2.5,
+                "opening": 2.5
+            }
+        }
+    },
+    {
+        "bookieName": "bet365.it",
+        "odds": {
+            "away": {
+                "closing": 1.57,
+                "opening": 1.57
+            },
+            "draw": {
+                "closing": 21,
+                "opening": 21
+            },
+            "home": {
+                "closing": 2.5,
+                "opening": 2.5
+            }
+        }
+    },
+    {
+        "bookieName": "1xStavka.ru",
+        "odds": {
+            "away": {
+                "closing": 1.59,
+                "opening": 1.55
+            },
+            "draw": {
+                "closing": 19,
+                "opening": 21
+            },
+            "home": {
+                "closing": 2.5,
+                "opening": 2.5
+            }
+        }
+    },
+    {
+        "bookieName": "Totolotek.pl",
+        "odds": {
+            "away": {
+                "closing": 1.55,
+                "opening": 1.55
+            },
+            "draw": {
+                "closing": 23.5,
+                "opening": 23.5
+            },
+            "home": {
+                "closing": 2.43,
+                "opening": 2.43
+            }
+        }
+    },
+    {
+        "bookieName": "Smarkets",
+        "odds": {
+            "away": {
+                "closing": 1.61,
+                "opening": 1.53
+            },
+            "draw": {
+                "closing": 19.5,
+                "opening": 18.5
+            },
+            "home": {
+                "closing": 2.52,
+                "opening": 2.42
+            }
+        }
+    },
+    {
+        "bookieName": "GGBET",
+        "odds": {
+            "away": {
+                "closing": 1.57,
+                "opening": 1.56
+            },
+            "draw": {
+                "closing": 22.55,
+                "opening": 21.63
+            },
+            "home": {
+                "closing": 2.5,
+                "opening": 2.53
+            }
+        }
+    },
+    {
+        "bookieName": "10x10bet",
+        "odds": {
+            "away": {
+                "closing": 1.52,
+                "opening": 1.52
+            },
+            "draw": {
+                "closing": 25,
+                "opening": 26
+            },
+            "home": {
+                "closing": 2.49,
+                "opening": 2.49
+            }
+        }
+    },
+    {
+        "bookieName": "Curebet",
+        "odds": {
+            "away": {
+                "closing": 1.52,
+                "opening": 1.52
+            },
+            "draw": {
+                "closing": 25,
+                "opening": 26
+            },
+            "home": {
+                "closing": 2.49,
+                "opening": 2.49
+            }
+        }
+    },
+    {
+        "bookieName": "Lasbet",
+        "odds": {
+            "away": {
+                "closing": 1.52,
+                "opening": 1.52
+            },
+            "draw": {
+                "closing": 25,
+                "opening": 26
+            },
+            "home": {
+                "closing": 2.49,
+                "opening": 2.49
+            }
+        }
+    },
+    {
+        "bookieName": "VOBET",
+        "odds": {
+            "away": {
+                "closing": 1.52,
+                "opening": 1.52
+            },
+            "draw": {
+                "closing": 25,
+                "opening": 26
+            },
+            "home": {
+                "closing": 2.49,
+                "opening": 2.49
+            }
+        }
+    },
+    {
+        "bookieName": "BC.Game",
+        "odds": {
+            "away": {
+                "closing": 1.56,
+                "opening": 1.55
+            },
+            "draw": {
+                "closing": 22,
+                "opening": 21
+            },
+            "home": {
+                "closing": 2.45,
+                "opening": 2.47
+            }
+        }
+    },
+    {
+        "bookieName": "Alphabet",
+        "odds": {
+            "away": {
+                "closing": 1.52,
+                "opening": 1.52
+            },
+            "draw": {
+                "closing": 25,
+                "opening": 26
+            },
+            "home": {
+                "closing": 2.49,
+                "opening": 2.49
+            }
+        }
+    }
+]

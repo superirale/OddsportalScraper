@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "incremental": true,
+    "esModuleInterop": true,
+    // "inlineSourceMap": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "noEmitOnError": true,
+    "target": "es5",
+    "sourceMap": true,
+    "module": "commonjs",
+    "baseUrl": ".",
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "moduleResolution": "node",
+    "types": ["jest", "node"]
+  },
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": ["node_modules", "dist"]
+}

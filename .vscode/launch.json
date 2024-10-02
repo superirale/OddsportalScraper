@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Launch",
+      "type": "node",
+      "request": "launch",
+      "skipFiles": [
+        "${workspaceFolder}/<node_internals>/**",
+        "${workspaceFolder}/node_modules/**"
+      ],
+      "smartStep": true,
+      "trace": true,
+      "resolveSourceMapLocations": ["${workspaceFolder}/**"],
+      "preLaunchTask": "npm: build-clean",
+      "program": "${workspaceFolder}/dist/index.js" // Replace "index.js" with your main Node.js file
+    }
+  ]
+}
