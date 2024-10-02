@@ -4,7 +4,7 @@ import Redis, { RedisOptions } from "ioredis";
 import { v4 as uuidv4 } from "uuid";
 import chalk from "chalk";
 import { add } from "date-fns";
-import Queue, { Job } from "bullmq";
+import Queue, { Job } from "bull";
 import IScraper, { JSONScraperOptions, Selector } from "./scrapers/IScraper";
 import JSONScraper from "./scrapers/JSONScraper";
 import AsianHandicapTransformer from "./transformers/AsianHandicapTransformer";
