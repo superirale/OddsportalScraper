@@ -58,8 +58,8 @@ var nano = require("nano")("http://admin:Omokhudu1987@127.0.0.1:5984");
 var db = nano.use("historical-odds");
 // create a db abstraction in the future
 var JSONScraper = /** @class */ (function () {
-    function JSONScraper(browser, options, transformers) {
-        this.browser = browser;
+    function JSONScraper(page, options, transformers) {
+        this.page = page;
         this.options = options;
         this.transformers = transformers;
     }
@@ -67,7 +67,7 @@ var JSONScraper = /** @class */ (function () {
         return __awaiter(this, void 0, void 0, function () {
             return __generator(this, function (_a) {
                 switch (_a.label) {
-                    case 0: return [4 /*yield*/, this.openPage(url)];
+                    case 0: return [4 /*yield*/, this.openPage(url, { timeout: 60000 })];
                     case 1:
                         _a.sent();
                         return [2 /*return*/, []];
@@ -89,17 +89,15 @@ var JSONScraper = /** @class */ (function () {
     };
     JSONScraper.prototype.openPage = function (url, opt) {
         return __awaiter(this, void 0, void 0, function () {
-            var page;
+            var resp;
             return __generator(this, function (_a) {
                 switch (_a.label) {
-                    case 0: return [4 /*yield*/, this.browser.newPage()];
+                    case 0:
+                        this.page.setDefaultTimeout(this.options.timeout);
+                        return [4 /*yield*/, this.interceptAndGetJSONResponse(opt)];
                     case 1:
-                        page = _a.sent();
-                        page.setDefaultTimeout(this.options.timeout);
-                        return [4 /*yield*/, this.interceptAndGetJSONResponse(page, opt)];
-                    case 2:
-                        _a.sent();
-                        return [4 /*yield*/, page
+                        resp = _a.sent();
+                        return [4 /*yield*/, this.page
                                 .goto(url, {
                                 waitUntil: "domcontentloaded",
                             })
@@ -107,62 +105,67 @@ var JSONScraper = /** @class */ (function () {
                                 console.log(error);
                                 (0, process_1.exit)(1);
                             })];
+                    case 2:
+                        _a.sent();
+                        if (!((opt === null || opt === void 0 ? void 0 : opt.timeout) && !resp)) return [3 /*break*/, 4];
+                        return [4 /*yield*/, new Promise(function (r) { return setTimeout(r, opt.timeout); })];
                     case 3:
                         _a.sent();
-                        return [4 /*yield*/, new Promise(function (r) { return setTimeout(r, 20000); })];
-                    case 4:
-                        _a.sent();
-                        return [4 /*yield*/, page.close()];
-                    case 5:
-                        _a.sent();
-                        return [2 /*return*/];
+                        _a.label = 4;
+                    case 4: return [2 /*return*/];
                 }
             });
         });
     };
-    JSONScraper.prototype.interceptAndGetJSONResponse = function (page, opt) {
+    JSONScraper.prototype.interceptAndGetJSONResponse = function (opt) {
         return __awaiter(this, void 0, void 0, function () {
-            var result;
+            var result, doneAsync;
             var _this = this;
             return __generator(this, function (_a) {
                 switch (_a.label) {
-                    case 0: return [4 /*yield*/, page.setRequestInterception(true)];
+                    case 0: return [4 /*yield*/, this.page.setRequestInterception(true)];
                     case 1:
                         _a.sent();
                         result = [];
-                        page.on("request", function (req) { return __awaiter(_this, void 0, void 0, function () {
+                        doneAsync = false;
+                        this.page.on("request", function (req) { return __awaiter(_this, void 0, void 0, function () {
                             return __generator(this, function (_a) {
                                 switch (req.resourceType()) {
                                     case "font":
                                     case "image":
                                     case "stylesheet":
+                                    case "media":
+                                    case "websocket":
+                                    case "ping":
                                         req.abort();
                                         break;
                                     default:
-                                        //   await this.blockHTTPRequests(req);
                                         req.continue();
                                 }
                                 return [2 /*return*/];
                             });
                         }); });
-                        page.on("requestfinished", function (request) { return __awaiter(_this, void 0, void 0, function () {
-                            var response, matchesList, fullTime, firstHalf, secondHalf, fullTime, firstHalf, secondHalf, fullTime, firstHalf, secondHalf;
+                        this.page.on("requestfinished", function (request) { return __awaiter(_this, void 0, void 0, function () {
+                            var response, fullTime, firstHalf, secondHalf, fullTime, firstHalf, secondHalf, fullTime, firstHalf, secondHalf;
                             var _a, _b, _c;
                             return __generator(this, function (_d) {
                                 switch (_d.label) {
                                     case 0: return [4 /*yield*/, request.response()];
                                     case 1:
                                         response = _d.sent();
-                                        if (!response) return [3 /*break*/, 30];
-                                        if (!(request.redirectChain().length === 0)) return [3 /*break*/, 30];
+                                        if (!response) return [3 /*break*/, 31];
+                                        if (!(request.redirectChain().length === 0)) return [3 /*break*/, 31];
                                         if (!request.url().includes("ajax-sport-country-tournament-archive_")) return [3 /*break*/, 3];
                                         return [4 /*yield*/, this.fetchMatches(request, response)];
                                     case 2:
-                                        matchesList = _d.sent();
-                                        (0, utils_1.saveJsonFile)("./data/matches.json", JSON.stringify(matchesList));
-                                        return [3 /*break*/, 30];
+                                        result = _d.sent();
+                                        if (result.length) {
+                                            (0, utils_1.saveJsonFile)("./data/matches.json", JSON.stringify(result));
+                                        }
+                                        doneAsync = true;
+                                        return [3 /*break*/, 31];
                                     case 3:
-                                        if (!request.url().includes("feed/match-event")) return [3 /*break*/, 30];
+                                        if (!request.url().includes("feed/match-event")) return [3 /*break*/, 31];
                                         if (!request.url().includes("1-2")) return [3 /*break*/, 6];
                                         return [4 /*yield*/, this.getTransformedData(response, (_a = this.transformers.odds.oneTimesTwo) === null || _a === void 0 ? void 0 : _a.fullTime)];
                                     case 4:
@@ -261,11 +264,14 @@ var JSONScraper = /** @class */ (function () {
                                     case 29:
                                         _d.sent();
                                         _d.label = 30;
-                                    case 30: return [2 /*return*/];
+                                    case 30:
+                                        doneAsync = true;
+                                        _d.label = 31;
+                                    case 31: return [2 /*return*/];
                                 }
                             });
                         }); });
-                        return [2 /*return*/, result];
+                        return [2 /*return*/, result.length ? result : doneAsync];
                 }
             });
         });
@@ -281,9 +287,6 @@ var JSONScraper = /** @class */ (function () {
                         return [4 /*yield*/, response.buffer()];
                     case 1:
                         responseBody = _b.apply(_a, [(_c.sent()).toString()]);
-                        console.log("======");
-                        console.log(responseBody);
-                        console.log("======");
                         url = request.url().split("?")[0];
                         count = 1;
                         data = [];
@@ -366,16 +369,13 @@ var JSONScraper = /** @class */ (function () {
                     case 2:
                         existingRecords = _a.sent();
                         if (!(existingRecords.docs.length == 0)) return [3 /*break*/, 4];
-                        console.log("does not exists");
+                        console.log("does not exists, inserting");
                         return [4 /*yield*/, db.insert(__assign({ matchName: matchName, leagueName: leagueName, season: season, sport: sport, date: date }, data))];
                     case 3:
                         _a.sent();
                         return [3 /*break*/, 6];
                     case 4:
-                        console.log("updating existing record", {
-                            existingRecord: existingRecords.docs[0],
-                            newRecords: data,
-                        });
+                        console.log("updating existing record");
                         odds = data.odds;
                         newOdds = (0, lodash_1.merge)(odds, existingRecords.docs[0].odds);
                         updatedData = {

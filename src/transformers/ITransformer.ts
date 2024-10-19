@@ -78,6 +78,18 @@ export interface AsianHandicapTransformedData {
   }[];
 }
 
+export enum PlayerPosition {
+  fullback = "fullback",
+  winger = "winger",
+  center = "center",
+  standoff = "stand-off",
+  halfback = "halfback",
+  prop = "prop",
+  secondRow = "second-row",
+  lock = "lock",
+  hooker = "hooker",
+}
+
 export interface matchData {
   url: string;
   "home-name": string;
@@ -94,7 +106,34 @@ export
   }
 }
 
-export type RawData = OneTimesTwoRawData | AsianHandicapAndTotalsRawData | MatchRawData;
+export interface PlayerTransformedData {
+  position: PlayerPosition;
+  name: string;
+  tries: number;
+  tryAssists: number;
+  tackles: number;
+  markerTackles: number;
+  missedTackles: number;
+  tackleBusts: number;
+  attackingkicks: number;
+  carries: number;
+  metres: number;
+  avGain: number;
+  cleanBreak: number;
+  runFromDummyHalf: number;
+  errors: number;
+  fortyTwenty: number;
+  goals: number;
+  missedGoals: number;
+  offload: number;
+  penalties: number;
+  dropGoals: number;
+  kickInGeneralPlay: number;
+  yellowCard: number;
+  redCard: number;
+}
+
+export type RawData = OneTimesTwoRawData | AsianHandicapAndTotalsRawData | MatchRawData | PlayerTransformedData;
 
 export interface MatchTransformedData {
   homeTeamName: string;
@@ -107,7 +146,8 @@ export type TransformedData =
   | AsianHandicapTransformedData
   | MatchTransformedData[]
   | OneTimesTwoTransformedData[]
-  | TotalsTransformedData;
+  | TotalsTransformedData
+  | PlayerTransformedData;
 
 export interface BookiesMapping {
   [key: string]: string;

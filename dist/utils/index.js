@@ -5,8 +5,15 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.readJsonFile = exports.saveJsonFile = void 0;
 var fs_1 = __importDefault(require("fs"));
+var path_1 = __importDefault(require("path"));
 function saveJsonFile(filePath, data) {
-    fs_1.default.writeFileSync(filePath, data);
+    try {
+        fs_1.default.mkdirSync(path_1.default.dirname(filePath), { recursive: true });
+        fs_1.default.writeFileSync(filePath, data);
+    }
+    catch (error) {
+        console.error('Error saving JSON file:', error);
+    }
 }
 exports.saveJsonFile = saveJsonFile;
 function readJsonFile(filePath) {

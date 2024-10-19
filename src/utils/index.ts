@@ -1,7 +1,13 @@
 import fs from "fs";
+import path from "path";
 
 export function saveJsonFile(filePath: string, data: string): void {
-  fs.writeFileSync(filePath, data);
+  try {
+    fs.mkdirSync(path.dirname(filePath), { recursive: true });
+    fs.writeFileSync(filePath, data);
+  } catch (error) {
+    console.error('Error saving JSON file:', error);
+  }
 }
 
 export function readJsonFile(filePath: string): unknown {

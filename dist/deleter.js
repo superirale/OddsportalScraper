@@ -43,78 +43,82 @@ var __asyncValues = (this && this.__asyncValues) || function (o) {
     function settle(resolve, reject, d, v) { Promise.resolve(v).then(function(v) { resolve({ value: v, done: d }); }, reject); }
 };
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.deleter = void 0;
 var nano = require("nano")("http://admin:Omokhudu1987@127.0.0.1:5984");
 var db = nano.use("historical-odds");
-(function () { return __awaiter(void 0, void 0, void 0, function () {
-    var q, records, _a, _b, _c, record, e_1_1, error_1, message;
-    var _d, e_1, _e, _f;
-    return __generator(this, function (_g) {
-        switch (_g.label) {
-            case 0:
-                _g.trys.push([0, 17, , 18]);
-                q = {
-                    selector: {
-                        leagueName: { $eq: "super-league" },
-                        season: { $eq: "2024" },
-                        sport: { $eq: "rugby-league" },
-                    },
-                    limit: 1000,
-                };
-                return [4 /*yield*/, db.find(q)];
-            case 1:
-                records = _g.sent();
-                console.log(records.docs.length);
-                _g.label = 2;
-            case 2:
-                _g.trys.push([2, 10, 11, 16]);
-                _a = true, _b = __asyncValues(records.docs);
-                _g.label = 3;
-            case 3: return [4 /*yield*/, _b.next()];
-            case 4:
-                if (!(_c = _g.sent(), _d = _c.done, !_d)) return [3 /*break*/, 9];
-                _f = _c.value;
-                _a = false;
-                _g.label = 5;
-            case 5:
-                _g.trys.push([5, , 7, 8]);
-                record = _f;
-                // console.log(record);
-                return [4 /*yield*/, db.destroy(record._id, record._rev)];
-            case 6:
-                // console.log(record);
-                _g.sent();
-                return [3 /*break*/, 8];
-            case 7:
-                _a = true;
-                return [7 /*endfinally*/];
-            case 8: return [3 /*break*/, 3];
-            case 9: return [3 /*break*/, 16];
-            case 10:
-                e_1_1 = _g.sent();
-                e_1 = { error: e_1_1 };
-                return [3 /*break*/, 16];
-            case 11:
-                _g.trys.push([11, , 14, 15]);
-                if (!(!_a && !_d && (_e = _b.return))) return [3 /*break*/, 13];
-                return [4 /*yield*/, _e.call(_b)];
-            case 12:
-                _g.sent();
-                _g.label = 13;
-            case 13: return [3 /*break*/, 15];
-            case 14:
-                if (e_1) throw e_1.error;
-                return [7 /*endfinally*/];
-            case 15: return [7 /*endfinally*/];
-            case 16: return [3 /*break*/, 18];
-            case 17:
-                error_1 = _g.sent();
-                message = void 0;
-                if (error_1 instanceof Error)
-                    message = error_1.message;
-                console.log(message);
-                return [3 /*break*/, 18];
-            case 18: return [2 /*return*/];
-        }
+function deleter(leagueName, season, sport) {
+    var _a, e_1, _b, _c;
+    return __awaiter(this, void 0, void 0, function () {
+        var q, records, _d, _e, _f, record, e_1_1, error_1, message;
+        return __generator(this, function (_g) {
+            switch (_g.label) {
+                case 0:
+                    _g.trys.push([0, 17, , 18]);
+                    q = {
+                        selector: {
+                            leagueName: { $eq: leagueName },
+                            season: { $eq: season },
+                            sport: { $eq: sport },
+                        },
+                        limit: 3000,
+                    };
+                    return [4 /*yield*/, db.find(q)];
+                case 1:
+                    records = _g.sent();
+                    console.log(records.docs.length);
+                    _g.label = 2;
+                case 2:
+                    _g.trys.push([2, 10, 11, 16]);
+                    _d = true, _e = __asyncValues(records.docs);
+                    _g.label = 3;
+                case 3: return [4 /*yield*/, _e.next()];
+                case 4:
+                    if (!(_f = _g.sent(), _a = _f.done, !_a)) return [3 /*break*/, 9];
+                    _c = _f.value;
+                    _d = false;
+                    _g.label = 5;
+                case 5:
+                    _g.trys.push([5, , 7, 8]);
+                    record = _c;
+                    return [4 /*yield*/, db.destroy(record._id, record._rev)];
+                case 6:
+                    _g.sent();
+                    ;
+                    return [3 /*break*/, 8];
+                case 7:
+                    _d = true;
+                    return [7 /*endfinally*/];
+                case 8: return [3 /*break*/, 3];
+                case 9: return [3 /*break*/, 16];
+                case 10:
+                    e_1_1 = _g.sent();
+                    e_1 = { error: e_1_1 };
+                    return [3 /*break*/, 16];
+                case 11:
+                    _g.trys.push([11, , 14, 15]);
+                    if (!(!_d && !_a && (_b = _e.return))) return [3 /*break*/, 13];
+                    return [4 /*yield*/, _b.call(_e)];
+                case 12:
+                    _g.sent();
+                    _g.label = 13;
+                case 13: return [3 /*break*/, 15];
+                case 14:
+                    if (e_1) throw e_1.error;
+                    return [7 /*endfinally*/];
+                case 15: return [7 /*endfinally*/];
+                case 16: return [3 /*break*/, 18];
+                case 17:
+                    error_1 = _g.sent();
+                    message = void 0;
+                    if (error_1 instanceof Error)
+                        message = error_1.message;
+                    console.log(message);
+                    return [3 /*break*/, 18];
+                case 18: return [2 /*return*/];
+            }
+        });
     });
-}); })();
+}
+exports.deleter = deleter;
+;
 //# sourceMappingURL=deleter.js.map

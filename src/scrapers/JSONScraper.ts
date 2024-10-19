@@ -1,7 +1,9 @@
 import { exit } from "process";
 import axios from "axios";
 import { merge } from "lodash";
-import { Browser, HTTPRequest, HTTPResponse, Page } from "puppeteer-core";
+
+import { HTTPRequest, HTTPResponse, Page } from "puppeteer";
+
 import IScraper, { JSONScraperOptions, MatchOddsData } from "./IScraper";
 import Itransformer, {
   AsianHandicapTransformedData,
@@ -19,7 +21,7 @@ const db = nano.use("historical-odds");
 // create a db abstraction in the future
 export default class JSONScraper implements IScraper {
   constructor(
-    readonly browser: Browser,
+    readonly page: Page,
     readonly options: JSONScraperOptions,
     readonly transformers: {
       matchesList: Itransformer;
@@ -35,7 +37,7 @@ export default class JSONScraper implements IScraper {
     }
   ) {}
   public async crawl(url: string): Promise<string[] | MatchTransformedData[]> {
-    await this.openPage(url);
+    await this.openPage(url, { timeout: 60000 });
     return [];
   }
 
@@ -51,11 +53,9 @@ export default class JSONScraper implements IScraper {
     url: string,
     opt?: Record<string, unknown>
   ): Promise<void> {
-    const page = await this.browser.newPage();
-    page.setDefaultTimeout(this.options.timeout);
-    await this.interceptAndGetJSONResponse(page, opt);
-
-    await page
+    this.page.setDefaultTimeout(this.options.timeout);
+    const resp = await this.interceptAndGetJSONResponse(opt);
+    await this.page
       .goto(url, {
         waitUntil: "domcontentloaded",
       })
@@ -63,31 +63,34 @@ export default class JSONScraper implements IScraper {
         console.log(error);
         exit(1);
       });
-
-    await new Promise((r) => setTimeout(r, 20000));
-    await page.close();
+    
+    if (opt?.timeout && !resp) {
+      await new Promise((r) => setTimeout(r, opt!.timeout as number));
+    }
   }
 
   private async interceptAndGetJSONResponse(
-    page: Page,
     opt?: Record<string, unknown>
-  ): Promise<MatchTransformedData[]> {
-    await page.setRequestInterception(true);
+  ): Promise<MatchTransformedData[] | boolean> {
+    await this.page.setRequestInterception(true);
     let result: MatchTransformedData[] = [];
-    page.on("request", async (req) => {
+    let doneAsync = false;
+    this.page.on("request", async (req) => {
       switch (req.resourceType()) {
         case "font":
         case "image":
         case "stylesheet":
+        case "media":
+        case "websocket":
+        case "ping":
           req.abort();
           break;
         default:
-          //   await this.blockHTTPRequests(req);
           req.continue();
       }
     });
 
-    page.on("requestfinished", async (request) => {
+    this.page.on("requestfinished", async (request) => {
       const response = await request.response();
 
       if (response) {
@@ -95,9 +98,13 @@ export default class JSONScraper implements IScraper {
           if (
             request.url().includes("ajax-sport-country-tournament-archive_")
           ) {
-            const matchesList = await this.fetchMatches(request, response);
-            saveJsonFile("./data/matches.json", JSON.stringify(matchesList));
-          } else if (request.url().includes("feed/match-event")) {
+            result = await this.fetchMatches(request, response);
+            if (result.length) {
+              saveJsonFile("./data/matches.json", JSON.stringify(result));
+            }  
+            doneAsync = true;          
+          } 
+          else if (request.url().includes("feed/match-event")) {
             // 1-2, 1-3, 1-4,
 
             if (request.url().includes("1-2")) {
@@ -185,11 +192,13 @@ export default class JSONScraper implements IScraper {
                 odds: { totals: { secondHalf } },
               });
             }
+            doneAsync = true;          
           }
         }
       }
     });
-    return result;
+             
+    return result.length ? result : doneAsync;
   }
 
   private async fetchMatches(
@@ -200,9 +209,6 @@ export default class JSONScraper implements IScraper {
     const responseBody = JSON.parse(
       (await response.buffer()).toString()
     ) as MatchRawData;
-    console.log("======");
-    console.log(responseBody);
-    console.log("======");
     let url = request.url().split("?")[0];
     let count = 1;
     let data: MatchTransformedData[] = [];
@@ -255,9 +261,8 @@ export default class JSONScraper implements IScraper {
     data: unknown
   ): Promise<void> {
     const { season, sport, leagueName, date, matchName } = queryOpt;
-
+    
     try {
-  
       const q = {
         selector: {
           leagueName: { $eq: leagueName },
@@ -270,7 +275,7 @@ export default class JSONScraper implements IScraper {
       };
       const existingRecords = await db.find(q);
       if (existingRecords.docs.length == 0) {
-        console.log("does not exists");
+        console.log("does not exists, inserting");
         await db.insert({
           matchName,
           leagueName,
@@ -280,12 +285,9 @@ export default class JSONScraper implements IScraper {
           ...(data as Record<string, unknown>),
         });
       } else {
-        console.log("updating existing record", {
-          existingRecord: existingRecords.docs[0],
-          newRecords: data,
-        });
+        console.log("updating existing record");
         const { odds } = data as Record<string, unknown>;
-        const newOdds = merge(odds, existingRecords.docs[0].odds)
+        const newOdds = merge(odds, existingRecords.docs[0].odds);
         const updatedData = {
           _id: existingRecords.docs[0]._id,
           _rev: existingRecords.docs[0]._rev,
