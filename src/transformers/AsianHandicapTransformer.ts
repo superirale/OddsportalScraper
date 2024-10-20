@@ -7,6 +7,12 @@ import Itransformer, {
   
   export default class AsianHandicapTransformer implements Itransformer {
     constructor(readonly bookiesMapping: BookiesMapping) {}
+    setContextData<T>(contextData: T): void {
+      throw new Error("Method not implemented.");
+    }
+    getContextData<T>(): T {
+      throw new Error("Method not implemented.");
+    }
     public transform(inputData: AsianHandicapAndTotalsRawData): TransformedData {
       let result: AsianHandicapTransformedData = {};
       const data = inputData.d.oddsdata.back;

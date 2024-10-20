@@ -3,6 +3,12 @@ import Itransformer, { MatchRawData, MatchTransformedData, TransformedData } fro
 
 export default class MatchTransformer implements Itransformer {
   constructor() {}
+  setContextData<T>(contextData: T): void {
+    throw new Error("Method not implemented.");
+  }
+  getContextData<T>(): T {
+    throw new Error("Method not implemented.");
+  }
   public transform(inputData: MatchRawData): TransformedData {
     let result = [];
     const data = inputData.d;

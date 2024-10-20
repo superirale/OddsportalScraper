@@ -62,6 +62,9 @@ var OneTimesTwoTransformer_1 = __importDefault(require("./transformers/OneTimesT
 var bookies_mapping_json_1 = __importDefault(require("./transformers/tests/fixtures/bookies_mapping.json"));
 var TotalsTransformer_1 = __importDefault(require("./transformers/TotalsTransformer"));
 var utils_1 = require("./utils");
+var CouchDBDataSource_1 = __importDefault(require("./datasource/CouchDBDataSource"));
+var PlayerStatisticsTransformer_1 = require("./transformers/PlayerStatisticsTransformer");
+var SofascoreScraper_1 = __importDefault(require("./scrapers/SofascoreScraper"));
 var SELECTORS = {
     agreement: "#onetrust-accept-btn-handler",
     bookieRow: "#odds-data-table > div:nth-child(1) > table > tbody > tr",
@@ -101,6 +104,11 @@ var options = {
     },
     blockedDomains: [],
     selectors: SELECTORS,
+    opts: {
+        leagueCode: 302,
+        seasonCode: 57044,
+        totalRounds: 29,
+    },
 };
 // Redis connection configuration
 var REDIS_CONFIG = {
@@ -300,7 +308,7 @@ function addScrapingJobs(opt) {
                 case 0:
                     season = opt.season, country = opt.country, league = opt.league, sport = opt.sport;
                     baseURL = "https://www.oddsportal.com";
-                    if (season !== (new Date().getFullYear()).toString()) {
+                    if (season !== new Date().getFullYear().toString()) {
                         URL = "".concat(baseURL, "/").concat(sport, "/").concat(country, "/").concat(league, "-").concat(season, "/results/");
                     }
                     else {
@@ -405,6 +413,164 @@ function addScrapingJobs(opt) {
         });
     });
 }
+function crawlSofascoreRL() {
+    return __awaiter(this, void 0, void 0, function () {
+        var dataSource, transformer, scraper, results, data, _i, results_1, result, url, opt, jobs;
+        return __generator(this, function (_a) {
+            switch (_a.label) {
+                case 0:
+                    dataSource = new CouchDBDataSource_1.default("http://admin:Omokhudu1987@127.0.0.1:5984", "rugby-results");
+                    transformer = new PlayerStatisticsTransformer_1.PlayerStatisticTransformer([]);
+                    scraper = new SofascoreScraper_1.default(options, {
+                        lineups: transformer,
+                    }, dataSource);
+                    return [4 /*yield*/, scraper.crawl("")];
+                case 1:
+                    results = _a.sent();
+                    data = [];
+                    _i = 0, results_1 = results;
+                    _a.label = 2;
+                case 2:
+                    if (!(_i < results_1.length)) return [3 /*break*/, 5];
+                    result = results_1[_i];
+                    url = result.matchId;
+                    opt = __assign({}, result);
+                    return [4 /*yield*/, data.push({ url: url, opt: opt })];
+                case 3:
+                    _a.sent();
+                    _a.label = 4;
+                case 4:
+                    _i++;
+                    return [3 /*break*/, 2];
+                case 5:
+                    jobs = data.map(function (_a) {
+                        var url = _a.url, opt = _a.opt;
+                        return ({
+                            name: "lineups",
+                            data: {
+                                url: url,
+                                opt: opt,
+                            },
+                            opts: {
+                                priority: 1,
+                                delay: 60000,
+                                attempts: 10,
+                                backoff: {
+                                    type: "exponential",
+                                    options: {
+                                        delay: 3000,
+                                        truncate: 5,
+                                    },
+                                },
+                                removeOnComplete: true,
+                                removeOnFail: false,
+                            },
+                        });
+                    });
+                    return [4 /*yield*/, scrapingQueue.addBulk(jobs)];
+                case 6:
+                    _a.sent();
+                    process.exit(1);
+                    return [2 /*return*/];
+            }
+        });
+    });
+}
+function processSofascoreJobs() {
+    return __awaiter(this, void 0, void 0, function () {
+        // Graceful shutdown handler
+        function gracefulShutdown() {
+            return __awaiter(this, void 0, void 0, function () {
+                var error_4;
+                return __generator(this, function (_a) {
+                    switch (_a.label) {
+                        case 0:
+                            _a.trys.push([0, 2, , 3]);
+                            return [4 /*yield*/, Promise.all([worker.close(), scrapingQueue.close()])];
+                        case 1:
+                            _a.sent();
+                            process.exit(0);
+                            return [3 /*break*/, 3];
+                        case 2:
+                            error_4 = _a.sent();
+                            console.error("Shutdown error:", error_4);
+                            process.exit(1);
+                            return [3 /*break*/, 3];
+                        case 3: return [2 /*return*/];
+                    }
+                });
+            });
+        }
+        var dataSource, matches, transformer, scraper, worker;
+        var _this = this;
+        return __generator(this, function (_a) {
+            switch (_a.label) {
+                case 0:
+                    dataSource = new CouchDBDataSource_1.default("http://admin:Omokhudu1987@127.0.0.1:5984", "rugby-results");
+                    return [4 /*yield*/, dataSource.fetch({
+                            selector: {
+                                league: { $eq: "super-league" },
+                                season: { $eq: 2024 }
+                            }
+                        })];
+                case 1:
+                    matches = _a.sent();
+                    console.log("KEKE");
+                    console.log(matches.length);
+                    if (matches.length === 0) {
+                        console.log("HERE");
+                        process.exit(1);
+                    }
+                    process.exit(1);
+                    transformer = new PlayerStatisticsTransformer_1.PlayerStatisticTransformer([]);
+                    scraper = new SofascoreScraper_1.default(options, {
+                        lineups: transformer,
+                    }, dataSource);
+                    worker = new bullmq_1.Worker(QUEUE_NAME, function (job) { return __awaiter(_this, void 0, void 0, function () {
+                        var _a, url, opt, result, error_5;
+                        return __generator(this, function (_b) {
+                            switch (_b.label) {
+                                case 0:
+                                    _b.trys.push([0, 2, , 3]);
+                                    _a = job.data, url = _a.url, opt = _a.opt;
+                                    return [4 /*yield*/, scraper.scrape(url, opt)];
+                                case 1:
+                                    result = _b.sent();
+                                    return [2 /*return*/, result];
+                                case 2:
+                                    error_5 = _b.sent();
+                                    throw error_5;
+                                case 3: return [2 /*return*/];
+                            }
+                        });
+                    }); }, __assign(__assign({}, REDIS_CONFIG), { concurrency: 1, maxStalledCount: 5, limiter: {
+                            max: 100,
+                            duration: 1000 * 60, // 1 minute
+                        } }));
+                    // Register shutdown handlers
+                    process.on("SIGTERM", gracefulShutdown);
+                    process.on("SIGINT", gracefulShutdown);
+                    // Event handlers with type-safe callbacks
+                    worker.on("completed", function (job, _) {
+                        console.log("Job ".concat(job.id, " completed"));
+                    });
+                    worker.on("failed", function (job, error, prev) {
+                        if (job) {
+                            console.error("Job ".concat(job.id, " failed:"), error.message);
+                        }
+                        else {
+                            console.error("Job failed:", error.message);
+                        }
+                    });
+                    // Error handler for worker events
+                    worker.on("error", function (error) {
+                        console.error("Worker error:", error);
+                    });
+                    return [2 /*return*/];
+            }
+        });
+    });
+}
 function retryAllFailed() {
     return __awaiter(this, void 0, void 0, function () {
         var failedJobs, _i, failedJobs_1, job;
@@ -453,6 +619,14 @@ program
     .command("retry-failed")
     .description("requeue failed redis queue")
     .action(retryAllFailed);
+program
+    .command("crawl-sofascore")
+    .description("Crawl sofa score")
+    .action(crawlSofascoreRL);
+program
+    .command("scrape-sofascore")
+    .description("Scrape sofa score")
+    .action(processSofascoreJobs);
 program
     .command("delete")
     .argument("<league>", "League name")

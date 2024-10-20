@@ -12,7 +12,13 @@ import OneTimesTwoTransformer from "./transformers/OneTimesTwoTransformer";
 import BookiesMapping from "./transformers/tests/fixtures/bookies_mapping.json";
 import TotalsTransformer from "./transformers/TotalsTransformer";
 import { readJsonFile } from "./utils";
-import { MatchTransformedData } from "./transformers/ITransformer";
+import {
+  MatchTransformedData,
+  MatchWithPlayerData,
+} from "./transformers/ITransformer";
+import CouchDBDatasource from "./datasource/CouchDBDataSource";
+import { PlayerStatisticTransformer } from "./transformers/PlayerStatisticsTransformer";
+import SofascoreScraper from "./scrapers/SofascoreScraper";
 
 const SELECTORS = {
   agreement: "#onetrust-accept-btn-handler",
@@ -54,6 +60,11 @@ const options: JSONScraperOptions = {
   },
   blockedDomains: [],
   selectors: SELECTORS as unknown as Selector,
+  opts: {
+    leagueCode: 302,
+    seasonCode: 57044,
+    totalRounds: 29,
+  },
 };
 
 interface LeagueOpt {
@@ -256,7 +267,7 @@ async function addScrapingJobs(opt: LeagueOpt): Promise<void> {
 
   const baseURL = "https://www.oddsportal.com";
 
-  if (season !== (new Date().getFullYear()).toString()) {
+  if (season !== new Date().getFullYear().toString()) {
     URL = `${baseURL}/${sport}/${country}/${league}-${season}/results/`;
   } else {
     URL = `${baseURL}/${sport}/${country}/${league}/results/`;
@@ -336,6 +347,144 @@ async function addScrapingJobs(opt: LeagueOpt): Promise<void> {
   await scrapingQueue.addBulk(jobs);
   process.exit(1);
 }
+async function crawlSofascoreRL(): Promise<void> {
+  const dataSource = new CouchDBDatasource(
+    "http://admin:Omokhudu1987@127.0.0.1:5984",
+    "rugby-results"
+  );
+
+  const transformer = new PlayerStatisticTransformer([]);
+
+  const scraper = new SofascoreScraper(
+    options,
+    {
+      lineups: transformer,
+    },
+    dataSource
+  );
+  const results = await scraper.crawl("");
+
+  let data = [];
+  for (const result of results) {
+    const url = result.matchId as string;
+    const opt = {
+      ...result,
+    };
+    await data.push({ url, opt });
+  }
+
+  const jobs = data.map(({ url, opt }) => ({
+    name: "lineups",
+    data: {
+      url,
+      opt,
+    },
+    opts: {
+      priority: 1,
+      delay: 60000,
+      attempts: 10,
+      backoff: {
+        type: "exponential",
+        options: {
+          delay: 3000,
+          truncate: 5,
+        },
+      },
+      removeOnComplete: true,
+      removeOnFail: false,
+    },
+  }));
+
+  await scrapingQueue.addBulk(jobs);
+  process.exit(1);
+}
+
+async function processSofascoreJobs() {
+
+  const dataSource = new CouchDBDatasource(
+    "http://admin:Omokhudu1987@127.0.0.1:5984",
+    "rugby-results"
+  );
+
+  // only needed in the function to scrap
+
+
+  const transformer = new PlayerStatisticTransformer();
+
+  const scraper = new SofascoreScraper(
+    options,
+    {
+      lineups: transformer,
+    },
+    dataSource
+  );
+  // Process tasks from the queue
+  const worker = new Worker<ScrapingJob, ScrapingResult>(
+    QUEUE_NAME,
+    async (job: Job<ScrapingJob>): Promise<ScrapingResult> => {
+      try {
+        const { url, opt } = job.data as ScrapingJob;
+        const result = await scraper.scrape(url, opt);
+  
+        return result as unknown as ScrapingResult;
+      } catch (error) {
+        throw error;
+      }
+    },
+    {
+      ...REDIS_CONFIG,
+      concurrency: 1,
+      maxStalledCount: 5,
+      limiter: {
+        max: 100,
+        duration: 1000 * 60, // 1 minute
+      },
+    }
+  );
+
+  // Graceful shutdown handler
+  async function gracefulShutdown(): Promise<void> {
+    try {
+      await Promise.all([worker.close(), scrapingQueue.close()]);
+      process.exit(0);
+    } catch (error) {
+      console.error("Shutdown error:", error);
+      process.exit(1);
+    }
+  }
+
+  // Register shutdown handlers
+  process.on("SIGTERM", gracefulShutdown);
+  process.on("SIGINT", gracefulShutdown);
+
+  // Event handlers with type-safe callbacks
+  worker.on(
+    "completed",
+    (job: Job<ScrapingJob, ScrapingResult>, _: ScrapingResult) => {
+      console.log(`Job ${job.id} completed`);
+    }
+  );
+
+  worker.on(
+    "failed",
+    (
+      job: Job<ScrapingJob, ScrapingResult, string> | undefined,
+      error: Error,
+      prev?: string
+    ) => {
+      if (job) {
+        console.error(`Job ${job.id} failed:`, error.message);
+      } else {
+        console.error("Job failed:", error.message);
+      }
+    }
+  );
+
+  // Error handler for worker events
+  worker.on("error", (error: Error) => {
+    console.error("Worker error:", error);
+  });
+}
 
 async function retryAllFailed() {
   // Get all failed jobs
@@ -371,6 +520,16 @@ program
   .command("retry-failed")
   .description("requeue failed redis queue")
   .action(retryAllFailed);
+
+program
+  .command("crawl-sofascore")
+  .description("Crawl sofa score")
+  .action(crawlSofascoreRL);
+
+program
+  .command("scrape-sofascore")
+  .description("Scrape sofa score")
+  .action(processSofascoreJobs);
 
 program
   .command("delete")

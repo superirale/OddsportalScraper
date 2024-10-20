@@ -8,6 +8,12 @@ import Itransformer, {
 
 export default class OneTimesTwoTransformer implements Itransformer {
   constructor(readonly key: string, readonly bookiesMapping: BookiesMapping) {}
+  setContextData<T>(contextData: T): void {
+    throw new Error("Method not implemented.");
+  }
+  getContextData<T>(): T {
+    throw new Error("Method not implemented.");
+  }
   public transform(inputData: OneTimesTwoRawData): TransformedData {
     const closingOdds = get(inputData.d.oddsdata.back[this.key], "odds", {});
     const openingOdds = get(

@@ -1,0 +1,8 @@
+node_modules
+.vscode
+dist
+data
+log.txt
+dump.rdb
+test.js
+

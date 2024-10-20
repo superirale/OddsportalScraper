@@ -85,9 +85,10 @@ export enum PlayerPosition {
   standoff = "stand-off",
   halfback = "halfback",
   prop = "prop",
-  secondRow = "second-row",
+  secondrow = "second-row",
   lock = "lock",
   hooker = "hooker",
+  interchange = "interchange",
 }
 
 export interface matchData {
@@ -106,8 +107,16 @@ export
   }
 }
 
+export interface PlayerPositionRaw 
+{
+  player: {
+    name: string;
+    position: PlayerPosition;
+  }
+}
+
 export interface PlayerTransformedData {
-  position: PlayerPosition;
+  position?: PlayerPosition;
   name: string;
   tries: number;
   tryAssists: number;
@@ -133,7 +142,15 @@ export interface PlayerTransformedData {
   redCard: number;
 }
 
-export type RawData = OneTimesTwoRawData | AsianHandicapAndTotalsRawData | MatchRawData | PlayerTransformedData;
+export interface MatchWithPlayerData {
+  date: string;
+  homeTeamName: string;
+  awayTeamName: string;
+  homeLineup?: { playerStats?: PlayerTransformedData[] };
+  awayLineup?: { playerStats?: PlayerTransformedData[] };
+}
+
+export type RawData = OneTimesTwoRawData | AsianHandicapAndTotalsRawData | MatchRawData | PlayerPositionRaw;
 
 export interface MatchTransformedData {
   homeTeamName: string;
@@ -155,4 +172,6 @@ export interface BookiesMapping {
 
 export default interface Itransformer {
   transform(inputData: RawData): TransformedData;
+  setContextData<T>(contextData: T): void;
+  getContextData<T>(): T;
 }

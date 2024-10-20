@@ -17,6 +17,7 @@ export interface JSONScraperOptions {
   };
   blockedDomains?: string[];
   selectors: Selector;
+  opts?: Record<string, unknown>;
 }
 
 export interface Selector {
@@ -36,6 +37,6 @@ export interface Selector {
 }
 
 export default interface IScraper {
-  crawl(url: string): Promise<string[] | MatchTransformedData[]>;
-  scrape(url: string, opt?: Record<string, unknown>): Promise<MatchOddsData>;
+  crawl(url: string): Promise<string[] | Record<string, unknown>[] | MatchTransformedData[]>;
+  scrape(url: string, opt?: Record<string, unknown>): Promise<MatchOddsData | Record<string, unknown>>;
 }
