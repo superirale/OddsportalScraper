@@ -65,6 +65,7 @@ var utils_1 = require("./utils");
 var CouchDBDataSource_1 = __importDefault(require("./datasource/CouchDBDataSource"));
 var PlayerStatisticsTransformer_1 = require("./transformers/PlayerStatisticsTransformer");
 var SofascoreScraper_1 = __importDefault(require("./scrapers/SofascoreScraper"));
+var Logger_1 = __importDefault(require("./utils/Logger"));
 var SELECTORS = {
     agreement: "#onetrust-accept-btn-handler",
     bookieRow: "#odds-data-table > div:nth-child(1) > table > tbody > tr",
@@ -415,15 +416,16 @@ function addScrapingJobs(opt) {
 }
 function crawlSofascoreRL() {
     return __awaiter(this, void 0, void 0, function () {
-        var dataSource, transformer, scraper, results, data, _i, results_1, result, url, opt, jobs;
+        var dataSource, logger, transformer, scraper, results, data, _i, results_1, result, url, opt, jobs;
         return __generator(this, function (_a) {
             switch (_a.label) {
                 case 0:
                     dataSource = new CouchDBDataSource_1.default("http://admin:Omokhudu1987@127.0.0.1:5984", "rugby-results");
-                    transformer = new PlayerStatisticsTransformer_1.PlayerStatisticTransformer([]);
+                    logger = new Logger_1.default();
+                    transformer = new PlayerStatisticsTransformer_1.PlayerStatisticTransformer(logger);
                     scraper = new SofascoreScraper_1.default(options, {
                         lineups: transformer,
-                    }, dataSource);
+                    }, dataSource, logger);
                     return [4 /*yield*/, scraper.crawl("")];
                 case 1:
                     results = _a.sent();
@@ -501,73 +503,56 @@ function processSofascoreJobs() {
                 });
             });
         }
-        var dataSource, matches, transformer, scraper, worker;
+        var dataSource, logger, transformer, scraper, worker;
         var _this = this;
         return __generator(this, function (_a) {
-            switch (_a.label) {
-                case 0:
-                    dataSource = new CouchDBDataSource_1.default("http://admin:Omokhudu1987@127.0.0.1:5984", "rugby-results");
-                    return [4 /*yield*/, dataSource.fetch({
-                            selector: {
-                                league: { $eq: "super-league" },
-                                season: { $eq: 2024 }
-                            }
-                        })];
-                case 1:
-                    matches = _a.sent();
-                    console.log("KEKE");
-                    console.log(matches.length);
-                    if (matches.length === 0) {
-                        console.log("HERE");
-                        process.exit(1);
+            dataSource = new CouchDBDataSource_1.default("http://admin:Omokhudu1987@127.0.0.1:5984", "rugby-results");
+            logger = new Logger_1.default();
+            transformer = new PlayerStatisticsTransformer_1.PlayerStatisticTransformer(logger);
+            scraper = new SofascoreScraper_1.default(options, {
+                lineups: transformer,
+            }, dataSource, logger);
+            worker = new bullmq_1.Worker(QUEUE_NAME, function (job) { return __awaiter(_this, void 0, void 0, function () {
+                var _a, url, opt, result, error_5;
+                return __generator(this, function (_b) {
+                    switch (_b.label) {
+                        case 0:
+                            _b.trys.push([0, 2, , 3]);
+                            _a = job.data, url = _a.url, opt = _a.opt;
+                            return [4 /*yield*/, scraper.scrape(url, opt)];
+                        case 1:
+                            result = _b.sent();
+                            return [2 /*return*/, result];
+                        case 2:
+                            error_5 = _b.sent();
+                            throw error_5;
+                        case 3: return [2 /*return*/];
                     }
-                    process.exit(1);
-                    transformer = new PlayerStatisticsTransformer_1.PlayerStatisticTransformer([]);
-                    scraper = new SofascoreScraper_1.default(options, {
-                        lineups: transformer,
-                    }, dataSource);
-                    worker = new bullmq_1.Worker(QUEUE_NAME, function (job) { return __awaiter(_this, void 0, void 0, function () {
-                        var _a, url, opt, result, error_5;
-                        return __generator(this, function (_b) {
-                            switch (_b.label) {
-                                case 0:
-                                    _b.trys.push([0, 2, , 3]);
-                                    _a = job.data, url = _a.url, opt = _a.opt;
-                                    return [4 /*yield*/, scraper.scrape(url, opt)];
-                                case 1:
-                                    result = _b.sent();
-                                    return [2 /*return*/, result];
-                                case 2:
-                                    error_5 = _b.sent();
-                                    throw error_5;
-                                case 3: return [2 /*return*/];
-                            }
-                        });
-                    }); }, __assign(__assign({}, REDIS_CONFIG), { concurrency: 1, maxStalledCount: 5, limiter: {
-                            max: 100,
-                            duration: 1000 * 60, // 1 minute
-                        } }));
-                    // Register shutdown handlers
-                    process.on("SIGTERM", gracefulShutdown);
-                    process.on("SIGINT", gracefulShutdown);
-                    // Event handlers with type-safe callbacks
-                    worker.on("completed", function (job, _) {
-                        console.log("Job ".concat(job.id, " completed"));
-                    });
-                    worker.on("failed", function (job, error, prev) {
-                        if (job) {
-                            console.error("Job ".concat(job.id, " failed:"), error.message);
-                        }
-                        else {
-                            console.error("Job failed:", error.message);
-                        }
-                    });
-                    // Error handler for worker events
-                    worker.on("error", function (error) {
-                        console.error("Worker error:", error);
-                    });
-                    return [2 /*return*/];
-            }
+                });
+            }); }, __assign(__assign({}, REDIS_CONFIG), { concurrency: 1, maxStalledCount: 5, limiter: {
+                    max: 100,
+                    duration: 1000 * 60, // 1 minute
+                } }));
+            // Register shutdown handlers
+            process.on("SIGTERM", gracefulShutdown);
+            process.on("SIGINT", gracefulShutdown);
+            // Event handlers with type-safe callbacks
+            worker.on("completed", function (job, _) {
+                console.log("Job ".concat(job.id, " completed"));
+            });
+            worker.on("failed", function (job, error, prev) {
+                if (job) {
+                    console.error("Job ".concat(job.id, " failed:"), error.message);
+                }
+                else {
+                    console.error("Job failed:", error.message);
+                }
+            });
+            // Error handler for worker events
+            worker.on("error", function (error) {
+                console.error("Worker error:", error);
+            });
+            return [2 /*return*/];
         });
     });
 }

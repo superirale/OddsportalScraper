@@ -19,6 +19,7 @@ import {
 import CouchDBDatasource from "./datasource/CouchDBDataSource";
 import { PlayerStatisticTransformer } from "./transformers/PlayerStatisticsTransformer";
 import SofascoreScraper from "./scrapers/SofascoreScraper";
+import Logger from "./utils/Logger";
 
 const SELECTORS = {
   agreement: "#onetrust-accept-btn-handler",
@@ -353,14 +354,17 @@ async function crawlSofascoreRL(): Promise<void> {
     "rugby-results"
   );
 
-  const transformer = new PlayerStatisticTransformer([]);
+  const logger = new Logger();
+
+  const transformer = new PlayerStatisticTransformer<MatchWithPlayerData>(logger);
 
   const scraper = new SofascoreScraper(
     options,
     {
       lineups: transformer,
     },
-    dataSource
+    dataSource,
+    logger
   );
   const results = await scraper.crawl("");
 
@@ -406,17 +410,19 @@ async function processSofascoreJobs() {
     "rugby-results"
   );
 
+  const logger = new Logger();
+
   // only needed in the function to scrap
 
-
-  const transformer = new PlayerStatisticTransformer();
+  const transformer = new PlayerStatisticTransformer<MatchWithPlayerData>(logger);
 
   const scraper = new SofascoreScraper(
     options,
     {
       lineups: transformer,
     },
-    dataSource
+    dataSource,
+    logger,
   );
   // Process tasks from the queue
   const worker = new Worker<ScrapingJob, ScrapingResult>(

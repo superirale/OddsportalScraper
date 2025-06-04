@@ -5,4 +5,6 @@ data
 log.txt
 dump.rdb
 test.js
+error.log
+info.log
 

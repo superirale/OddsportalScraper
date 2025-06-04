@@ -4,6 +4,12 @@ var TotalsTransformer = /** @class */ (function () {
     function TotalsTransformer(bookiesMapping) {
         this.bookiesMapping = bookiesMapping;
     }
+    TotalsTransformer.prototype.setContextData = function (contextData) {
+        throw new Error("Method not implemented.");
+    };
+    TotalsTransformer.prototype.getContextData = function () {
+        throw new Error("Method not implemented.");
+    };
     TotalsTransformer.prototype.transform = function (inputData) {
         var result = {};
         var data = inputData.d.oddsdata.back;

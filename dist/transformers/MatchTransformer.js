@@ -7,6 +7,12 @@ var moment_1 = __importDefault(require("moment"));
 var MatchTransformer = /** @class */ (function () {
     function MatchTransformer() {
     }
+    MatchTransformer.prototype.setContextData = function (contextData) {
+        throw new Error("Method not implemented.");
+    };
+    MatchTransformer.prototype.getContextData = function () {
+        throw new Error("Method not implemented.");
+    };
     MatchTransformer.prototype.transform = function (inputData) {
         var result = [];
         var data = inputData.d;

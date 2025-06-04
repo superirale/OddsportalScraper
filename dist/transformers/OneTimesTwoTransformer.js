@@ -6,6 +6,12 @@ var OneTimesTwoTransformer = /** @class */ (function () {
         this.key = key;
         this.bookiesMapping = bookiesMapping;
     }
+    OneTimesTwoTransformer.prototype.setContextData = function (contextData) {
+        throw new Error("Method not implemented.");
+    };
+    OneTimesTwoTransformer.prototype.getContextData = function () {
+        throw new Error("Method not implemented.");
+    };
     OneTimesTwoTransformer.prototype.transform = function (inputData) {
         var closingOdds = (0, lodash_1.get)(inputData.d.oddsdata.back[this.key], "odds", {});
         var openingOdds = (0, lodash_1.get)(inputData.d.oddsdata.back[this.key], "openingOdd", {});

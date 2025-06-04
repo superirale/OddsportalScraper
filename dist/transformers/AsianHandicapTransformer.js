@@ -4,6 +4,12 @@ var AsianHandicapTransformer = /** @class */ (function () {
     function AsianHandicapTransformer(bookiesMapping) {
         this.bookiesMapping = bookiesMapping;
     }
+    AsianHandicapTransformer.prototype.setContextData = function (contextData) {
+        throw new Error("Method not implemented.");
+    };
+    AsianHandicapTransformer.prototype.getContextData = function () {
+        throw new Error("Method not implemented.");
+    };
     AsianHandicapTransformer.prototype.transform = function (inputData) {
         var result = {};
         var data = inputData.d.oddsdata.back;

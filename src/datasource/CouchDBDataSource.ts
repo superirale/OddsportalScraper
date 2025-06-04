@@ -24,6 +24,7 @@ class CouchDBDatasource implements IDatasource {
   async fetch<T>(queryOpt: Record<string, unknown>): Promise<T> {
     try {
       const response = await this.db.find(queryOpt);
+      
       if (response?.docs.length) {
         return response.docs as T;
       }

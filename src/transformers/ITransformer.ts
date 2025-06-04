@@ -143,11 +143,14 @@ export interface PlayerTransformedData {
 }
 
 export interface MatchWithPlayerData {
+  _id: string;
   date: string;
   homeTeamName: string;
   awayTeamName: string;
-  homeLineup?: { playerStats?: PlayerTransformedData[] };
-  awayLineup?: { playerStats?: PlayerTransformedData[] };
+  homeLineUp?: { playerStats?: PlayerTransformedData[] };
+  awayLineUp?: { playerStats?: PlayerTransformedData[] };
+  sofascoreMatchId: string;
+  key?: string;
 }
 
 export type RawData = OneTimesTwoRawData | AsianHandicapAndTotalsRawData | MatchRawData | PlayerPositionRaw;
